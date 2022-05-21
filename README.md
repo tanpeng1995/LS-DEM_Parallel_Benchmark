@@ -1,6 +1,8 @@
 # LS-DEM
-This is Peng Tan's code for LS-DEM
-For more details, go into each folder and there will be more explanations
+- This is Peng Tan's code for LS-DEM
+- For more details, go into each folder and there will be more explanations
+- Code is ready, but to use it, need to modify to run them in your local machine, like file path, dependencies
+- The code is rather specified for a particular problem, to model more problems, need to create different environment for it
 
 ## LSDEM_Parallel
 - this is the major code used for simulate the triaxial compression test, this is the most reliable one
