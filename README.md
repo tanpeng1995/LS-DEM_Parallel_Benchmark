@@ -40,3 +40,6 @@ For more details, go into each folder and there will be more explanations
 
 ## vtk
 - all visualization code
+
+## sparse_representation
+- image super-resolution with sparse representation, this is part of my CS289 project, it contains a fully working jupyter-notebook
