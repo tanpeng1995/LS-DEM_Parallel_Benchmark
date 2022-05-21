@@ -26,4 +26,16 @@ For more details, go into each folder and there will be more explanations
 - to study the effect of particle shape, this code simulate spherical particle with equivalent volume as LS avatars
 - the same contact model and parameters are used.
 
+## LSDEM_Settle
+- for low-resolution reconstruction, need to make the particle to settle down
+
+## LSDEM_Stablize
+- for low-resolution reconstruction, the next step after settlement is to reduce internal stress generated inside the sample
+
+## LSDEM_Test
+- this is used to benchmark the performance of parallel code
+
+## LSDEM_Test_ducplicate
+- for very large parallel benchmark problem, we duplicated some avatars from existing ones, e.g, to expand the domain of size 200x200x200 to 400x400x400 by duplicating 8 copies of existing avatars
+
 
