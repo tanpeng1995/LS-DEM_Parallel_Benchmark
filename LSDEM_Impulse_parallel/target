@@ -1,0 +1,1434 @@
+dimZ: 1 dimY: 1 dimX: 1
+finish building USING_COMM...
+finish constructing linked-list...
+finish buiding wallPlane and wallCap...
+finish creating bin, blocks and allocating memories...
+finish loading 0 grains
+finish loading 100 grains
+finish loading 200 grains
+finish loading 300 grains
+finish loading 400 grains
+finish loading 500 grains
+finish loading 600 grains
+finish loading 700 grains
+finish loading 800 grains
+finish loading 900 grains
+finish loading 1000 grains
+finish loading 1100 grains
+finish loading 1200 grains
+finish loading 1300 grains
+finish loading 1400 grains
+finish loading 1500 grains
+################## LS-DEM #####################
+Begin Simulation and Good Luck, Author: Peng TAN (Berkeley)
+Used processor(s) is: 1 Time-Step: 0.001 tmax: 501
+For mass scaling, minMass: 0 maxMass: 0
+Using impulse-based DEM, parallel benchmark 
+Output Directory: /global/scratch/users/tanpeng/LSDEM_Modelling/Output/uniform_impulse_2/
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 8.1e-08 seconds. T2 = 0.325176 seconds. T3 = 0.000293646
+ T4 = 0.000223478 seconds. T5 = 3.1062e-05 seconds. T6 = 0.137582
+ T7 = 0.0301431 seconds. T8 = 0.0388116 seconds. T9 = 4.2e-08
+THIS IS ITERATION: 0 kinematic energy is: 5.81198e+06 max velocity is: 3.0818 max Omega is: 7.52199e-09
+number of islands: 1592
+Largest contact list is: 2
+number of islands: 1595
+Largest contact list is: 2
+number of islands: 1590
+Largest contact list is: 3
+number of islands: 1592
+Largest contact list is: 2
+number of islands: 1593
+Largest contact list is: 2
+ T1 = 6.15e-07 seconds. T2 = 1.58011 seconds. T3 = 0.00163296
+ T4 = 0.00129966 seconds. T5 = 5.5573e-05 seconds. T6 = 0.76076
+ T7 = 0.178282 seconds. T8 = 0.226979 seconds. T9 = 2.13e-07
+THIS IS ITERATION: 5 kinematic energy is: 5.6421e+06 max velocity is: 3.05876 max Omega is: 0.00891038
+number of islands: 1593
+Largest contact list is: 2
+number of islands: 1593
+Largest contact list is: 2
+number of islands: 1594
+Largest contact list is: 3
+number of islands: 1598
+Largest contact list is: 1
+number of islands: 1597
+Largest contact list is: 2
+ T1 = 9.09e-07 seconds. T2 = 2.78165 seconds. T3 = 0.00292538
+ T4 = 0.00232002 seconds. T5 = 7.519e-05 seconds. T6 = 1.359
+ T7 = 0.321515 seconds. T8 = 0.40905 seconds. T9 = 3.94e-07
+THIS IS ITERATION: 10 kinematic energy is: 5.55805e+06 max velocity is: 3.03589 max Omega is: 0.00884376
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1598
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 1.239e-06 seconds. T2 = 4.06132 seconds. T3 = 0.00432023
+ T4 = 0.00338191 seconds. T5 = 9.8451e-05 seconds. T6 = 1.99818
+ T7 = 0.471951 seconds. T8 = 0.60294 seconds. T9 = 5.73e-07
+THIS IS ITERATION: 15 kinematic energy is: 5.47512e+06 max velocity is: 3.01319 max Omega is: 0.00877763
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 1.602e-06 seconds. T2 = 5.34126 seconds. T3 = 0.00565454
+ T4 = 0.00441467 seconds. T5 = 0.000123349 seconds. T6 = 2.63504
+ T7 = 0.622504 seconds. T8 = 0.796899 seconds. T9 = 7.3e-07
+THIS IS ITERATION: 20 kinematic energy is: 5.3935e+06 max velocity is: 2.99066 max Omega is: 0.00871199
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.909e-06 seconds. T2 = 6.62456 seconds. T3 = 0.00699648
+ T4 = 0.00548623 seconds. T5 = 0.000146606 seconds. T6 = 3.27115
+ T7 = 0.772743 seconds. T8 = 0.990696 seconds. T9 = 9.12e-07
+THIS IS ITERATION: 25 kinematic energy is: 5.31314e+06 max velocity is: 2.96829 max Omega is: 0.00864685
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.213e-06 seconds. T2 = 7.91857 seconds. T3 = 0.00836322
+ T4 = 0.006617 seconds. T5 = 0.000171734 seconds. T6 = 3.91091
+ T7 = 0.923298 seconds. T8 = 1.18473 seconds. T9 = 1.069e-06
+THIS IS ITERATION: 30 kinematic energy is: 5.23397e+06 max velocity is: 2.9461 max Omega is: 0.00858219
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.524e-06 seconds. T2 = 9.19821 seconds. T3 = 0.00969213
+ T4 = 0.00765411 seconds. T5 = 0.000201191 seconds. T6 = 4.54678
+ T7 = 1.07377 seconds. T8 = 1.37863 seconds. T9 = 1.24e-06
+THIS IS ITERATION: 35 kinematic energy is: 5.15599e+06 max velocity is: 2.92407 max Omega is: 0.00851802
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.829e-06 seconds. T2 = 10.4791 seconds. T3 = 0.0110084
+ T4 = 0.00869413 seconds. T5 = 0.000226902 seconds. T6 = 5.18279
+ T7 = 1.22426 seconds. T8 = 1.57232 seconds. T9 = 1.405e-06
+THIS IS ITERATION: 40 kinematic energy is: 5.07917e+06 max velocity is: 2.9022 max Omega is: 0.00845432
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 3.127e-06 seconds. T2 = 11.7597 seconds. T3 = 0.0123478
+ T4 = 0.00976006 seconds. T5 = 0.000253483 seconds. T6 = 5.81846
+ T7 = 1.37448 seconds. T8 = 1.76621 seconds. T9 = 1.583e-06
+THIS IS ITERATION: 45 kinematic energy is: 5.0035e+06 max velocity is: 2.8805 max Omega is: 0.0083911
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 3.435e-06 seconds. T2 = 13.0553 seconds. T3 = 0.0136594
+ T4 = 0.0107839 seconds. T5 = 0.000280775 seconds. T6 = 6.45602
+ T7 = 1.52479 seconds. T8 = 1.96014 seconds. T9 = 1.747e-06
+THIS IS ITERATION: 50 kinematic energy is: 4.92895e+06 max velocity is: 2.85896 max Omega is: 0.00832836
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 3.762e-06 seconds. T2 = 14.3351 seconds. T3 = 0.014973
+ T4 = 0.0118824 seconds. T5 = 0.000308582 seconds. T6 = 7.0919
+ T7 = 1.67516 seconds. T8 = 2.15389 seconds. T9 = 1.899e-06
+THIS IS ITERATION: 55 kinematic energy is: 4.85551e+06 max velocity is: 2.83758 max Omega is: 0.00826608
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 4.17e-06 seconds. T2 = 15.6152 seconds. T3 = 0.0162973
+ T4 = 0.0128979 seconds. T5 = 0.000333582 seconds. T6 = 7.72805
+ T7 = 1.82559 seconds. T8 = 2.34791 seconds. T9 = 2.047e-06
+THIS IS ITERATION: 60 kinematic energy is: 4.78317e+06 max velocity is: 2.81637 max Omega is: 0.00820427
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 4.495e-06 seconds. T2 = 16.9049 seconds. T3 = 0.0176109
+ T4 = 0.0139177 seconds. T5 = 0.000359101 seconds. T6 = 8.3692
+ T7 = 1.97616 seconds. T8 = 2.54197 seconds. T9 = 2.211e-06
+THIS IS ITERATION: 65 kinematic energy is: 4.7119e+06 max velocity is: 2.79531 max Omega is: 0.00814293
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 4.884e-06 seconds. T2 = 18.1846 seconds. T3 = 0.0189319
+ T4 = 0.0149503 seconds. T5 = 0.000383691 seconds. T6 = 9.00481
+ T7 = 2.12646 seconds. T8 = 2.73574 seconds. T9 = 2.369e-06
+THIS IS ITERATION: 70 kinematic energy is: 4.6417e+06 max velocity is: 2.77441 max Omega is: 0.00808204
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 5.189e-06 seconds. T2 = 19.4652 seconds. T3 = 0.0202435
+ T4 = 0.0159939 seconds. T5 = 0.000410228 seconds. T6 = 9.64128
+ T7 = 2.27717 seconds. T8 = 2.92977 seconds. T9 = 2.515e-06
+THIS IS ITERATION: 75 kinematic energy is: 4.57254e+06 max velocity is: 2.75366 max Omega is: 0.0080216
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 5.485e-06 seconds. T2 = 20.7457 seconds. T3 = 0.0215711
+ T4 = 0.0170285 seconds. T5 = 0.000435962 seconds. T6 = 10.2773
+ T7 = 2.42764 seconds. T8 = 3.12386 seconds. T9 = 2.685e-06
+THIS IS ITERATION: 80 kinematic energy is: 4.50441e+06 max velocity is: 2.73307 max Omega is: 0.00796162
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 5.874e-06 seconds. T2 = 22.0354 seconds. T3 = 0.0229254
+ T4 = 0.0180508 seconds. T5 = 0.00046216 seconds. T6 = 10.9169
+ T7 = 2.57829 seconds. T8 = 3.31771 seconds. T9 = 2.865e-06
+THIS IS ITERATION: 85 kinematic energy is: 4.4373e+06 max velocity is: 2.71263 max Omega is: 0.00790209
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1598
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 6.161e-06 seconds. T2 = 23.3149 seconds. T3 = 0.0242616
+ T4 = 0.0190724 seconds. T5 = 0.000488192 seconds. T6 = 11.5525
+ T7 = 2.7285 seconds. T8 = 3.51157 seconds. T9 = 3.032e-06
+THIS IS ITERATION: 90 kinematic energy is: 4.37129e+06 max velocity is: 2.69235 max Omega is: 0.00797181
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 6.481e-06 seconds. T2 = 24.5941 seconds. T3 = 0.0255718
+ T4 = 0.0201464 seconds. T5 = 0.000514169 seconds. T6 = 12.1885
+ T7 = 2.87889 seconds. T8 = 3.70542 seconds. T9 = 3.217e-06
+THIS IS ITERATION: 95 kinematic energy is: 4.30616e+06 max velocity is: 2.67222 max Omega is: 0.00791221
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 6.903e-06 seconds. T2 = 25.8852 seconds. T3 = 0.0269017
+ T4 = 0.021183 seconds. T5 = 0.000539138 seconds. T6 = 12.8261
+ T7 = 3.02928 seconds. T8 = 3.89926 seconds. T9 = 3.384e-06
+THIS IS ITERATION: 100 kinematic energy is: 4.242e+06 max velocity is: 2.65223 max Omega is: 0.00785304
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 7.221e-06 seconds. T2 = 27.1697 seconds. T3 = 0.0282105
+ T4 = 0.0222208 seconds. T5 = 0.00056336 seconds. T6 = 13.4618
+ T7 = 3.17964 seconds. T8 = 4.09296 seconds. T9 = 3.536e-06
+THIS IS ITERATION: 105 kinematic energy is: 4.1788e+06 max velocity is: 2.6324 max Omega is: 0.00779432
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 7.509e-06 seconds. T2 = 28.4488 seconds. T3 = 0.0295287
+ T4 = 0.0232476 seconds. T5 = 0.000585853 seconds. T6 = 14.0974
+ T7 = 3.32988 seconds. T8 = 4.28675 seconds. T9 = 3.706e-06
+THIS IS ITERATION: 110 kinematic energy is: 4.11653e+06 max velocity is: 2.61272 max Omega is: 0.00773604
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 7.849e-06 seconds. T2 = 29.7281 seconds. T3 = 0.0308656
+ T4 = 0.0242795 seconds. T5 = 0.000608355 seconds. T6 = 14.733
+ T7 = 3.48012 seconds. T8 = 4.48047 seconds. T9 = 3.876e-06
+THIS IS ITERATION: 115 kinematic energy is: 4.0552e+06 max velocity is: 2.59318 max Omega is: 0.00767819
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 8.202e-06 seconds. T2 = 31.0274 seconds. T3 = 0.0322085
+ T4 = 0.0252951 seconds. T5 = 0.000633441 seconds. T6 = 15.3703
+ T7 = 3.63029 seconds. T8 = 4.67431 seconds. T9 = 4.052e-06
+THIS IS ITERATION: 120 kinematic energy is: 3.99478e+06 max velocity is: 2.57379 max Omega is: 0.00762078
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 8.529e-06 seconds. T2 = 32.3076 seconds. T3 = 0.0335138
+ T4 = 0.0263825 seconds. T5 = 0.000660707 seconds. T6 = 16.0057
+ T7 = 3.78051 seconds. T8 = 4.86824 seconds. T9 = 4.215e-06
+THIS IS ITERATION: 125 kinematic energy is: 3.93526e+06 max velocity is: 2.55455 max Omega is: 0.00756379
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 8.872e-06 seconds. T2 = 33.5868 seconds. T3 = 0.0348404
+ T4 = 0.0274759 seconds. T5 = 0.000686001 seconds. T6 = 16.6415
+ T7 = 3.93083 seconds. T8 = 5.06209 seconds. T9 = 4.378e-06
+THIS IS ITERATION: 130 kinematic energy is: 3.87663e+06 max velocity is: 2.53544 max Omega is: 0.00750723
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 9.2e-06 seconds. T2 = 34.8661 seconds. T3 = 0.0361715
+ T4 = 0.0284982 seconds. T5 = 0.000710886 seconds. T6 = 17.2786
+ T7 = 4.08107 seconds. T8 = 5.25579 seconds. T9 = 4.561e-06
+THIS IS ITERATION: 135 kinematic energy is: 3.81917e+06 max velocity is: 2.51649 max Omega is: 0.00784357
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 9.543e-06 seconds. T2 = 36.155 seconds. T3 = 0.0374922
+ T4 = 0.0295656 seconds. T5 = 0.000743476 seconds. T6 = 17.9154
+ T7 = 4.23134 seconds. T8 = 5.4496 seconds. T9 = 4.704e-06
+THIS IS ITERATION: 140 kinematic energy is: 3.76226e+06 max velocity is: 2.49767 max Omega is: 0.00778492
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 9.837e-06 seconds. T2 = 37.4346 seconds. T3 = 0.0387925
+ T4 = 0.030588 seconds. T5 = 0.000769069 seconds. T6 = 18.5514
+ T7 = 4.38158 seconds. T8 = 5.64336 seconds. T9 = 4.874e-06
+THIS IS ITERATION: 145 kinematic energy is: 3.70621e+06 max velocity is: 2.47899 max Omega is: 0.00772671
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.0181e-05 seconds. T2 = 38.7143 seconds. T3 = 0.0401069
+ T4 = 0.0316084 seconds. T5 = 0.000794341 seconds. T6 = 19.1869
+ T7 = 4.53185 seconds. T8 = 5.8373 seconds. T9 = 5.059e-06
+THIS IS ITERATION: 150 kinematic energy is: 3.65099e+06 max velocity is: 2.46045 max Omega is: 0.00766893
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.0476e-05 seconds. T2 = 39.994 seconds. T3 = 0.0414472
+ T4 = 0.0326974 seconds. T5 = 0.000820328 seconds. T6 = 19.8226
+ T7 = 4.68207 seconds. T8 = 6.03105 seconds. T9 = 5.238e-06
+THIS IS ITERATION: 155 kinematic energy is: 3.59659e+06 max velocity is: 2.44206 max Omega is: 0.00761159
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.0788e-05 seconds. T2 = 41.2731 seconds. T3 = 0.0427869
+ T4 = 0.0337117 seconds. T5 = 0.000843858 seconds. T6 = 20.4583
+ T7 = 4.83223 seconds. T8 = 6.22485 seconds. T9 = 5.407e-06
+THIS IS ITERATION: 160 kinematic energy is: 3.54301e+06 max velocity is: 2.4238 max Omega is: 0.00755467
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.1185e-05 seconds. T2 = 42.5522 seconds. T3 = 0.0441504
+ T4 = 0.0347486 seconds. T5 = 0.000870737 seconds. T6 = 21.0945
+ T7 = 4.98243 seconds. T8 = 6.41866 seconds. T9 = 5.59e-06
+THIS IS ITERATION: 165 kinematic energy is: 3.49022e+06 max velocity is: 2.40567 max Omega is: 0.00749818
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.1509e-05 seconds. T2 = 43.8318 seconds. T3 = 0.0454533
+ T4 = 0.0357848 seconds. T5 = 0.000894502 seconds. T6 = 21.7303
+ T7 = 5.13271 seconds. T8 = 6.61283 seconds. T9 = 5.771e-06
+THIS IS ITERATION: 170 kinematic energy is: 3.43822e+06 max velocity is: 2.38768 max Omega is: 0.00744211
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.1813e-05 seconds. T2 = 45.1183 seconds. T3 = 0.0467575
+ T4 = 0.0368565 seconds. T5 = 0.000916811 seconds. T6 = 22.3696
+ T7 = 5.28431 seconds. T8 = 6.80755 seconds. T9 = 5.931e-06
+THIS IS ITERATION: 175 kinematic energy is: 3.38699e+06 max velocity is: 2.36983 max Omega is: 0.00738647
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.2147e-05 seconds. T2 = 46.4036 seconds. T3 = 0.0480891
+ T4 = 0.0379207 seconds. T5 = 0.000941233 seconds. T6 = 23.0096
+ T7 = 5.43505 seconds. T8 = 7.0014 seconds. T9 = 6.116e-06
+THIS IS ITERATION: 180 kinematic energy is: 3.33653e+06 max velocity is: 2.35211 max Omega is: 0.00733123
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.2533e-05 seconds. T2 = 47.6832 seconds. T3 = 0.0494242
+ T4 = 0.0389331 seconds. T5 = 0.000964883 seconds. T6 = 23.6457
+ T7 = 5.58523 seconds. T8 = 7.19527 seconds. T9 = 6.274e-06
+THIS IS ITERATION: 185 kinematic energy is: 3.28682e+06 max velocity is: 2.33452 max Omega is: 0.00727641
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.2821e-05 seconds. T2 = 48.9631 seconds. T3 = 0.0507207
+ T4 = 0.039967 seconds. T5 = 0.000990344 seconds. T6 = 24.2818
+ T7 = 5.73549 seconds. T8 = 7.38915 seconds. T9 = 6.444e-06
+THIS IS ITERATION: 190 kinematic energy is: 3.23785e+06 max velocity is: 2.31706 max Omega is: 0.007222
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.3112e-05 seconds. T2 = 50.2542 seconds. T3 = 0.0520376
+ T4 = 0.0410087 seconds. T5 = 0.00101452 seconds. T6 = 24.9206
+ T7 = 5.88668 seconds. T8 = 7.58587 seconds. T9 = 6.614e-06
+THIS IS ITERATION: 195 kinematic energy is: 3.1896e+06 max velocity is: 2.29974 max Omega is: 0.007168
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.3422e-05 seconds. T2 = 51.5334 seconds. T3 = 0.0533769
+ T4 = 0.0420344 seconds. T5 = 0.00103854 seconds. T6 = 25.5566
+ T7 = 6.03703 seconds. T8 = 7.77958 seconds. T9 = 6.773e-06
+THIS IS ITERATION: 200 kinematic energy is: 3.14208e+06 max velocity is: 2.28254 max Omega is: 0.0071144
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.3732e-05 seconds. T2 = 52.8123 seconds. T3 = 0.0546884
+ T4 = 0.0430694 seconds. T5 = 0.00106437 seconds. T6 = 26.1922
+ T7 = 6.18725 seconds. T8 = 7.97344 seconds. T9 = 6.95e-06
+THIS IS ITERATION: 205 kinematic energy is: 3.09527e+06 max velocity is: 2.26547 max Omega is: 0.0070612
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.4034e-05 seconds. T2 = 54.1082 seconds. T3 = 0.0560201
+ T4 = 0.0440916 seconds. T5 = 0.00109073 seconds. T6 = 26.8299
+ T7 = 6.33777 seconds. T8 = 8.16729 seconds. T9 = 7.105e-06
+THIS IS ITERATION: 210 kinematic energy is: 3.04915e+06 max velocity is: 2.24853 max Omega is: 0.0070084
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.4298e-05 seconds. T2 = 55.3869 seconds. T3 = 0.057332
+ T4 = 0.0451213 seconds. T5 = 0.00111812 seconds. T6 = 27.4659
+ T7 = 6.48804 seconds. T8 = 8.36145 seconds. T9 = 7.275e-06
+THIS IS ITERATION: 215 kinematic energy is: 3.00372e+06 max velocity is: 2.23172 max Omega is: 0.006956
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.4586e-05 seconds. T2 = 56.6659 seconds. T3 = 0.0586633
+ T4 = 0.0461372 seconds. T5 = 0.00114455 seconds. T6 = 28.1016
+ T7 = 6.63815 seconds. T8 = 8.55539 seconds. T9 = 7.441e-06
+THIS IS ITERATION: 220 kinematic energy is: 2.95897e+06 max velocity is: 2.21503 max Omega is: 0.00690398
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.4906e-05 seconds. T2 = 57.9556 seconds. T3 = 0.0600034
+ T4 = 0.0472245 seconds. T5 = 0.00117085 seconds. T6 = 28.7402
+ T7 = 6.78835 seconds. T8 = 8.74915 seconds. T9 = 7.625e-06
+THIS IS ITERATION: 225 kinematic energy is: 2.91488e+06 max velocity is: 2.19847 max Omega is: 0.00685236
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.517e-05 seconds. T2 = 59.2348 seconds. T3 = 0.0613237
+ T4 = 0.0482851 seconds. T5 = 0.00119702 seconds. T6 = 29.3762
+ T7 = 6.93858 seconds. T8 = 8.94318 seconds. T9 = 7.804e-06
+THIS IS ITERATION: 230 kinematic energy is: 2.87145e+06 max velocity is: 2.18203 max Omega is: 0.00680112
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.5461e-05 seconds. T2 = 60.5158 seconds. T3 = 0.0626597
+ T4 = 0.0493186 seconds. T5 = 0.00122218 seconds. T6 = 30.0153
+ T7 = 7.08879 seconds. T8 = 9.1372 seconds. T9 = 7.984e-06
+THIS IS ITERATION: 235 kinematic energy is: 2.82867e+06 max velocity is: 2.16571 max Omega is: 0.00675027
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.5754e-05 seconds. T2 = 61.8035 seconds. T3 = 0.0639629
+ T4 = 0.050335 seconds. T5 = 0.00124697 seconds. T6 = 30.6511
+ T7 = 7.23897 seconds. T8 = 9.33126 seconds. T9 = 8.165e-06
+THIS IS ITERATION: 240 kinematic energy is: 2.78652e+06 max velocity is: 2.14952 max Omega is: 0.00669979
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.6039e-05 seconds. T2 = 63.0833 seconds. T3 = 0.0652724
+ T4 = 0.05138 seconds. T5 = 0.0012743 seconds. T6 = 31.2871
+ T7 = 7.38914 seconds. T8 = 9.52526 seconds. T9 = 8.343e-06
+THIS IS ITERATION: 245 kinematic energy is: 2.74501e+06 max velocity is: 2.13345 max Omega is: 0.00664969
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1598
+Largest contact list is: 1
+number of islands: 1598
+Largest contact list is: 4
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 1.6306e-05 seconds. T2 = 64.3753 seconds. T3 = 0.0666268
+ T4 = 0.0524125 seconds. T5 = 0.00130035 seconds. T6 = 31.9279
+ T7 = 7.5399 seconds. T8 = 9.71905 seconds. T9 = 8.511e-06
+THIS IS ITERATION: 250 kinematic energy is: 2.69815e+06 max velocity is: 2.11749 max Omega is: 0.00659997
+number of islands: 1598
+Largest contact list is: 3
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1598
+Largest contact list is: 3
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1598
+Largest contact list is: 2
+ T1 = 1.6566e-05 seconds. T2 = 65.6542 seconds. T3 = 0.0680019
+ T4 = 0.0534536 seconds. T5 = 0.00132588 seconds. T6 = 32.5635
+ T7 = 7.68995 seconds. T8 = 9.91317 seconds. T9 = 8.688e-06
+THIS IS ITERATION: 255 kinematic energy is: 2.65788e+06 max velocity is: 2.10166 max Omega is: 0.00655062
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.6848e-05 seconds. T2 = 66.9334 seconds. T3 = 0.0693299
+ T4 = 0.054521 seconds. T5 = 0.00134874 seconds. T6 = 33.1996
+ T7 = 7.84024 seconds. T8 = 10.107 seconds. T9 = 8.873e-06
+THIS IS ITERATION: 260 kinematic energy is: 2.61828e+06 max velocity is: 2.08595 max Omega is: 0.00650163
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.7146e-05 seconds. T2 = 68.2329 seconds. T3 = 0.0706635
+ T4 = 0.055558 seconds. T5 = 0.00137194 seconds. T6 = 33.8371
+ T7 = 7.99047 seconds. T8 = 10.3008 seconds. T9 = 9.055e-06
+THIS IS ITERATION: 265 kinematic energy is: 2.57926e+06 max velocity is: 2.07035 max Omega is: 0.00645302
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 1.7436e-05 seconds. T2 = 69.5123 seconds. T3 = 0.0719811
+ T4 = 0.0565885 seconds. T5 = 0.00139773 seconds. T6 = 34.4733
+ T7 = 8.1409 seconds. T8 = 10.4949 seconds. T9 = 9.235e-06
+THIS IS ITERATION: 270 kinematic energy is: 2.54083e+06 max velocity is: 2.05487 max Omega is: 0.00640477
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.7692e-05 seconds. T2 = 70.7916 seconds. T3 = 0.0733018
+ T4 = 0.0576389 seconds. T5 = 0.0014253 seconds. T6 = 35.1094
+ T7 = 8.29115 seconds. T8 = 10.6887 seconds. T9 = 9.415e-06
+THIS IS ITERATION: 275 kinematic energy is: 2.50298e+06 max velocity is: 2.0395 max Omega is: 0.00635687
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.7966e-05 seconds. T2 = 72.0825 seconds. T3 = 0.0746776
+ T4 = 0.0586772 seconds. T5 = 0.00145733 seconds. T6 = 35.7464
+ T7 = 8.44137 seconds. T8 = 10.8826 seconds. T9 = 9.581e-06
+THIS IS ITERATION: 280 kinematic energy is: 2.46568e+06 max velocity is: 2.02425 max Omega is: 0.00630934
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.8251e-05 seconds. T2 = 73.3616 seconds. T3 = 0.0760259
+ T4 = 0.059707 seconds. T5 = 0.00148348 seconds. T6 = 36.3823
+ T7 = 8.59154 seconds. T8 = 11.0765 seconds. T9 = 9.767e-06
+THIS IS ITERATION: 285 kinematic energy is: 2.42894e+06 max velocity is: 2.00911 max Omega is: 0.00626216
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.8502e-05 seconds. T2 = 74.6415 seconds. T3 = 0.0773443
+ T4 = 0.0607711 seconds. T5 = 0.00150922 seconds. T6 = 37.0188
+ T7 = 8.74172 seconds. T8 = 11.2703 seconds. T9 = 9.948e-06
+THIS IS ITERATION: 290 kinematic energy is: 2.39276e+06 max velocity is: 1.99409 max Omega is: 0.00621534
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.8772e-05 seconds. T2 = 75.9217 seconds. T3 = 0.0786937
+ T4 = 0.0618496 seconds. T5 = 0.00153477 seconds. T6 = 37.655
+ T7 = 8.89208 seconds. T8 = 11.4643 seconds. T9 = 1.0149e-05
+THIS IS ITERATION: 295 kinematic energy is: 2.3571e+06 max velocity is: 1.97918 max Omega is: 0.00616886
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.9083e-05 seconds. T2 = 77.201 seconds. T3 = 0.0800121
+ T4 = 0.0629099 seconds. T5 = 0.00156146 seconds. T6 = 38.2909
+ T7 = 9.04235 seconds. T8 = 11.6581 seconds. T9 = 1.0321e-05
+THIS IS ITERATION: 300 kinematic energy is: 2.32198e+06 max velocity is: 1.96438 max Omega is: 0.00612273
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.9336e-05 seconds. T2 = 78.4799 seconds. T3 = 0.0813289
+ T4 = 0.063925 seconds. T5 = 0.00158648 seconds. T6 = 38.9267
+ T7 = 9.19253 seconds. T8 = 11.8521 seconds. T9 = 1.0501e-05
+THIS IS ITERATION: 305 kinematic energy is: 2.28739e+06 max velocity is: 1.94969 max Omega is: 0.00607695
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 1.9764e-05 seconds. T2 = 79.7623 seconds. T3 = 0.0826436
+ T4 = 0.0649961 seconds. T5 = 0.00161184 seconds. T6 = 39.5654
+ T7 = 9.34366 seconds. T8 = 12.0461 seconds. T9 = 1.0684e-05
+THIS IS ITERATION: 310 kinematic energy is: 2.25331e+06 max velocity is: 1.93511 max Omega is: 0.00603151
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.0043e-05 seconds. T2 = 81.0413 seconds. T3 = 0.0839459
+ T4 = 0.0660736 seconds. T5 = 0.0016404 seconds. T6 = 40.201
+ T7 = 9.49383 seconds. T8 = 12.2399 seconds. T9 = 1.0852e-05
+THIS IS ITERATION: 315 kinematic energy is: 2.21973e+06 max velocity is: 1.92064 max Omega is: 0.00598641
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.0314e-05 seconds. T2 = 82.32 seconds. T3 = 0.0852408
+ T4 = 0.0671182 seconds. T5 = 0.00166614 seconds. T6 = 40.8369
+ T7 = 9.64398 seconds. T8 = 12.439 seconds. T9 = 1.1024e-05
+THIS IS ITERATION: 320 kinematic energy is: 2.18666e+06 max velocity is: 1.90628 max Omega is: 0.00594165
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.0636e-05 seconds. T2 = 83.6104 seconds. T3 = 0.0865731
+ T4 = 0.0681339 seconds. T5 = 0.00169131 seconds. T6 = 41.4806
+ T7 = 9.79436 seconds. T8 = 12.6328 seconds. T9 = 1.121e-05
+THIS IS ITERATION: 325 kinematic energy is: 2.15368e+06 max velocity is: 1.89203 max Omega is: 0.00589722
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.0948e-05 seconds. T2 = 84.8893 seconds. T3 = 0.0878948
+ T4 = 0.0691476 seconds. T5 = 0.00171412 seconds. T6 = 42.1163
+ T7 = 9.94448 seconds. T8 = 12.8267 seconds. T9 = 1.1383e-05
+THIS IS ITERATION: 330 kinematic energy is: 2.1216e+06 max velocity is: 1.87788 max Omega is: 0.00585312
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.1203e-05 seconds. T2 = 86.1806 seconds. T3 = 0.0892384
+ T4 = 0.0702105 seconds. T5 = 0.00173791 seconds. T6 = 42.7538
+ T7 = 10.0946 seconds. T8 = 13.0207 seconds. T9 = 1.1567e-05
+THIS IS ITERATION: 335 kinematic energy is: 2.08998e+06 max velocity is: 1.86384 max Omega is: 0.00580935
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.1468e-05 seconds. T2 = 87.4626 seconds. T3 = 0.090561
+ T4 = 0.0712227 seconds. T5 = 0.00176349 seconds. T6 = 43.3899
+ T7 = 10.245 seconds. T8 = 13.2148 seconds. T9 = 1.1748e-05
+THIS IS ITERATION: 340 kinematic energy is: 2.05884e+06 max velocity is: 1.8499 max Omega is: 0.00576591
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.1713e-05 seconds. T2 = 88.7411 seconds. T3 = 0.0918706
+ T4 = 0.0722508 seconds. T5 = 0.00178749 seconds. T6 = 44.0256
+ T7 = 10.3951 seconds. T8 = 13.4089 seconds. T9 = 1.193e-05
+THIS IS ITERATION: 345 kinematic energy is: 2.02817e+06 max velocity is: 1.83607 max Omega is: 0.0057228
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.198e-05 seconds. T2 = 90.031 seconds. T3 = 0.0932154
+ T4 = 0.0733205 seconds. T5 = 0.00181151 seconds. T6 = 44.6644
+ T7 = 10.5455 seconds. T8 = 13.6029 seconds. T9 = 1.2113e-05
+THIS IS ITERATION: 350 kinematic energy is: 1.99795e+06 max velocity is: 1.82234 max Omega is: 0.00568001
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.2248e-05 seconds. T2 = 91.3104 seconds. T3 = 0.0945223
+ T4 = 0.07435 seconds. T5 = 0.00183437 seconds. T6 = 45.3006
+ T7 = 10.6956 seconds. T8 = 13.7967 seconds. T9 = 1.2298e-05
+THIS IS ITERATION: 355 kinematic energy is: 1.96818e+06 max velocity is: 1.80871 max Omega is: 0.00563753
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1598
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.2524e-05 seconds. T2 = 92.59 seconds. T3 = 0.0958507
+ T4 = 0.0753987 seconds. T5 = 0.00185766 seconds. T6 = 45.9363
+ T7 = 10.8456 seconds. T8 = 13.9908 seconds. T9 = 1.247e-05
+THIS IS ITERATION: 360 kinematic energy is: 1.9387e+06 max velocity is: 1.79519 max Omega is: 0.00564725
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.2808e-05 seconds. T2 = 93.8774 seconds. T3 = 0.097181
+ T4 = 0.0764396 seconds. T5 = 0.0018816 seconds. T6 = 46.5774
+ T7 = 10.9959 seconds. T8 = 14.1847 seconds. T9 = 1.261e-05
+THIS IS ITERATION: 365 kinematic energy is: 1.9098e+06 max velocity is: 1.78176 max Omega is: 0.00560876
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.307e-05 seconds. T2 = 95.1559 seconds. T3 = 0.0985006
+ T4 = 0.0775111 seconds. T5 = 0.00190599 seconds. T6 = 47.2132
+ T7 = 11.146 seconds. T8 = 14.3786 seconds. T9 = 1.2779e-05
+THIS IS ITERATION: 370 kinematic energy is: 1.88134e+06 max velocity is: 1.76844 max Omega is: 0.00556931
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.336e-05 seconds. T2 = 96.4355 seconds. T3 = 0.0998221
+ T4 = 0.0785796 seconds. T5 = 0.00193221 seconds. T6 = 47.8493
+ T7 = 11.2961 seconds. T8 = 14.5725 seconds. T9 = 1.2947e-05
+THIS IS ITERATION: 375 kinematic energy is: 1.8533e+06 max velocity is: 1.75522 max Omega is: 0.00553139
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.3653e-05 seconds. T2 = 97.7269 seconds. T3 = 0.101173
+ T4 = 0.0796039 seconds. T5 = 0.00195448 seconds. T6 = 48.4875
+ T7 = 11.4468 seconds. T8 = 14.769 seconds. T9 = 1.3127e-05
+THIS IS ITERATION: 380 kinematic energy is: 1.82568e+06 max velocity is: 1.74209 max Omega is: 0.0054925
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.3934e-05 seconds. T2 = 99.0075 seconds. T3 = 0.102513
+ T4 = 0.0806118 seconds. T5 = 0.00197812 seconds. T6 = 49.1237
+ T7 = 11.597 seconds. T8 = 14.9629 seconds. T9 = 1.3306e-05
+THIS IS ITERATION: 385 kinematic energy is: 1.79847e+06 max velocity is: 1.72907 max Omega is: 0.00545509
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.4234e-05 seconds. T2 = 100.286 seconds. T3 = 0.103832
+ T4 = 0.0816452 seconds. T5 = 0.00200178 seconds. T6 = 49.7596
+ T7 = 11.747 seconds. T8 = 15.1567 seconds. T9 = 1.349e-05
+THIS IS ITERATION: 390 kinematic energy is: 1.77167e+06 max velocity is: 1.71614 max Omega is: 0.00541672
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.4515e-05 seconds. T2 = 101.585 seconds. T3 = 0.105189
+ T4 = 0.0826742 seconds. T5 = 0.00202494 seconds. T6 = 50.3996
+ T7 = 11.8985 seconds. T8 = 15.3506 seconds. T9 = 1.3659e-05
+THIS IS ITERATION: 395 kinematic energy is: 1.74526e+06 max velocity is: 1.7033 max Omega is: 0.00537981
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.4788e-05 seconds. T2 = 102.864 seconds. T3 = 0.106541
+ T4 = 0.083709 seconds. T5 = 0.00204947 seconds. T6 = 51.0355
+ T7 = 12.0485 seconds. T8 = 15.5445 seconds. T9 = 1.3826e-05
+THIS IS ITERATION: 400 kinematic energy is: 1.71925e+06 max velocity is: 1.69057 max Omega is: 0.00534195
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.5052e-05 seconds. T2 = 104.143 seconds. T3 = 0.107862
+ T4 = 0.0847796 seconds. T5 = 0.00207285 seconds. T6 = 51.6715
+ T7 = 12.1985 seconds. T8 = 15.7385 seconds. T9 = 1.4008e-05
+THIS IS ITERATION: 405 kinematic energy is: 1.69363e+06 max velocity is: 1.67793 max Omega is: 0.00530552
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.5302e-05 seconds. T2 = 105.433 seconds. T3 = 0.109227
+ T4 = 0.0857944 seconds. T5 = 0.0021025 seconds. T6 = 52.3084
+ T7 = 12.3485 seconds. T8 = 15.9324 seconds. T9 = 1.4187e-05
+THIS IS ITERATION: 410 kinematic energy is: 1.66839e+06 max velocity is: 1.66538 max Omega is: 0.00526837
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.5558e-05 seconds. T2 = 106.711 seconds. T3 = 0.110556
+ T4 = 0.0868602 seconds. T5 = 0.00212463 seconds. T6 = 52.9443
+ T7 = 12.4985 seconds. T8 = 16.1264 seconds. T9 = 1.4369e-05
+THIS IS ITERATION: 415 kinematic energy is: 1.64352e+06 max velocity is: 1.65293 max Omega is: 0.0052314
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.5817e-05 seconds. T2 = 107.99 seconds. T3 = 0.11192
+ T4 = 0.0879075 seconds. T5 = 0.00214855 seconds. T6 = 53.5804
+ T7 = 12.6484 seconds. T8 = 16.3204 seconds. T9 = 1.4537e-05
+THIS IS ITERATION: 420 kinematic energy is: 1.61903e+06 max velocity is: 1.64057 max Omega is: 0.00519463
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.6101e-05 seconds. T2 = 109.268 seconds. T3 = 0.113253
+ T4 = 0.0889137 seconds. T5 = 0.00217299 seconds. T6 = 54.2162
+ T7 = 12.7985 seconds. T8 = 16.5144 seconds. T9 = 1.4701e-05
+THIS IS ITERATION: 425 kinematic energy is: 1.5949e+06 max velocity is: 1.6283 max Omega is: 0.00515949
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 2.6375e-05 seconds. T2 = 110.546 seconds. T3 = 0.114572
+ T4 = 0.089962 seconds. T5 = 0.00219617 seconds. T6 = 54.8521
+ T7 = 12.9484 seconds. T8 = 16.7084 seconds. T9 = 1.4855e-05
+THIS IS ITERATION: 430 kinematic energy is: 1.57113e+06 max velocity is: 1.61612 max Omega is: 0.00512336
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1598
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.6653e-05 seconds. T2 = 111.826 seconds. T3 = 0.115904
+ T4 = 0.0909877 seconds. T5 = 0.0022214 seconds. T6 = 55.4892
+ T7 = 13.0985 seconds. T8 = 16.9022 seconds. T9 = 1.5031e-05
+THIS IS ITERATION: 435 kinematic energy is: 1.54771e+06 max velocity is: 1.60404 max Omega is: 0.00508748
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.6922e-05 seconds. T2 = 113.105 seconds. T3 = 0.117227
+ T4 = 0.0920118 seconds. T5 = 0.00224698 seconds. T6 = 56.125
+ T7 = 13.2485 seconds. T8 = 17.0963 seconds. T9 = 1.5211e-05
+THIS IS ITERATION: 440 kinematic energy is: 1.52465e+06 max velocity is: 1.59205 max Omega is: 0.00505195
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.7205e-05 seconds. T2 = 114.387 seconds. T3 = 0.118587
+ T4 = 0.0930671 seconds. T5 = 0.00227159 seconds. T6 = 56.7613
+ T7 = 13.3985 seconds. T8 = 17.2903 seconds. T9 = 1.5391e-05
+THIS IS ITERATION: 445 kinematic energy is: 1.50192e+06 max velocity is: 1.58014 max Omega is: 0.00501664
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.7571e-05 seconds. T2 = 115.679 seconds. T3 = 0.119919
+ T4 = 0.0940788 seconds. T5 = 0.00229566 seconds. T6 = 57.3991
+ T7 = 13.5486 seconds. T8 = 17.4864 seconds. T9 = 1.5554e-05
+THIS IS ITERATION: 450 kinematic energy is: 1.47954e+06 max velocity is: 1.56833 max Omega is: 0.00498153
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.7807e-05 seconds. T2 = 116.958 seconds. T3 = 0.12125
+ T4 = 0.0951047 seconds. T5 = 0.00231902 seconds. T6 = 58.0351
+ T7 = 13.6985 seconds. T8 = 17.6804 seconds. T9 = 1.5709e-05
+THIS IS ITERATION: 455 kinematic energy is: 1.45749e+06 max velocity is: 1.5566 max Omega is: 0.00494674
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.8082e-05 seconds. T2 = 118.237 seconds. T3 = 0.122577
+ T4 = 0.096111 seconds. T5 = 0.00234219 seconds. T6 = 58.6712
+ T7 = 13.8486 seconds. T8 = 17.8744 seconds. T9 = 1.5888e-05
+THIS IS ITERATION: 460 kinematic energy is: 1.43577e+06 max velocity is: 1.54496 max Omega is: 0.00491224
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.8359e-05 seconds. T2 = 119.529 seconds. T3 = 0.123913
+ T4 = 0.0971624 seconds. T5 = 0.0023672 seconds. T6 = 59.3095
+ T7 = 13.9986 seconds. T8 = 18.0683 seconds. T9 = 1.6058e-05
+THIS IS ITERATION: 465 kinematic energy is: 1.41437e+06 max velocity is: 1.53341 max Omega is: 0.00487801
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.8673e-05 seconds. T2 = 120.807 seconds. T3 = 0.125263
+ T4 = 0.0982237 seconds. T5 = 0.00239091 seconds. T6 = 59.9457
+ T7 = 14.1486 seconds. T8 = 18.2621 seconds. T9 = 1.6213e-05
+THIS IS ITERATION: 470 kinematic energy is: 1.39329e+06 max velocity is: 1.52194 max Omega is: 0.00484402
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.893e-05 seconds. T2 = 122.088 seconds. T3 = 0.126614
+ T4 = 0.0993065 seconds. T5 = 0.00241389 seconds. T6 = 60.5824
+ T7 = 14.2989 seconds. T8 = 18.4562 seconds. T9 = 1.6391e-05
+THIS IS ITERATION: 475 kinematic energy is: 1.37253e+06 max velocity is: 1.51056 max Omega is: 0.00481026
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.9213e-05 seconds. T2 = 123.377 seconds. T3 = 0.127956
+ T4 = 0.100357 seconds. T5 = 0.00243823 seconds. T6 = 61.2212
+ T7 = 14.449 seconds. T8 = 18.6502 seconds. T9 = 1.655e-05
+THIS IS ITERATION: 480 kinematic energy is: 1.35207e+06 max velocity is: 1.49926 max Omega is: 0.00477675
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.9468e-05 seconds. T2 = 124.657 seconds. T3 = 0.129294
+ T4 = 0.101364 seconds. T5 = 0.00246242 seconds. T6 = 61.8572
+ T7 = 14.599 seconds. T8 = 18.8443 seconds. T9 = 1.6729e-05
+THIS IS ITERATION: 485 kinematic energy is: 1.33192e+06 max velocity is: 1.48805 max Omega is: 0.00474355
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 2.9738e-05 seconds. T2 = 125.936 seconds. T3 = 0.1306
+ T4 = 0.102456 seconds. T5 = 0.00248794 seconds. T6 = 62.4933
+ T7 = 14.7489 seconds. T8 = 19.0382 seconds. T9 = 1.69e-05
+THIS IS ITERATION: 490 kinematic energy is: 1.31207e+06 max velocity is: 1.47693 max Omega is: 0.00471054
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+ T1 = 3.0037e-05 seconds. T2 = 127.223 seconds. T3 = 0.131923
+ T4 = 0.103512 seconds. T5 = 0.00251359 seconds. T6 = 63.1341
+ T7 = 14.9011 seconds. T8 = 19.2322 seconds. T9 = 1.7067e-05
+THIS IS ITERATION: 495 kinematic energy is: 1.29252e+06 max velocity is: 1.46588 max Omega is: 0.00467781
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1600
+Largest contact list is: 0
+number of islands: 1599
+Largest contact list is: 1
+ T1 = 3.0336e-05 seconds. T2 = 128.502 seconds. T3 = 0.133251
+ T4 = 0.104549 seconds. T5 = 0.00253898 seconds. T6 = 63.7701
+ T7 = 15.051 seconds. T8 = 19.4261 seconds. T9 = 1.722e-05
+THIS IS ITERATION: 500 kinematic energy is: 3.58991e+06 max velocity is: 1.35697 max Omega is: 0.00464534
+num_procs is: 1 Simulation Time = 0 hrs, 3 mins, 32.1182 seconds

@@ -1,0 +1,1895 @@
+dimZ: 4 dimY: 4 dimX: 4
+finish building USING_COMM...
+finish constructing linked-list...
+finish buiding wallPlane and wallCap...
+finish creating bin, blocks and allocating memories...
+finish loading 0 grains
+finish loading 2000 grains
+finish loading 4000 grains
+finish loading 6000 grains
+finish loading 8000 grains
+finish loading 10000 grains
+finish loading 12000 grains
+finish loading 14000 grains
+finish loading 16000 grains
+finish loading 18000 grains
+finish loading 20000 grains
+finish loading 22000 grains
+finish loading 24000 grains
+finish loading 26000 grains
+finish loading 28000 grains
+finish loading 30000 grains
+finish loading 32000 grains
+finish loading 34000 grains
+finish loading 36000 grains
+finish loading 38000 grains
+finish loading 40000 grains
+finish loading 42000 grains
+finish loading 44000 grains
+finish loading 46000 grains
+finish loading 48000 grains
+finish loading 50000 grains
+finish loading 52000 grains
+finish loading 54000 grains
+finish loading 56000 grains
+finish loading 58000 grains
+finish loading 60000 grains
+finish loading 62000 grains
+finish loading 64000 grains
+finish loading 66000 grains
+finish loading 68000 grains
+finish loading 70000 grains
+finish loading 72000 grains
+finish loading 74000 grains
+finish loading 76000 grains
+finish loading 78000 grains
+finish loading 80000 grains
+finish loading 82000 grains
+finish loading 84000 grains
+finish loading 86000 grains
+finish loading 88000 grains
+finish loading 90000 grains
+finish loading 92000 grains
+finish loading 94000 grains
+finish loading 96000 grains
+finish loading 98000 grains
+finish loading 100000 grains
+finish loading 102000 grains
+finish loading 104000 grains
+finish loading 106000 grains
+finish loading 108000 grains
+finish loading 110000 grains
+finish loading 112000 grains
+finish loading 114000 grains
+finish loading 116000 grains
+finish loading 118000 grains
+finish loading 120000 grains
+finish loading 122000 grains
+finish loading 124000 grains
+finish loading 126000 grains
+finish loading 128000 grains
+finish loading 130000 grains
+finish loading 132000 grains
+finish loading 134000 grains
+finish loading 136000 grains
+finish loading 138000 grains
+finish loading 140000 grains
+finish loading 142000 grains
+finish loading 144000 grains
+finish loading 146000 grains
+finish loading 148000 grains
+finish loading 150000 grains
+finish loading 152000 grains
+finish loading 154000 grains
+################## LS-DEM #####################
+Begin Simulation and Good Luck, Author: Peng TAN (Berkeley)
+Used processor(s) is: 64 Time-Step: 0.001 tmax: 1001
+For mass scaling, minMass: 5300.34 maxMass: 52938.7
+Using impulse-based DEM, parallel benchmark 
+Output Directory: /global/scratch/users/tanpeng/LSDEM_Modelling/Output/impulse_parallel_1/
+Largest contact list is: 13 #islands: 149378 total contact: 6874
+ T1 = 1.50925 seconds. T2 = 0.0852967 seconds. T3 = 0.151551
+ T4 = 0.0906464 seconds. T5 = 0.0788739 seconds. T6 = 0.541004
+ T7 = 0.492013 seconds. T8 = 0.0519116 seconds. T9 = 0.000119714
+THIS IS ITERATION: 0 kinematic energy is: 5.78677e+13 max velocity is: 10061.5 max Omega is: 39.1182
+Largest contact list is: 12 #islands: 146378 total contact: 10511
+Largest contact list is: 16 #islands: 143363 total contact: 14396
+Largest contact list is: 18 #islands: 142109 total contact: 15197
+Largest contact list is: 25 #islands: 141048 total contact: 16102
+Largest contact list is: 26 #islands: 140632 total contact: 16266
+ T1 = 1.64187 seconds. T2 = 0.424881 seconds. T3 = 0.434328
+ T4 = 0.334545 seconds. T5 = 0.138219 seconds. T6 = 3.13575
+ T7 = 2.87983 seconds. T8 = 0.310611 seconds. T9 = 0.000587761
+THIS IS ITERATION: 5 kinematic energy is: 3.01785e+13 max velocity is: 6128.44 max Omega is: 348.242
+Largest contact list is: 24 #islands: 140141 total contact: 16669
+Largest contact list is: 32 #islands: 139858 total contact: 16721
+Largest contact list is: 25 #islands: 139477 total contact: 16962
+Largest contact list is: 44 #islands: 138773 total contact: 17565
+Largest contact list is: 40 #islands: 138592 total contact: 17546
+ T1 = 1.78281 seconds. T2 = 0.826945 seconds. T3 = 0.644914
+ T4 = 0.581196 seconds. T5 = 0.180579 seconds. T6 = 5.61279
+ T7 = 5.11769 seconds. T8 = 0.561632 seconds. T9 = 0.000929623
+THIS IS ITERATION: 10 kinematic energy is: 2.32587e+13 max velocity is: 5874.15 max Omega is: 325.74
+Largest contact list is: 62 #islands: 138343 total contact: 17825
+Largest contact list is: 32 #islands: 138077 total contact: 17922
+Largest contact list is: 31 #islands: 138083 total contact: 17943
+Largest contact list is: 39 #islands: 137428 total contact: 18565
+Largest contact list is: 44 #islands: 137136 total contact: 18785
+ T1 = 1.91337 seconds. T2 = 1.19684 seconds. T3 = 0.844683
+ T4 = 0.812788 seconds. T5 = 0.231389 seconds. T6 = 7.98189
+ T7 = 7.2488 seconds. T8 = 0.819242 seconds. T9 = 0.00127838
+THIS IS ITERATION: 15 kinematic energy is: 1.95811e+13 max velocity is: 5228.2 max Omega is: 301.302
+Largest contact list is: 51 #islands: 136962 total contact: 18886
+Largest contact list is: 51 #islands: 136504 total contact: 19246
+Largest contact list is: 42 #islands: 136235 total contact: 19496
+Largest contact list is: 63 #islands: 135735 total contact: 19956
+Largest contact list is: 44 #islands: 135493 total contact: 20166
+ T1 = 2.04426 seconds. T2 = 1.58321 seconds. T3 = 1.18075
+ T4 = 1.04472 seconds. T5 = 0.280749 seconds. T6 = 10.3719
+ T7 = 9.37215 seconds. T8 = 1.06374 seconds. T9 = 0.0015749
+THIS IS ITERATION: 20 kinematic energy is: 1.74005e+13 max velocity is: 3733.97 max Omega is: 300.918
+Largest contact list is: 46 #islands: 135149 total contact: 20520
+Largest contact list is: 87 #islands: 135103 total contact: 20476
+Largest contact list is: 76 #islands: 134479 total contact: 21086
+Largest contact list is: 60 #islands: 134588 total contact: 20940
+Largest contact list is: 68 #islands: 134368 total contact: 21071
+ T1 = 2.17564 seconds. T2 = 1.94914 seconds. T3 = 1.63376
+ T4 = 1.27422 seconds. T5 = 0.322927 seconds. T6 = 12.7998
+ T7 = 11.5025 seconds. T8 = 1.3126 seconds. T9 = 0.00196672
+THIS IS ITERATION: 25 kinematic energy is: 1.58858e+13 max velocity is: 3433.39 max Omega is: 292.406
+Largest contact list is: 65 #islands: 133869 total contact: 21605
+Largest contact list is: 62 #islands: 133563 total contact: 21929
+Largest contact list is: 72 #islands: 133151 total contact: 22233
+Largest contact list is: 62 #islands: 133240 total contact: 22287
+Largest contact list is: 84 #islands: 132698 total contact: 22795
+ T1 = 2.30322 seconds. T2 = 2.32987 seconds. T3 = 1.84255
+ T4 = 1.50105 seconds. T5 = 0.382122 seconds. T6 = 15.2033
+ T7 = 13.6021 seconds. T8 = 1.55585 seconds. T9 = 0.00235899
+THIS IS ITERATION: 30 kinematic energy is: 1.46127e+13 max velocity is: 3280.45 max Omega is: 292.26
+Largest contact list is: 91 #islands: 132397 total contact: 22980
+Largest contact list is: 92 #islands: 132182 total contact: 23044
+Largest contact list is: 138 #islands: 132061 total contact: 23242
+Largest contact list is: 74 #islands: 131982 total contact: 23187
+Largest contact list is: 87 #islands: 131732 total contact: 23410
+ T1 = 2.42927 seconds. T2 = 2.69853 seconds. T3 = 2.16033
+ T4 = 1.72573 seconds. T5 = 0.425978 seconds. T6 = 17.6402
+ T7 = 15.6928 seconds. T8 = 1.80028 seconds. T9 = 0.00264811
+THIS IS ITERATION: 35 kinematic energy is: 1.3568e+13 max velocity is: 3030.74 max Omega is: 288.376
+Largest contact list is: 74 #islands: 131729 total contact: 23465
+Largest contact list is: 119 #islands: 131544 total contact: 23615
+Largest contact list is: 96 #islands: 131349 total contact: 23760
+Largest contact list is: 153 #islands: 131091 total contact: 23980
+Largest contact list is: 89 #islands: 130915 total contact: 24089
+ T1 = 2.55889 seconds. T2 = 3.02847 seconds. T3 = 2.92691
+ T4 = 1.9504 seconds. T5 = 0.457795 seconds. T6 = 20.124
+ T7 = 17.7866 seconds. T8 = 2.04357 seconds. T9 = 0.00303323
+THIS IS ITERATION: 40 kinematic energy is: 1.27729e+13 max velocity is: 2453.01 max Omega is: 287.844
+Largest contact list is: 111 #islands: 130856 total contact: 24238
+Largest contact list is: 87 #islands: 130557 total contact: 24546
+Largest contact list is: 188 #islands: 130356 total contact: 24721
+Largest contact list is: 86 #islands: 130164 total contact: 24879
+Largest contact list is: 128 #islands: 129951 total contact: 24985
+ T1 = 2.69701 seconds. T2 = 3.38932 seconds. T3 = 3.41301
+ T4 = 2.17198 seconds. T5 = 0.479143 seconds. T6 = 22.6138
+ T7 = 19.8611 seconds. T8 = 2.28658 seconds. T9 = 0.00331836
+THIS IS ITERATION: 45 kinematic energy is: 1.20805e+13 max velocity is: 2451.77 max Omega is: 281.979
+Largest contact list is: 79 #islands: 129864 total contact: 25071
+Largest contact list is: 102 #islands: 129685 total contact: 25274
+Largest contact list is: 141 #islands: 129719 total contact: 25295
+Largest contact list is: 116 #islands: 129589 total contact: 25257
+Largest contact list is: 130 #islands: 129274 total contact: 25691
+ T1 = 2.83205 seconds. T2 = 3.75066 seconds. T3 = 3.91449
+ T4 = 2.39529 seconds. T5 = 0.49188 seconds. T6 = 25.0883
+ T7 = 21.9189 seconds. T8 = 2.53242 seconds. T9 = 0.00362001
+THIS IS ITERATION: 50 kinematic energy is: 1.14745e+13 max velocity is: 1906.9 max Omega is: 281.838
+Largest contact list is: 99 #islands: 129463 total contact: 25480
+Largest contact list is: 84 #islands: 129267 total contact: 25670
+Largest contact list is: 130 #islands: 129331 total contact: 25570
+Largest contact list is: 148 #islands: 129250 total contact: 25661
+Largest contact list is: 136 #islands: 129173 total contact: 25799
+ T1 = 2.98489 seconds. T2 = 4.10568 seconds. T3 = 4.41941
+ T4 = 2.62578 seconds. T5 = 0.503922 seconds. T6 = 27.582
+ T7 = 23.9775 seconds. T8 = 2.77637 seconds. T9 = 0.00392903
+THIS IS ITERATION: 55 kinematic energy is: 1.09458e+13 max velocity is: 1878.4 max Omega is: 282.14
+Largest contact list is: 115 #islands: 129180 total contact: 25663
+Largest contact list is: 133 #islands: 129000 total contact: 25906
+Largest contact list is: 83 #islands: 129079 total contact: 25875
+Largest contact list is: 155 #islands: 128931 total contact: 25991
+Largest contact list is: 99 #islands: 128705 total contact: 25998
+ T1 = 3.13231 seconds. T2 = 4.46023 seconds. T3 = 4.95583
+ T4 = 2.84644 seconds. T5 = 0.53768 seconds. T6 = 30.0892
+ T7 = 26.03 seconds. T8 = 3.02151 seconds. T9 = 0.0042189
+THIS IS ITERATION: 60 kinematic energy is: 1.05036e+13 max velocity is: 1830.69 max Omega is: 281.989
+Largest contact list is: 172 #islands: 128615 total contact: 26202
+Largest contact list is: 129 #islands: 128438 total contact: 26199
+Largest contact list is: 110 #islands: 128372 total contact: 26362
+Largest contact list is: 178 #islands: 128434 total contact: 26279
+Largest contact list is: 135 #islands: 128346 total contact: 26316
+ T1 = 3.2709 seconds. T2 = 4.87861 seconds. T3 = 5.63906
+ T4 = 3.06631 seconds. T5 = 0.550048 seconds. T6 = 32.6376
+ T7 = 28.079 seconds. T8 = 3.26607 seconds. T9 = 0.0044727
+THIS IS ITERATION: 65 kinematic energy is: 1.00898e+13 max velocity is: 1299.5 max Omega is: 281.848
+Largest contact list is: 109 #islands: 128007 total contact: 26661
+Largest contact list is: 104 #islands: 127794 total contact: 26853
+Largest contact list is: 107 #islands: 127953 total contact: 26673
+Largest contact list is: 159 #islands: 127949 total contact: 26622
+Largest contact list is: 102 #islands: 128014 total contact: 26654
+ T1 = 3.4196 seconds. T2 = 5.28165 seconds. T3 = 6.34442
+ T4 = 3.28649 seconds. T5 = 0.562749 seconds. T6 = 35.1083
+ T7 = 30.1329 seconds. T8 = 3.51558 seconds. T9 = 0.00478349
+THIS IS ITERATION: 70 kinematic energy is: 9.70535e+12 max velocity is: 1170.28 max Omega is: 281.707
+Largest contact list is: 103 #islands: 127853 total contact: 26723
+Largest contact list is: 147 #islands: 127643 total contact: 26976
+Largest contact list is: 158 #islands: 127595 total contact: 26941
+Largest contact list is: 154 #islands: 127258 total contact: 27360
+Largest contact list is: 134 #islands: 127402 total contact: 27145
+ T1 = 3.55862 seconds. T2 = 5.67661 seconds. T3 = 7.01001
+ T4 = 3.50472 seconds. T5 = 0.575382 seconds. T6 = 37.6175
+ T7 = 32.1809 seconds. T8 = 3.77057 seconds. T9 = 0.00508878
+THIS IS ITERATION: 75 kinematic energy is: 9.35808e+12 max velocity is: 1042.48 max Omega is: 282.733
+Largest contact list is: 214 #islands: 127031 total contact: 27548
+Largest contact list is: 157 #islands: 127049 total contact: 27525
+Largest contact list is: 220 #islands: 126954 total contact: 27648
+Largest contact list is: 153 #islands: 127046 total contact: 27485
+Largest contact list is: 161 #islands: 127163 total contact: 27368
+ T1 = 3.70707 seconds. T2 = 6.07829 seconds. T3 = 7.69421
+ T4 = 3.72563 seconds. T5 = 0.601769 seconds. T6 = 40.2841
+ T7 = 34.2232 seconds. T8 = 4.01836 seconds. T9 = 0.00659642
+THIS IS ITERATION: 80 kinematic energy is: 9.05549e+12 max velocity is: 993.834 max Omega is: 282.592
+Largest contact list is: 120 #islands: 127151 total contact: 27389
+Largest contact list is: 205 #islands: 126722 total contact: 27806
+Largest contact list is: 234 #islands: 126741 total contact: 27749
+Largest contact list is: 193 #islands: 126704 total contact: 27734
+Largest contact list is: 195 #islands: 126563 total contact: 27937
+ T1 = 3.85273 seconds. T2 = 6.45873 seconds. T3 = 8.35848
+ T4 = 3.94355 seconds. T5 = 0.624903 seconds. T6 = 42.9035
+ T7 = 36.2639 seconds. T8 = 4.26365 seconds. T9 = 0.00688701
+THIS IS ITERATION: 85 kinematic energy is: 8.77365e+12 max velocity is: 993.32 max Omega is: 282.451
+Largest contact list is: 141 #islands: 126641 total contact: 27851
+Largest contact list is: 140 #islands: 126653 total contact: 28025
+Largest contact list is: 102 #islands: 126648 total contact: 27896
+Largest contact list is: 164 #islands: 126438 total contact: 28112
+Largest contact list is: 129 #islands: 126535 total contact: 28006
+ T1 = 3.99255 seconds. T2 = 6.79737 seconds. T3 = 9.09715
+ T4 = 4.1613 seconds. T5 = 0.648621 seconds. T6 = 45.3967
+ T7 = 38.3149 seconds. T8 = 4.51357 seconds. T9 = 0.00717945
+THIS IS ITERATION: 90 kinematic energy is: 8.5197e+12 max velocity is: 992.812 max Omega is: 282.31
+Largest contact list is: 132 #islands: 126230 total contact: 28252
+Largest contact list is: 204 #islands: 126233 total contact: 28337
+Largest contact list is: 164 #islands: 126325 total contact: 28053
+Largest contact list is: 212 #islands: 126190 total contact: 28306
+Largest contact list is: 128 #islands: 125988 total contact: 28338
+ T1 = 4.13956 seconds. T2 = 7.15696 seconds. T3 = 9.58661
+ T4 = 4.37918 seconds. T5 = 0.682746 seconds. T6 = 47.9846
+ T7 = 40.3587 seconds. T8 = 4.75955 seconds. T9 = 0.00745775
+THIS IS ITERATION: 95 kinematic energy is: 8.26767e+12 max velocity is: 899.934 max Omega is: 282.168
+Largest contact list is: 115 #islands: 125972 total contact: 28419
+Largest contact list is: 195 #islands: 126077 total contact: 28338
+Largest contact list is: 102 #islands: 125872 total contact: 28568
+Largest contact list is: 175 #islands: 125747 total contact: 28573
+Largest contact list is: 129 #islands: 125746 total contact: 28528
+ T1 = 4.27967 seconds. T2 = 7.51222 seconds. T3 = 10.2067
+ T4 = 4.59719 seconds. T5 = 0.714036 seconds. T6 = 50.4813
+ T7 = 42.3952 seconds. T8 = 5.00342 seconds. T9 = 0.00775213
+THIS IS ITERATION: 100 kinematic energy is: 8.04164e+12 max velocity is: 899.48 max Omega is: 282.027
+Largest contact list is: 115 #islands: 125525 total contact: 28719
+Largest contact list is: 144 #islands: 125565 total contact: 28785
+Largest contact list is: 182 #islands: 125462 total contact: 28880
+Largest contact list is: 136 #islands: 125576 total contact: 28667
+Largest contact list is: 125 #islands: 125525 total contact: 28604
+ T1 = 4.42906 seconds. T2 = 7.86631 seconds. T3 = 10.9562
+ T4 = 4.81443 seconds. T5 = 0.735491 seconds. T6 = 52.9662
+ T7 = 44.4309 seconds. T8 = 5.24736 seconds. T9 = 0.00803912
+THIS IS ITERATION: 105 kinematic energy is: 7.82263e+12 max velocity is: 847.482 max Omega is: 281.886
+Largest contact list is: 163 #islands: 125464 total contact: 28753
+Largest contact list is: 158 #islands: 125428 total contact: 28826
+Largest contact list is: 149 #islands: 125532 total contact: 28829
+Largest contact list is: 163 #islands: 125272 total contact: 28982
+Largest contact list is: 144 #islands: 125226 total contact: 28897
+ T1 = 4.57629 seconds. T2 = 8.20288 seconds. T3 = 11.6843
+ T4 = 5.03221 seconds. T5 = 0.770299 seconds. T6 = 55.4746
+ T7 = 46.464 seconds. T8 = 5.49047 seconds. T9 = 0.00831279
+THIS IS ITERATION: 110 kinematic energy is: 7.6142e+12 max velocity is: 847.063 max Omega is: 281.746
+Largest contact list is: 150 #islands: 125170 total contact: 28990
+Largest contact list is: 122 #islands: 125287 total contact: 28935
+Largest contact list is: 186 #islands: 125392 total contact: 28903
+Largest contact list is: 200 #islands: 125200 total contact: 28971
+Largest contact list is: 153 #islands: 125107 total contact: 29051
+ T1 = 4.71524 seconds. T2 = 8.55117 seconds. T3 = 12.4447
+ T4 = 5.24998 seconds. T5 = 0.783675 seconds. T6 = 57.968
+ T7 = 48.4975 seconds. T8 = 5.73371 seconds. T9 = 0.0085767
+THIS IS ITERATION: 115 kinematic energy is: 7.42283e+12 max velocity is: 846.65 max Omega is: 281.605
+Largest contact list is: 186 #islands: 124923 total contact: 29353
+Largest contact list is: 137 #islands: 124790 total contact: 29414
+Largest contact list is: 178 #islands: 124642 total contact: 29617
+Largest contact list is: 243 #islands: 124667 total contact: 29529
+Largest contact list is: 173 #islands: 124493 total contact: 29662
+ T1 = 4.8627 seconds. T2 = 8.92374 seconds. T3 = 13.1401
+ T4 = 5.46703 seconds. T5 = 0.810333 seconds. T6 = 60.6243
+ T7 = 50.5326 seconds. T8 = 5.98027 seconds. T9 = 0.00886371
+THIS IS ITERATION: 120 kinematic energy is: 7.24391e+12 max velocity is: 766.716 max Omega is: 281.464
+Largest contact list is: 192 #islands: 124481 total contact: 29665
+Largest contact list is: 126 #islands: 124468 total contact: 29597
+Largest contact list is: 138 #islands: 124300 total contact: 30004
+Largest contact list is: 235 #islands: 124122 total contact: 30020
+Largest contact list is: 209 #islands: 124119 total contact: 30027
+ T1 = 5.00843 seconds. T2 = 9.25989 seconds. T3 = 13.8655
+ T4 = 5.68497 seconds. T5 = 0.823431 seconds. T6 = 63.2297
+ T7 = 52.566 seconds. T8 = 6.22341 seconds. T9 = 0.00915247
+THIS IS ITERATION: 125 kinematic energy is: 7.07452e+12 max velocity is: 766.321 max Omega is: 281.323
+Largest contact list is: 241 #islands: 123945 total contact: 30251
+Largest contact list is: 260 #islands: 124042 total contact: 30032
+Largest contact list is: 177 #islands: 123887 total contact: 30262
+Largest contact list is: 223 #islands: 124140 total contact: 30050
+Largest contact list is: 154 #islands: 123922 total contact: 30239
+ T1 = 5.21074 seconds. T2 = 9.64772 seconds. T3 = 14.6672
+ T4 = 5.90297 seconds. T5 = 0.855204 seconds. T6 = 65.9247
+ T7 = 54.6051 seconds. T8 = 6.46941 seconds. T9 = 0.00944971
+THIS IS ITERATION: 130 kinematic energy is: 6.91415e+12 max velocity is: 743.93 max Omega is: 273.24
+Largest contact list is: 288 #islands: 124304 total contact: 29822
+Largest contact list is: 166 #islands: 124198 total contact: 29890
+Largest contact list is: 289 #islands: 124283 total contact: 29939
+Largest contact list is: 258 #islands: 123845 total contact: 30168
+Largest contact list is: 205 #islands: 123774 total contact: 30215
+ T1 = 5.39986 seconds. T2 = 10.0744 seconds. T3 = 15.3925
+ T4 = 6.12618 seconds. T5 = 0.868655 seconds. T6 = 68.6542
+ T7 = 56.6651 seconds. T8 = 6.71931 seconds. T9 = 0.00976472
+THIS IS ITERATION: 135 kinematic energy is: 6.76441e+12 max velocity is: 638.158 max Omega is: 273.103
+Largest contact list is: 120 #islands: 123863 total contact: 30104
+Largest contact list is: 293 #islands: 123822 total contact: 30307
+Largest contact list is: 348 #islands: 123718 total contact: 30368
+Largest contact list is: 254 #islands: 123558 total contact: 30589
+Largest contact list is: 153 #islands: 123580 total contact: 30417
+ T1 = 5.57975 seconds. T2 = 10.5441 seconds. T3 = 16.1523
+ T4 = 6.3464 seconds. T5 = 0.88262 seconds. T6 = 71.3864
+ T7 = 58.6989 seconds. T8 = 6.97047 seconds. T9 = 0.0100637
+THIS IS ITERATION: 140 kinematic energy is: 6.62305e+12 max velocity is: 611.809 max Omega is: 272.967
+Largest contact list is: 259 #islands: 123457 total contact: 30570
+Largest contact list is: 225 #islands: 123713 total contact: 30177
+Largest contact list is: 150 #islands: 123637 total contact: 30390
+Largest contact list is: 230 #islands: 123561 total contact: 30601
+Largest contact list is: 229 #islands: 123504 total contact: 30604
+ T1 = 5.85631 seconds. T2 = 10.997 seconds. T3 = 16.9173
+ T4 = 6.56565 seconds. T5 = 0.896437 seconds. T6 = 74.1316
+ T7 = 60.7462 seconds. T8 = 7.21492 seconds. T9 = 0.0103552
+THIS IS ITERATION: 145 kinematic energy is: 6.49285e+12 max velocity is: 611.505 max Omega is: 272.83
+Largest contact list is: 194 #islands: 123880 total contact: 30192
+Largest contact list is: 252 #islands: 123587 total contact: 30408
+Largest contact list is: 182 #islands: 123575 total contact: 30408
+Largest contact list is: 192 #islands: 123620 total contact: 30333
+Largest contact list is: 129 #islands: 123591 total contact: 30465
+ T1 = 6.03321 seconds. T2 = 11.4165 seconds. T3 = 17.2411
+ T4 = 6.78487 seconds. T5 = 0.918834 seconds. T6 = 76.8249
+ T7 = 62.7764 seconds. T8 = 7.46355 seconds. T9 = 0.0106243
+THIS IS ITERATION: 150 kinematic energy is: 6.36546e+12 max velocity is: 611.198 max Omega is: 272.694
+Largest contact list is: 207 #islands: 123514 total contact: 30526
+Largest contact list is: 194 #islands: 123582 total contact: 30281
+Largest contact list is: 226 #islands: 123611 total contact: 30206
+Largest contact list is: 184 #islands: 123625 total contact: 30401
+Largest contact list is: 234 #islands: 123373 total contact: 30650
+ T1 = 6.23245 seconds. T2 = 11.8786 seconds. T3 = 17.5349
+ T4 = 7.01216 seconds. T5 = 0.933384 seconds. T6 = 79.4766
+ T7 = 64.8142 seconds. T8 = 7.71573 seconds. T9 = 0.0109203
+THIS IS ITERATION: 155 kinematic energy is: 6.24027e+12 max velocity is: 572.975 max Omega is: 272.558
+Largest contact list is: 143 #islands: 123209 total contact: 30619
+Largest contact list is: 249 #islands: 123185 total contact: 30752
+Largest contact list is: 218 #islands: 123315 total contact: 30525
+Largest contact list is: 160 #islands: 122960 total contact: 30819
+Largest contact list is: 199 #islands: 122995 total contact: 30903
+ T1 = 6.38613 seconds. T2 = 12.3001 seconds. T3 = 18.2573
+ T4 = 7.23021 seconds. T5 = 0.947072 seconds. T6 = 82.1487
+ T7 = 66.8386 seconds. T8 = 7.96343 seconds. T9 = 0.0112303
+THIS IS ITERATION: 160 kinematic energy is: 6.11842e+12 max velocity is: 572.675 max Omega is: 272.421
+Largest contact list is: 178 #islands: 122869 total contact: 31013
+Largest contact list is: 268 #islands: 122858 total contact: 31005
+Largest contact list is: 219 #islands: 123016 total contact: 30877
+Largest contact list is: 293 #islands: 122971 total contact: 30847
+Largest contact list is: 137 #islands: 122960 total contact: 30870
+ T1 = 6.57374 seconds. T2 = 12.7368 seconds. T3 = 19.0168
+ T4 = 7.45 seconds. T5 = 0.9714 seconds. T6 = 84.8356
+ T7 = 68.8623 seconds. T8 = 8.2178 seconds. T9 = 0.0115328
+THIS IS ITERATION: 165 kinematic energy is: 6.00836e+12 max velocity is: 572.374 max Omega is: 272.285
+Largest contact list is: 159 #islands: 122920 total contact: 31045
+Largest contact list is: 182 #islands: 123049 total contact: 30805
+Largest contact list is: 245 #islands: 123013 total contact: 30793
+Largest contact list is: 192 #islands: 123259 total contact: 30642
+Largest contact list is: 228 #islands: 123131 total contact: 30698
+ T1 = 6.74208 seconds. T2 = 13.1814 seconds. T3 = 19.7673
+ T4 = 7.67601 seconds. T5 = 0.985553 seconds. T6 = 87.4883
+ T7 = 70.8953 seconds. T8 = 8.46228 seconds. T9 = 0.0118168
+THIS IS ITERATION: 170 kinematic energy is: 5.90254e+12 max velocity is: 616.31 max Omega is: 272.149
+Largest contact list is: 165 #islands: 123111 total contact: 30901
+Largest contact list is: 218 #islands: 122901 total contact: 30924
+Largest contact list is: 210 #islands: 122973 total contact: 30901
+Largest contact list is: 258 #islands: 123240 total contact: 30758
+Largest contact list is: 249 #islands: 123231 total contact: 30679
+ T1 = 6.90692 seconds. T2 = 13.6175 seconds. T3 = 20.185
+ T4 = 7.89905 seconds. T5 = 0.999713 seconds. T6 = 90.1564
+ T7 = 72.9331 seconds. T8 = 8.70571 seconds. T9 = 0.0120975
+THIS IS ITERATION: 175 kinematic energy is: 5.80358e+12 max velocity is: 616.015 max Omega is: 269.854
+Largest contact list is: 287 #islands: 123170 total contact: 30644
+Largest contact list is: 203 #islands: 123076 total contact: 30742
+Largest contact list is: 374 #islands: 123180 total contact: 30787
+Largest contact list is: 223 #islands: 122987 total contact: 31094
+Largest contact list is: 258 #islands: 122852 total contact: 31024
+ T1 = 7.1208 seconds. T2 = 14.0324 seconds. T3 = 20.8172
+ T4 = 8.12087 seconds. T5 = 1.0142 seconds. T6 = 92.9068
+ T7 = 74.9661 seconds. T8 = 8.95076 seconds. T9 = 0.012394
+THIS IS ITERATION: 180 kinematic energy is: 5.7033e+12 max velocity is: 615.707 max Omega is: 269.719
+Largest contact list is: 300 #islands: 122916 total contact: 30952
+Largest contact list is: 285 #islands: 122692 total contact: 31197
+Largest contact list is: 395 #islands: 122710 total contact: 31096
+Largest contact list is: 299 #islands: 122595 total contact: 31137
+Largest contact list is: 242 #islands: 122781 total contact: 31020
+ T1 = 7.31922 seconds. T2 = 14.471 seconds. T3 = 21.1403
+ T4 = 8.3469 seconds. T5 = 1.02898 seconds. T6 = 95.774
+ T7 = 76.9927 seconds. T8 = 9.19883 seconds. T9 = 0.0126702
+THIS IS ITERATION: 185 kinematic energy is: 5.60588e+12 max velocity is: 615.4 max Omega is: 269.584
+Largest contact list is: 384 #islands: 122716 total contact: 31176
+Largest contact list is: 273 #islands: 122723 total contact: 31048
+Largest contact list is: 312 #islands: 122970 total contact: 30895
+Largest contact list is: 343 #islands: 122889 total contact: 30982
+Largest contact list is: 258 #islands: 122850 total contact: 30964
+ T1 = 7.58036 seconds. T2 = 14.8999 seconds. T3 = 21.6681
+ T4 = 8.56872 seconds. T5 = 1.04336 seconds. T6 = 98.6309
+ T7 = 79.0302 seconds. T8 = 9.44342 seconds. T9 = 0.0129605
+THIS IS ITERATION: 190 kinematic energy is: 5.51415e+12 max velocity is: 559.937 max Omega is: 269.45
+Largest contact list is: 300 #islands: 122770 total contact: 30998
+Largest contact list is: 263 #islands: 122567 total contact: 31126
+Largest contact list is: 334 #islands: 122283 total contact: 31388
+Largest contact list is: 432 #islands: 122407 total contact: 31326
+Largest contact list is: 265 #islands: 122170 total contact: 31495
+ T1 = 7.78791 seconds. T2 = 15.3311 seconds. T3 = 22.3106
+ T4 = 8.794 seconds. T5 = 1.05894 seconds. T6 = 101.481
+ T7 = 81.058 seconds. T8 = 9.68985 seconds. T9 = 0.0132419
+THIS IS ITERATION: 195 kinematic energy is: 5.42409e+12 max velocity is: 559.651 max Omega is: 269.315
+Largest contact list is: 284 #islands: 122386 total contact: 31386
+Largest contact list is: 242 #islands: 121920 total contact: 31717
+Largest contact list is: 248 #islands: 122139 total contact: 31587
+Largest contact list is: 258 #islands: 122226 total contact: 31534
+Largest contact list is: 260 #islands: 122344 total contact: 31428
+ T1 = 8.0597 seconds. T2 = 15.7634 seconds. T3 = 22.9603
+ T4 = 9.02052 seconds. T5 = 1.08734 seconds. T6 = 104.302
+ T7 = 83.1016 seconds. T8 = 9.93687 seconds. T9 = 0.0135129
+THIS IS ITERATION: 200 kinematic energy is: 5.3353e+12 max velocity is: 559.357 max Omega is: 269.18
+Largest contact list is: 230 #islands: 122201 total contact: 31378
+Largest contact list is: 347 #islands: 121966 total contact: 31589
+Largest contact list is: 346 #islands: 122015 total contact: 31694
+Largest contact list is: 542 #islands: 121692 total contact: 31962
+Largest contact list is: 370 #islands: 121954 total contact: 31640
+ T1 = 8.2461 seconds. T2 = 16.2043 seconds. T3 = 23.1629
+ T4 = 9.24224 seconds. T5 = 1.10213 seconds. T6 = 107.215
+ T7 = 85.13 seconds. T8 = 10.1855 seconds. T9 = 0.0138265
+THIS IS ITERATION: 205 kinematic energy is: 5.25207e+12 max velocity is: 559.071 max Omega is: 269.046
+Largest contact list is: 320 #islands: 122048 total contact: 31678
+Largest contact list is: 306 #islands: 121856 total contact: 31839
+Largest contact list is: 336 #islands: 121836 total contact: 31812
+Largest contact list is: 314 #islands: 121855 total contact: 31887
+Largest contact list is: 247 #islands: 121712 total contact: 32007
+ T1 = 8.45703 seconds. T2 = 16.6184 seconds. T3 = 23.5104
+ T4 = 9.46468 seconds. T5 = 1.11752 seconds. T6 = 110.046
+ T7 = 87.1629 seconds. T8 = 10.4292 seconds. T9 = 0.0141272
+THIS IS ITERATION: 210 kinematic energy is: 5.17105e+12 max velocity is: 558.785 max Omega is: 268.911
+Largest contact list is: 245 #islands: 121899 total contact: 31945
+Largest contact list is: 397 #islands: 121797 total contact: 31975
+Largest contact list is: 460 #islands: 121660 total contact: 31996
+Largest contact list is: 322 #islands: 121765 total contact: 31894
+Largest contact list is: 394 #islands: 121767 total contact: 31912
+ T1 = 8.6996 seconds. T2 = 17.0449 seconds. T3 = 24.2036
+ T4 = 9.69765 seconds. T5 = 1.1329 seconds. T6 = 112.961
+ T7 = 89.2088 seconds. T8 = 10.6751 seconds. T9 = 0.0144379
+THIS IS ITERATION: 215 kinematic energy is: 5.09146e+12 max velocity is: 558.504 max Omega is: 268.777
+Largest contact list is: 371 #islands: 121788 total contact: 31963
+Largest contact list is: 267 #islands: 121716 total contact: 31863
+Largest contact list is: 505 #islands: 121691 total contact: 31835
+Largest contact list is: 326 #islands: 121617 total contact: 31989
+Largest contact list is: 380 #islands: 121434 total contact: 32187
+ T1 = 8.90817 seconds. T2 = 17.4603 seconds. T3 = 24.848
+ T4 = 9.92011 seconds. T5 = 1.16247 seconds. T6 = 115.863
+ T7 = 91.2304 seconds. T8 = 10.9208 seconds. T9 = 0.0147223
+THIS IS ITERATION: 220 kinematic energy is: 5.00889e+12 max velocity is: 613.666 max Omega is: 268.643
+Largest contact list is: 364 #islands: 121579 total contact: 32149
+Largest contact list is: 315 #islands: 121475 total contact: 32022
+Largest contact list is: 376 #islands: 121410 total contact: 31930
+Largest contact list is: 446 #islands: 121477 total contact: 31977
+Largest contact list is: 416 #islands: 121319 total contact: 32379
+ T1 = 9.11981 seconds. T2 = 17.8979 seconds. T3 = 25.4574
+ T4 = 10.1434 seconds. T5 = 1.19848 seconds. T6 = 118.906
+ T7 = 93.2782 seconds. T8 = 11.1701 seconds. T9 = 0.0150215
+THIS IS ITERATION: 225 kinematic energy is: 4.93315e+12 max velocity is: 613.345 max Omega is: 268.508
+Largest contact list is: 574 #islands: 121430 total contact: 32053
+Largest contact list is: 552 #islands: 121443 total contact: 31873
+Largest contact list is: 357 #islands: 121282 total contact: 32114
+Largest contact list is: 510 #islands: 121309 total contact: 32158
+Largest contact list is: 287 #islands: 121335 total contact: 32317
+ T1 = 9.33202 seconds. T2 = 18.3142 seconds. T3 = 26.1053
+ T4 = 10.3708 seconds. T5 = 1.22778 seconds. T6 = 121.958
+ T7 = 95.3097 seconds. T8 = 11.4138 seconds. T9 = 0.0152979
+THIS IS ITERATION: 230 kinematic energy is: 4.85896e+12 max velocity is: 613.048 max Omega is: 268.374
+Largest contact list is: 754 #islands: 121172 total contact: 32323
+Largest contact list is: 350 #islands: 121365 total contact: 32200
+Largest contact list is: 428 #islands: 121223 total contact: 32346
+Largest contact list is: 349 #islands: 121270 total contact: 32166
+Largest contact list is: 409 #islands: 121308 total contact: 32141
+ T1 = 9.50445 seconds. T2 = 18.7497 seconds. T3 = 26.8114
+ T4 = 10.5963 seconds. T5 = 1.24428 seconds. T6 = 124.993
+ T7 = 97.3341 seconds. T8 = 11.6589 seconds. T9 = 0.0155802
+THIS IS ITERATION: 235 kinematic energy is: 4.7859e+12 max velocity is: 612.752 max Omega is: 268.24
+Largest contact list is: 300 #islands: 121208 total contact: 32142
+Largest contact list is: 371 #islands: 121184 total contact: 32439
+Largest contact list is: 450 #islands: 120930 total contact: 32733
+Largest contact list is: 308 #islands: 120783 total contact: 32849
+Largest contact list is: 400 #islands: 121028 total contact: 32491
+ T1 = 9.7086 seconds. T2 = 19.1854 seconds. T3 = 27.4026
+ T4 = 10.8216 seconds. T5 = 1.25982 seconds. T6 = 127.83
+ T7 = 99.3554 seconds. T8 = 11.9099 seconds. T9 = 0.0158809
+THIS IS ITERATION: 240 kinematic energy is: 4.7167e+12 max velocity is: 612.462 max Omega is: 268.106
+Largest contact list is: 421 #islands: 120870 total contact: 32563
+Largest contact list is: 405 #islands: 120761 total contact: 32620
+Largest contact list is: 390 #islands: 120987 total contact: 32506
+Largest contact list is: 481 #islands: 120818 total contact: 32656
+Largest contact list is: 486 #islands: 120780 total contact: 32702
+ T1 = 9.89888 seconds. T2 = 19.6302 seconds. T3 = 27.9573
+ T4 = 11.0535 seconds. T5 = 1.27577 seconds. T6 = 130.833
+ T7 = 101.374 seconds. T8 = 12.163 seconds. T9 = 0.0161892
+THIS IS ITERATION: 245 kinematic energy is: 4.65302e+12 max velocity is: 612.163 max Omega is: 267.972
+Largest contact list is: 330 #islands: 120633 total contact: 32788
+Largest contact list is: 335 #islands: 120543 total contact: 32894
+Largest contact list is: 356 #islands: 120633 total contact: 32863
+Largest contact list is: 328 #islands: 120844 total contact: 32855
+Largest contact list is: 445 #islands: 120704 total contact: 32886
+ T1 = 10.0622 seconds. T2 = 20.0681 seconds. T3 = 28.6422
+ T4 = 11.2773 seconds. T5 = 1.29142 seconds. T6 = 133.686
+ T7 = 103.409 seconds. T8 = 12.4278 seconds. T9 = 0.0165242
+THIS IS ITERATION: 250 kinematic energy is: 4.58958e+12 max velocity is: 525.042 max Omega is: 267.838
+Largest contact list is: 565 #islands: 120862 total contact: 32781
+Largest contact list is: 679 #islands: 120617 total contact: 32917
+Largest contact list is: 527 #islands: 120670 total contact: 32802
+Largest contact list is: 239 #islands: 120713 total contact: 32811
+Largest contact list is: 392 #islands: 120572 total contact: 32915
+ T1 = 10.2801 seconds. T2 = 20.4937 seconds. T3 = 29.1723
+ T4 = 11.5018 seconds. T5 = 1.32573 seconds. T6 = 136.779
+ T7 = 105.424 seconds. T8 = 12.6757 seconds. T9 = 0.0168103
+THIS IS ITERATION: 255 kinematic energy is: 4.5297e+12 max velocity is: 524.768 max Omega is: 267.704
+Largest contact list is: 434 #islands: 120524 total contact: 33008
+Largest contact list is: 359 #islands: 120548 total contact: 33112
+Largest contact list is: 608 #islands: 120503 total contact: 32995
+Largest contact list is: 238 #islands: 120414 total contact: 33207
+Largest contact list is: 342 #islands: 120729 total contact: 32772
+ T1 = 10.5269 seconds. T2 = 20.9207 seconds. T3 = 29.8476
+ T4 = 11.7354 seconds. T5 = 1.34113 seconds. T6 = 139.67
+ T7 = 107.446 seconds. T8 = 12.9302 seconds. T9 = 0.01711
+THIS IS ITERATION: 260 kinematic energy is: 4.46954e+12 max velocity is: 524.523 max Omega is: 267.57
+Largest contact list is: 313 #islands: 120427 total contact: 32988
+Largest contact list is: 456 #islands: 120463 total contact: 32901
+Largest contact list is: 380 #islands: 120493 total contact: 32857
+Largest contact list is: 405 #islands: 120543 total contact: 32918
+Largest contact list is: 303 #islands: 120596 total contact: 32894
+ T1 = 10.7118 seconds. T2 = 21.3627 seconds. T3 = 30.4378
+ T4 = 11.9695 seconds. T5 = 1.36727 seconds. T6 = 142.56
+ T7 = 109.49 seconds. T8 = 13.176 seconds. T9 = 0.0174036
+THIS IS ITERATION: 265 kinematic energy is: 4.41114e+12 max velocity is: 524.267 max Omega is: 267.436
+Largest contact list is: 416 #islands: 120294 total contact: 33171
+Largest contact list is: 206 #islands: 120629 total contact: 32817
+Largest contact list is: 456 #islands: 120587 total contact: 32970
+Largest contact list is: 320 #islands: 120406 total contact: 33134
+Largest contact list is: 306 #islands: 120644 total contact: 32925
+ T1 = 10.9364 seconds. T2 = 21.7977 seconds. T3 = 31.1193
+ T4 = 12.1946 seconds. T5 = 1.3964 seconds. T6 = 145.368
+ T7 = 111.53 seconds. T8 = 13.4232 seconds. T9 = 0.0177162
+THIS IS ITERATION: 270 kinematic energy is: 4.35602e+12 max velocity is: 524.01 max Omega is: 267.303
+Largest contact list is: 379 #islands: 120459 total contact: 33007
+Largest contact list is: 519 #islands: 120550 total contact: 32767
+Largest contact list is: 522 #islands: 120553 total contact: 32835
+Largest contact list is: 518 #islands: 120455 total contact: 32690
+Largest contact list is: 542 #islands: 120350 total contact: 33046
+ T1 = 11.1893 seconds. T2 = 22.2266 seconds. T3 = 31.5924
+ T4 = 12.4209 seconds. T5 = 1.42264 seconds. T6 = 148.475
+ T7 = 113.564 seconds. T8 = 13.6708 seconds. T9 = 0.0180025
+THIS IS ITERATION: 275 kinematic energy is: 4.30083e+12 max velocity is: 523.73 max Omega is: 267.169
+Largest contact list is: 618 #islands: 120362 total contact: 33067
+Largest contact list is: 339 #islands: 120513 total contact: 32815
+Largest contact list is: 355 #islands: 120403 total contact: 32929
+Largest contact list is: 417 #islands: 120353 total contact: 33093
+Largest contact list is: 621 #islands: 120361 total contact: 32940
+ T1 = 11.4282 seconds. T2 = 22.6576 seconds. T3 = 32.2312
+ T4 = 12.6481 seconds. T5 = 1.43891 seconds. T6 = 151.525
+ T7 = 115.589 seconds. T8 = 13.9186 seconds. T9 = 0.0182985
+THIS IS ITERATION: 280 kinematic energy is: 4.24805e+12 max velocity is: 523.473 max Omega is: 267.035
+Largest contact list is: 575 #islands: 120178 total contact: 33092
+Largest contact list is: 334 #islands: 120408 total contact: 32983
+Largest contact list is: 625 #islands: 120085 total contact: 33277
+Largest contact list is: 456 #islands: 120128 total contact: 33034
+Largest contact list is: 451 #islands: 120318 total contact: 33022
+ T1 = 11.6315 seconds. T2 = 23.0827 seconds. T3 = 32.863
+ T4 = 12.8736 seconds. T5 = 1.45535 seconds. T6 = 154.566
+ T7 = 117.612 seconds. T8 = 14.1661 seconds. T9 = 0.0186082
+THIS IS ITERATION: 285 kinematic energy is: 4.19429e+12 max velocity is: 523.204 max Omega is: 266.902
+Largest contact list is: 604 #islands: 120141 total contact: 33102
+Largest contact list is: 572 #islands: 120022 total contact: 33170
+Largest contact list is: 420 #islands: 119985 total contact: 33309
+Largest contact list is: 574 #islands: 120066 total contact: 33086
+Largest contact list is: 291 #islands: 120141 total contact: 32953
+ T1 = 11.8163 seconds. T2 = 23.4976 seconds. T3 = 33.5058
+ T4 = 13.1032 seconds. T5 = 1.49475 seconds. T6 = 157.617
+ T7 = 119.64 seconds. T8 = 14.4103 seconds. T9 = 0.0189029
+THIS IS ITERATION: 290 kinematic energy is: 4.14274e+12 max velocity is: 522.949 max Omega is: 266.768
+Largest contact list is: 512 #islands: 119934 total contact: 33254
+Largest contact list is: 644 #islands: 120077 total contact: 33151
+Largest contact list is: 429 #islands: 120032 total contact: 33064
+Largest contact list is: 848 #islands: 120105 total contact: 33071
+Largest contact list is: 573 #islands: 119984 total contact: 33145
+ T1 = 11.9903 seconds. T2 = 23.9368 seconds. T3 = 34.1875
+ T4 = 13.3327 seconds. T5 = 1.52449 seconds. T6 = 160.884
+ T7 = 121.676 seconds. T8 = 14.6542 seconds. T9 = 0.0191996
+THIS IS ITERATION: 295 kinematic energy is: 4.09134e+12 max velocity is: 522.677 max Omega is: 266.635
+Largest contact list is: 630 #islands: 120106 total contact: 32765
+Largest contact list is: 824 #islands: 119947 total contact: 32875
+Largest contact list is: 567 #islands: 120025 total contact: 32995
+Largest contact list is: 632 #islands: 119880 total contact: 33117
+Largest contact list is: 891 #islands: 120055 total contact: 33302
+ T1 = 12.1754 seconds. T2 = 24.3601 seconds. T3 = 34.9932
+ T4 = 13.5634 seconds. T5 = 1.55109 seconds. T6 = 164.273
+ T7 = 123.713 seconds. T8 = 14.8986 seconds. T9 = 0.0195001
+THIS IS ITERATION: 300 kinematic energy is: 4.04152e+12 max velocity is: 501.729 max Omega is: 266.502
+Largest contact list is: 497 #islands: 119919 total contact: 33368
+Largest contact list is: 694 #islands: 119793 total contact: 33236
+Largest contact list is: 695 #islands: 119834 total contact: 33210
+Largest contact list is: 510 #islands: 119861 total contact: 33256
+Largest contact list is: 531 #islands: 120218 total contact: 32978
+ T1 = 12.3727 seconds. T2 = 24.7749 seconds. T3 = 35.7767
+ T4 = 13.7932 seconds. T5 = 1.58609 seconds. T6 = 167.595
+ T7 = 125.8 seconds. T8 = 15.1458 seconds. T9 = 0.0198081
+THIS IS ITERATION: 305 kinematic energy is: 3.99717e+12 max velocity is: 501.472 max Omega is: 266.369
+Largest contact list is: 683 #islands: 120076 total contact: 32928
+Largest contact list is: 698 #islands: 120121 total contact: 32720
+Largest contact list is: 615 #islands: 120024 total contact: 32930
+Largest contact list is: 638 #islands: 120075 total contact: 32841
+Largest contact list is: 622 #islands: 119853 total contact: 33106
+ T1 = 12.5932 seconds. T2 = 25.1995 seconds. T3 = 36.4687
+ T4 = 14.0222 seconds. T5 = 1.61373 seconds. T6 = 170.862
+ T7 = 127.843 seconds. T8 = 15.3896 seconds. T9 = 0.0201009
+THIS IS ITERATION: 310 kinematic energy is: 3.95138e+12 max velocity is: 501.209 max Omega is: 266.235
+Largest contact list is: 537 #islands: 119712 total contact: 33339
+Largest contact list is: 401 #islands: 119947 total contact: 33269
+Largest contact list is: 657 #islands: 119843 total contact: 33221
+Largest contact list is: 887 #islands: 119836 total contact: 33452
+Largest contact list is: 502 #islands: 119748 total contact: 33340
+ T1 = 12.8304 seconds. T2 = 25.6399 seconds. T3 = 37.1662
+ T4 = 14.248 seconds. T5 = 1.64021 seconds. T6 = 174.165
+ T7 = 129.866 seconds. T8 = 15.636 seconds. T9 = 0.0204207
+THIS IS ITERATION: 315 kinematic energy is: 3.90744e+12 max velocity is: 500.961 max Omega is: 266.102
+Largest contact list is: 506 #islands: 119899 total contact: 33145
+Largest contact list is: 398 #islands: 119803 total contact: 33321
+Largest contact list is: 629 #islands: 119641 total contact: 33438
+Largest contact list is: 490 #islands: 119662 total contact: 33335
+Largest contact list is: 505 #islands: 119721 total contact: 33336
+ T1 = 13.05 seconds. T2 = 26.0835 seconds. T3 = 37.8616
+ T4 = 14.4751 seconds. T5 = 1.65647 seconds. T6 = 177.322
+ T7 = 131.905 seconds. T8 = 15.8867 seconds. T9 = 0.0207169
+THIS IS ITERATION: 320 kinematic energy is: 3.86343e+12 max velocity is: 500.716 max Omega is: 265.969
+Largest contact list is: 562 #islands: 119701 total contact: 33252
+Largest contact list is: 512 #islands: 119623 total contact: 33322
+Largest contact list is: 411 #islands: 119623 total contact: 33410
+Largest contact list is: 460 #islands: 119619 total contact: 33746
+Largest contact list is: 466 #islands: 120022 total contact: 33028
+ T1 = 13.2693 seconds. T2 = 26.507 seconds. T3 = 38.6591
+ T4 = 14.707 seconds. T5 = 1.67311 seconds. T6 = 180.43
+ T7 = 133.942 seconds. T8 = 16.1419 seconds. T9 = 0.0210512
+THIS IS ITERATION: 325 kinematic energy is: 3.81717e+12 max velocity is: 582.534 max Omega is: 265.836
+Largest contact list is: 625 #islands: 119984 total contact: 33232
+Largest contact list is: 640 #islands: 119929 total contact: 33144
+Largest contact list is: 644 #islands: 119678 total contact: 33350
+Largest contact list is: 834 #islands: 119524 total contact: 33703
+Largest contact list is: 501 #islands: 119392 total contact: 33587
+ T1 = 13.5106 seconds. T2 = 26.9571 seconds. T3 = 39.2832
+ T4 = 14.934 seconds. T5 = 1.68963 seconds. T6 = 183.724
+ T7 = 135.97 seconds. T8 = 16.3946 seconds. T9 = 0.0213528
+THIS IS ITERATION: 330 kinematic energy is: 3.77232e+12 max velocity is: 582.238 max Omega is: 265.703
+Largest contact list is: 717 #islands: 119358 total contact: 33626
+Largest contact list is: 552 #islands: 119437 total contact: 33611
+Largest contact list is: 575 #islands: 119435 total contact: 33523
+Largest contact list is: 468 #islands: 119384 total contact: 33449
+Largest contact list is: 616 #islands: 119620 total contact: 33188
+ T1 = 13.7673 seconds. T2 = 27.4118 seconds. T3 = 39.9919
+ T4 = 15.1616 seconds. T5 = 1.7172 seconds. T6 = 187.008
+ T7 = 138.026 seconds. T8 = 16.6456 seconds. T9 = 0.0216618
+THIS IS ITERATION: 335 kinematic energy is: 3.732e+12 max velocity is: 581.944 max Omega is: 265.571
+Largest contact list is: 693 #islands: 119656 total contact: 33242
+Largest contact list is: 399 #islands: 119185 total contact: 33831
+Largest contact list is: 456 #islands: 119282 total contact: 33895
+Largest contact list is: 640 #islands: 119167 total contact: 33729
+Largest contact list is: 988 #islands: 119210 total contact: 33914
+ T1 = 13.9745 seconds. T2 = 27.844 seconds. T3 = 40.6204
+ T4 = 15.3882 seconds. T5 = 1.73435 seconds. T6 = 190.399
+ T7 = 140.088 seconds. T8 = 16.8955 seconds. T9 = 0.0219674
+THIS IS ITERATION: 340 kinematic energy is: 3.69162e+12 max velocity is: 581.642 max Omega is: 265.438
+Largest contact list is: 680 #islands: 119252 total contact: 33733
+Largest contact list is: 562 #islands: 119302 total contact: 33589
+Largest contact list is: 405 #islands: 119291 total contact: 33560
+Largest contact list is: 534 #islands: 119088 total contact: 33812
+Largest contact list is: 718 #islands: 118975 total contact: 34074
+ T1 = 14.1921 seconds. T2 = 28.2818 seconds. T3 = 41.4334
+ T4 = 15.6136 seconds. T5 = 1.76453 seconds. T6 = 193.663
+ T7 = 142.178 seconds. T8 = 17.1443 seconds. T9 = 0.0222619
+THIS IS ITERATION: 345 kinematic energy is: 3.65068e+12 max velocity is: 581.364 max Omega is: 265.305
+Largest contact list is: 609 #islands: 119173 total contact: 33692
+Largest contact list is: 630 #islands: 118895 total contact: 33884
+Largest contact list is: 580 #islands: 119055 total contact: 33686
+Largest contact list is: 551 #islands: 119047 total contact: 33558
+Largest contact list is: 478 #islands: 118969 total contact: 33725
+ T1 = 14.4679 seconds. T2 = 28.721 seconds. T3 = 42.1014
+ T4 = 15.8362 seconds. T5 = 1.79135 seconds. T6 = 196.796
+ T7 = 144.211 seconds. T8 = 17.392 seconds. T9 = 0.0226242
+THIS IS ITERATION: 350 kinematic energy is: 3.61147e+12 max velocity is: 581.068 max Omega is: 260.569
+Largest contact list is: 659 #islands: 118948 total contact: 33777
+Largest contact list is: 661 #islands: 118852 total contact: 34055
+Largest contact list is: 605 #islands: 118802 total contact: 33892
+Largest contact list is: 543 #islands: 118925 total contact: 33786
+Largest contact list is: 509 #islands: 119019 total contact: 33502
+ T1 = 14.6768 seconds. T2 = 29.1782 seconds. T3 = 42.7916
+ T4 = 16.0661 seconds. T5 = 1.8082 seconds. T6 = 199.94
+ T7 = 146.228 seconds. T8 = 17.6362 seconds. T9 = 0.0229113
+THIS IS ITERATION: 355 kinematic energy is: 3.57231e+12 max velocity is: 580.779 max Omega is: 260.438
+Largest contact list is: 551 #islands: 119029 total contact: 33590
+Largest contact list is: 871 #islands: 119081 total contact: 34015
+Largest contact list is: 638 #islands: 118960 total contact: 33989
+Largest contact list is: 361 #islands: 118956 total contact: 33866
+Largest contact list is: 252 #islands: 118796 total contact: 33951
+ T1 = 14.8894 seconds. T2 = 29.6058 seconds. T3 = 43.5472
+ T4 = 16.2977 seconds. T5 = 1.84611 seconds. T6 = 203.165
+ T7 = 148.364 seconds. T8 = 17.882 seconds. T9 = 0.0232182
+THIS IS ITERATION: 360 kinematic energy is: 3.53356e+12 max velocity is: 580.474 max Omega is: 260.308
+Largest contact list is: 551 #islands: 119032 total contact: 33725
+Largest contact list is: 485 #islands: 118870 total contact: 33871
+Largest contact list is: 407 #islands: 118894 total contact: 33862
+Largest contact list is: 663 #islands: 119048 total contact: 33777
+Largest contact list is: 569 #islands: 118629 total contact: 34182
+ T1 = 15.0966 seconds. T2 = 30.0471 seconds. T3 = 44.1356
+ T4 = 16.5228 seconds. T5 = 1.86435 seconds. T6 = 206.263
+ T7 = 150.408 seconds. T8 = 18.1308 seconds. T9 = 0.0235233
+THIS IS ITERATION: 365 kinematic energy is: 3.49676e+12 max velocity is: 580.165 max Omega is: 260.178
+Largest contact list is: 706 #islands: 118729 total contact: 34083
+Largest contact list is: 603 #islands: 119035 total contact: 33686
+Largest contact list is: 653 #islands: 118935 total contact: 33745
+Largest contact list is: 723 #islands: 119181 total contact: 33723
+Largest contact list is: 589 #islands: 118904 total contact: 33735
+ T1 = 15.2572 seconds. T2 = 30.5 seconds. T3 = 44.8461
+ T4 = 16.7517 seconds. T5 = 1.89464 seconds. T6 = 209.543
+ T7 = 152.448 seconds. T8 = 18.3785 seconds. T9 = 0.0238364
+THIS IS ITERATION: 370 kinematic energy is: 3.46162e+12 max velocity is: 579.865 max Omega is: 260.048
+Largest contact list is: 487 #islands: 118943 total contact: 33734
+Largest contact list is: 566 #islands: 118891 total contact: 33616
+Largest contact list is: 577 #islands: 118899 total contact: 33649
+Largest contact list is: 824 #islands: 118945 total contact: 33498
+Largest contact list is: 549 #islands: 119012 total contact: 33425
+ T1 = 15.486 seconds. T2 = 30.9379 seconds. T3 = 45.6034
+ T4 = 16.982 seconds. T5 = 1.93818 seconds. T6 = 212.708
+ T7 = 154.463 seconds. T8 = 18.6333 seconds. T9 = 0.0241607
+THIS IS ITERATION: 375 kinematic energy is: 3.4275e+12 max velocity is: 579.608 max Omega is: 259.918
+Largest contact list is: 609 #islands: 118853 total contact: 33728
+Largest contact list is: 569 #islands: 119030 total contact: 33447
+Largest contact list is: 527 #islands: 118722 total contact: 33748
+Largest contact list is: 549 #islands: 118880 total contact: 33387
+Largest contact list is: 706 #islands: 118694 total contact: 33968
+ T1 = 15.6734 seconds. T2 = 31.3699 seconds. T3 = 46.3635
+ T4 = 17.2141 seconds. T5 = 1.98138 seconds. T6 = 215.912
+ T7 = 156.492 seconds. T8 = 18.8828 seconds. T9 = 0.0244657
+THIS IS ITERATION: 380 kinematic energy is: 3.39222e+12 max velocity is: 579.325 max Omega is: 259.788
+Largest contact list is: 570 #islands: 118621 total contact: 33907
+Largest contact list is: 844 #islands: 118491 total contact: 34310
+Largest contact list is: 680 #islands: 118462 total contact: 33996
+Largest contact list is: 591 #islands: 118354 total contact: 34172
+Largest contact list is: 695 #islands: 118425 total contact: 34066
+ T1 = 15.8938 seconds. T2 = 31.8122 seconds. T3 = 47.178
+ T4 = 17.4457 seconds. T5 = 2.01652 seconds. T6 = 219.263
+ T7 = 158.559 seconds. T8 = 19.1271 seconds. T9 = 0.024746
+THIS IS ITERATION: 385 kinematic energy is: 3.35866e+12 max velocity is: 579.036 max Omega is: 259.658
+Largest contact list is: 543 #islands: 118574 total contact: 33825
+Largest contact list is: 423 #islands: 118446 total contact: 33807
+Largest contact list is: 563 #islands: 118403 total contact: 34020
+Largest contact list is: 585 #islands: 118567 total contact: 34189
+Largest contact list is: 605 #islands: 118477 total contact: 34297
+ T1 = 16.1144 seconds. T2 = 32.2593 seconds. T3 = 47.8562
+ T4 = 17.6777 seconds. T5 = 2.0337 seconds. T6 = 222.419
+ T7 = 160.668 seconds. T8 = 19.3737 seconds. T9 = 0.0250458
+THIS IS ITERATION: 390 kinematic energy is: 3.32509e+12 max velocity is: 578.764 max Omega is: 259.528
+Largest contact list is: 574 #islands: 118548 total contact: 33877
+Largest contact list is: 578 #islands: 118262 total contact: 33968
+Largest contact list is: 629 #islands: 118369 total contact: 33820
+Largest contact list is: 753 #islands: 118520 total contact: 33902
+Largest contact list is: 935 #islands: 118430 total contact: 33884
+ T1 = 16.3453 seconds. T2 = 32.706 seconds. T3 = 48.3655
+ T4 = 17.9067 seconds. T5 = 2.05233 seconds. T6 = 225.789
+ T7 = 162.736 seconds. T8 = 19.6202 seconds. T9 = 0.0253219
+THIS IS ITERATION: 395 kinematic energy is: 3.29312e+12 max velocity is: 578.492 max Omega is: 259.399
+Largest contact list is: 607 #islands: 118608 total contact: 33724
+Largest contact list is: 607 #islands: 118394 total contact: 33954
+Largest contact list is: 634 #islands: 118609 total contact: 33675
+Largest contact list is: 728 #islands: 118563 total contact: 33563
+Largest contact list is: 724 #islands: 118432 total contact: 33786
+ T1 = 16.595 seconds. T2 = 33.153 seconds. T3 = 49.0662
+ T4 = 18.1354 seconds. T5 = 2.08762 seconds. T6 = 229.1
+ T7 = 164.775 seconds. T8 = 19.867 seconds. T9 = 0.0256352
+THIS IS ITERATION: 400 kinematic energy is: 3.26118e+12 max velocity is: 578.2 max Omega is: 259.269
+Largest contact list is: 605 #islands: 118456 total contact: 33347
+Largest contact list is: 660 #islands: 118222 total contact: 33764
+Largest contact list is: 783 #islands: 118223 total contact: 33906
+Largest contact list is: 634 #islands: 118141 total contact: 33848
+Largest contact list is: 954 #islands: 118064 total contact: 33813
+ T1 = 16.847 seconds. T2 = 33.5796 seconds. T3 = 49.6898
+ T4 = 18.368 seconds. T5 = 2.10768 seconds. T6 = 232.47
+ T7 = 166.806 seconds. T8 = 20.1177 seconds. T9 = 0.0259571
+THIS IS ITERATION: 405 kinematic energy is: 3.22792e+12 max velocity is: 577.902 max Omega is: 259.139
+Largest contact list is: 699 #islands: 117907 total contact: 34079
+Largest contact list is: 764 #islands: 118066 total contact: 33774
+Largest contact list is: 873 #islands: 117921 total contact: 33872
+Largest contact list is: 897 #islands: 117810 total contact: 34601
+Largest contact list is: 669 #islands: 117981 total contact: 33997
+ T1 = 17.0324 seconds. T2 = 34.0317 seconds. T3 = 50.3676
+ T4 = 18.5961 seconds. T5 = 2.12517 seconds. T6 = 236.036
+ T7 = 168.842 seconds. T8 = 20.3645 seconds. T9 = 0.0262442
+THIS IS ITERATION: 410 kinematic energy is: 3.19817e+12 max velocity is: 577.618 max Omega is: 259.01
+Largest contact list is: 683 #islands: 117755 total contact: 33987
+Largest contact list is: 605 #islands: 117802 total contact: 34155
+Largest contact list is: 655 #islands: 117807 total contact: 33914
+Largest contact list is: 628 #islands: 117779 total contact: 33896
+Largest contact list is: 996 #islands: 117761 total contact: 34158
+ T1 = 17.2668 seconds. T2 = 34.4856 seconds. T3 = 50.991
+ T4 = 18.8347 seconds. T5 = 2.15753 seconds. T6 = 239.482
+ T7 = 170.877 seconds. T8 = 20.6104 seconds. T9 = 0.0265269
+THIS IS ITERATION: 415 kinematic energy is: 3.17036e+12 max velocity is: 577.325 max Omega is: 258.88
+Largest contact list is: 641 #islands: 117752 total contact: 33880
+Largest contact list is: 711 #islands: 117621 total contact: 33777
+Largest contact list is: 731 #islands: 117681 total contact: 34165
+Largest contact list is: 702 #islands: 117886 total contact: 33992
+Largest contact list is: 1029 #islands: 117767 total contact: 34382
+ T1 = 17.5045 seconds. T2 = 34.9297 seconds. T3 = 51.7837
+ T4 = 19.0636 seconds. T5 = 2.17497 seconds. T6 = 243.053
+ T7 = 172.914 seconds. T8 = 20.8603 seconds. T9 = 0.0268367
+THIS IS ITERATION: 420 kinematic energy is: 3.14262e+12 max velocity is: 577.034 max Omega is: 258.751
+Largest contact list is: 677 #islands: 118149 total contact: 33840
+Largest contact list is: 772 #islands: 117823 total contact: 33780
+Largest contact list is: 667 #islands: 118002 total contact: 33834
+Largest contact list is: 593 #islands: 118143 total contact: 34005
+Largest contact list is: 722 #islands: 118211 total contact: 33959
+ T1 = 17.7341 seconds. T2 = 35.3583 seconds. T3 = 52.5613
+ T4 = 19.2942 seconds. T5 = 2.2255 seconds. T6 = 246.46
+ T7 = 174.972 seconds. T8 = 21.1162 seconds. T9 = 0.0271569
+THIS IS ITERATION: 425 kinematic energy is: 3.11425e+12 max velocity is: 576.748 max Omega is: 258.621
+Largest contact list is: 679 #islands: 118070 total contact: 33984
+Largest contact list is: 717 #islands: 118015 total contact: 33771
+Largest contact list is: 750 #islands: 118044 total contact: 33769
+Largest contact list is: 567 #islands: 118178 total contact: 33429
+Largest contact list is: 606 #islands: 118239 total contact: 33441
+ T1 = 17.9882 seconds. T2 = 35.8115 seconds. T3 = 53.2333
+ T4 = 19.5253 seconds. T5 = 2.25658 seconds. T6 = 249.774
+ T7 = 177.023 seconds. T8 = 21.3666 seconds. T9 = 0.0274346
+THIS IS ITERATION: 430 kinematic energy is: 3.08635e+12 max velocity is: 576.468 max Omega is: 258.492
+Largest contact list is: 670 #islands: 117891 total contact: 33911
+Largest contact list is: 782 #islands: 117966 total contact: 33566
+Largest contact list is: 922 #islands: 117815 total contact: 33736
+Largest contact list is: 695 #islands: 117860 total contact: 33761
+Largest contact list is: 650 #islands: 117524 total contact: 34041
+ T1 = 18.1935 seconds. T2 = 36.2459 seconds. T3 = 53.8504
+ T4 = 19.7765 seconds. T5 = 2.27458 seconds. T6 = 253.22
+ T7 = 179.072 seconds. T8 = 21.6248 seconds. T9 = 0.0277571
+THIS IS ITERATION: 435 kinematic energy is: 3.05848e+12 max velocity is: 576.167 max Omega is: 258.363
+Largest contact list is: 805 #islands: 117563 total contact: 33803
+Largest contact list is: 768 #islands: 117554 total contact: 34104
+Largest contact list is: 789 #islands: 117619 total contact: 33674
+Largest contact list is: 812 #islands: 117675 total contact: 33975
+Largest contact list is: 730 #islands: 117644 total contact: 33664
+ T1 = 18.4184 seconds. T2 = 36.6971 seconds. T3 = 54.6514
+ T4 = 20.0062 seconds. T5 = 2.29235 seconds. T6 = 256.73
+ T7 = 181.121 seconds. T8 = 21.8711 seconds. T9 = 0.0280796
+THIS IS ITERATION: 440 kinematic energy is: 3.02985e+12 max velocity is: 575.876 max Omega is: 258.234
+Largest contact list is: 957 #islands: 117756 total contact: 34104
+Largest contact list is: 922 #islands: 117837 total contact: 33728
+Largest contact list is: 1156 #islands: 117617 total contact: 34527
+Largest contact list is: 775 #islands: 117541 total contact: 34260
+Largest contact list is: 638 #islands: 117325 total contact: 33761
+ T1 = 18.59 seconds. T2 = 37.1469 seconds. T3 = 55.3331
+ T4 = 20.2365 seconds. T5 = 2.3377 seconds. T6 = 260.441
+ T7 = 183.176 seconds. T8 = 22.1185 seconds. T9 = 0.0283917
+THIS IS ITERATION: 445 kinematic energy is: 3.0025e+12 max velocity is: 575.591 max Omega is: 258.105
+Largest contact list is: 735 #islands: 117439 total contact: 34148
+Largest contact list is: 733 #islands: 117756 total contact: 33747
+Largest contact list is: 610 #islands: 117376 total contact: 33778
+Largest contact list is: 703 #islands: 117335 total contact: 33945
+Largest contact list is: 1117 #islands: 117417 total contact: 34815
+ T1 = 18.8143 seconds. T2 = 37.5912 seconds. T3 = 56.0746
+ T4 = 20.469 seconds. T5 = 2.37935 seconds. T6 = 263.976
+ T7 = 185.219 seconds. T8 = 22.3688 seconds. T9 = 0.0286906
+THIS IS ITERATION: 450 kinematic energy is: 2.97601e+12 max velocity is: 575.295 max Omega is: 246.484
+Largest contact list is: 969 #islands: 117679 total contact: 34010
+Largest contact list is: 883 #islands: 117506 total contact: 34392
+Largest contact list is: 1099 #islands: 117619 total contact: 34381
+Largest contact list is: 805 #islands: 117557 total contact: 34309
+Largest contact list is: 656 #islands: 117628 total contact: 34087
+ T1 = 19.0413 seconds. T2 = 38.0343 seconds. T3 = 56.6331
+ T4 = 20.6981 seconds. T5 = 2.41013 seconds. T6 = 267.681
+ T7 = 187.254 seconds. T8 = 22.6139 seconds. T9 = 0.0289917
+THIS IS ITERATION: 455 kinematic energy is: 2.94856e+12 max velocity is: 727.699 max Omega is: 246.361
+Largest contact list is: 965 #islands: 117613 total contact: 34462
+Largest contact list is: 632 #islands: 117703 total contact: 33942
+Largest contact list is: 779 #islands: 117489 total contact: 34117
+Largest contact list is: 1106 #islands: 117410 total contact: 34445
+Largest contact list is: 959 #islands: 117392 total contact: 34850
+ T1 = 19.2807 seconds. T2 = 38.48 seconds. T3 = 57.3248
+ T4 = 20.9282 seconds. T5 = 2.42812 seconds. T6 = 271.443
+ T7 = 189.287 seconds. T8 = 22.858 seconds. T9 = 0.0292812
+THIS IS ITERATION: 460 kinematic energy is: 2.92182e+12 max velocity is: 727.371 max Omega is: 246.238
+Largest contact list is: 731 #islands: 117526 total contact: 33842
+Largest contact list is: 802 #islands: 117456 total contact: 34114
+Largest contact list is: 1067 #islands: 117489 total contact: 34055
+Largest contact list is: 897 #islands: 117371 total contact: 34195
+Largest contact list is: 1025 #islands: 117321 total contact: 34325
+ T1 = 19.5229 seconds. T2 = 38.9211 seconds. T3 = 57.8829
+ T4 = 21.1578 seconds. T5 = 2.44594 seconds. T6 = 275.141
+ T7 = 191.296 seconds. T8 = 23.1033 seconds. T9 = 0.0295993
+THIS IS ITERATION: 465 kinematic energy is: 2.89713e+12 max velocity is: 727.019 max Omega is: 246.115
+Largest contact list is: 847 #islands: 117512 total contact: 33814
+Largest contact list is: 804 #islands: 117471 total contact: 34300
+Largest contact list is: 821 #islands: 117372 total contact: 34454
+Largest contact list is: 731 #islands: 117397 total contact: 34259
+Largest contact list is: 662 #islands: 117403 total contact: 34033
+ T1 = 19.7571 seconds. T2 = 39.3697 seconds. T3 = 58.5712
+ T4 = 21.3891 seconds. T5 = 2.46383 seconds. T6 = 278.584
+ T7 = 193.316 seconds. T8 = 23.3512 seconds. T9 = 0.0298817
+THIS IS ITERATION: 470 kinematic energy is: 2.87238e+12 max velocity is: 726.654 max Omega is: 245.992
+Largest contact list is: 700 #islands: 117235 total contact: 34277
+Largest contact list is: 746 #islands: 117313 total contact: 33870
+Largest contact list is: 641 #islands: 117250 total contact: 34210
+Largest contact list is: 772 #islands: 117479 total contact: 33834
+Largest contact list is: 741 #islands: 117564 total contact: 33901
+ T1 = 19.9587 seconds. T2 = 39.8115 seconds. T3 = 59.1664
+ T4 = 21.6264 seconds. T5 = 2.4818 seconds. T6 = 281.939
+ T7 = 195.347 seconds. T8 = 23.5953 seconds. T9 = 0.0301783
+THIS IS ITERATION: 475 kinematic energy is: 2.84627e+12 max velocity is: 726.299 max Omega is: 245.869
+Largest contact list is: 843 #islands: 117489 total contact: 34224
+Largest contact list is: 828 #islands: 117595 total contact: 34028
+Largest contact list is: 738 #islands: 117260 total contact: 34528
+Largest contact list is: 650 #islands: 117328 total contact: 34359
+Largest contact list is: 673 #islands: 117298 total contact: 34258
+ T1 = 20.1512 seconds. T2 = 40.2537 seconds. T3 = 59.7976
+ T4 = 21.863 seconds. T5 = 2.526 seconds. T6 = 285.371
+ T7 = 197.364 seconds. T8 = 23.8537 seconds. T9 = 0.0304733
+THIS IS ITERATION: 480 kinematic energy is: 2.82118e+12 max velocity is: 725.927 max Omega is: 245.746
+Largest contact list is: 818 #islands: 117300 total contact: 34225
+Largest contact list is: 653 #islands: 117106 total contact: 34343
+Largest contact list is: 962 #islands: 117048 total contact: 35081
+Largest contact list is: 695 #islands: 116974 total contact: 34630
+Largest contact list is: 861 #islands: 117237 total contact: 34054
+ T1 = 20.3535 seconds. T2 = 40.6824 seconds. T3 = 60.4792
+ T4 = 22.0983 seconds. T5 = 2.55799 seconds. T6 = 288.912
+ T7 = 199.371 seconds. T8 = 24.1005 seconds. T9 = 0.0307766
+THIS IS ITERATION: 485 kinematic energy is: 2.79577e+12 max velocity is: 725.592 max Omega is: 241.003
+Largest contact list is: 884 #islands: 117122 total contact: 34190
+Largest contact list is: 987 #islands: 117204 total contact: 34169
+Largest contact list is: 934 #islands: 117149 total contact: 34863
+Largest contact list is: 893 #islands: 117147 total contact: 34330
+Largest contact list is: 686 #islands: 117048 total contact: 34615
+ T1 = 20.5778 seconds. T2 = 41.1431 seconds. T3 = 61.0142
+ T4 = 22.332 seconds. T5 = 2.6168 seconds. T6 = 292.587
+ T7 = 201.4 seconds. T8 = 24.3501 seconds. T9 = 0.0311058
+THIS IS ITERATION: 490 kinematic energy is: 2.77207e+12 max velocity is: 725.219 max Omega is: 240.882
+Largest contact list is: 1043 #islands: 117104 total contact: 34965
+Largest contact list is: 1190 #islands: 117292 total contact: 34613
+Largest contact list is: 1188 #islands: 117099 total contact: 34667
+Largest contact list is: 858 #islands: 117223 total contact: 34353
+Largest contact list is: 969 #islands: 117215 total contact: 34900
+ T1 = 20.8209 seconds. T2 = 41.6246 seconds. T3 = 61.5601
+ T4 = 22.5698 seconds. T5 = 2.63551 seconds. T6 = 296.551
+ T7 = 203.441 seconds. T8 = 24.5997 seconds. T9 = 0.0314219
+THIS IS ITERATION: 495 kinematic energy is: 2.74926e+12 max velocity is: 724.865 max Omega is: 240.762
+Largest contact list is: 1128 #islands: 117282 total contact: 34492
+Largest contact list is: 717 #islands: 117127 total contact: 34285
+Largest contact list is: 672 #islands: 116907 total contact: 34548
+Largest contact list is: 827 #islands: 116971 total contact: 34507
+Largest contact list is: 981 #islands: 117075 total contact: 34323
+ T1 = 21.0501 seconds. T2 = 42.1074 seconds. T3 = 62.0284
+ T4 = 22.8052 seconds. T5 = 2.65508 seconds. T6 = 300.182
+ T7 = 205.488 seconds. T8 = 24.8538 seconds. T9 = 0.0317669
+THIS IS ITERATION: 500 kinematic energy is: 2.72615e+12 max velocity is: 724.509 max Omega is: 240.642
+Largest contact list is: 624 #islands: 117102 total contact: 34178
+Largest contact list is: 1076 #islands: 116999 total contact: 34669
+Largest contact list is: 885 #islands: 117238 total contact: 34156
+Largest contact list is: 729 #islands: 117409 total contact: 33856
+Largest contact list is: 1274 #islands: 117234 total contact: 35185
+ T1 = 0.196865 seconds. T2 = 0.446821 seconds. T3 = 0.574317
+ T4 = 0.23305 seconds. T5 = 0.0314284 seconds. T6 = 3.89794
+ T7 = 2.0496 seconds. T8 = 0.255399 seconds. T9 = 0.000358444
+THIS IS ITERATION: 505 kinematic energy is: 2.70402e+12 max velocity is: 724.125 max Omega is: 240.521
+Largest contact list is: 779 #islands: 117325 total contact: 34387
+Largest contact list is: 917 #islands: 117303 total contact: 34424
+Largest contact list is: 807 #islands: 117346 total contact: 34270
+Largest contact list is: 748 #islands: 117278 total contact: 34361
+Largest contact list is: 690 #islands: 117214 total contact: 34505
+ T1 = 0.432087 seconds. T2 = 0.8962 seconds. T3 = 1.20032
+ T4 = 0.467102 seconds. T5 = 0.0635753 seconds. T6 = 7.41276
+ T7 = 4.08504 seconds. T8 = 0.499864 seconds. T9 = 0.000674897
+THIS IS ITERATION: 510 kinematic energy is: 2.68243e+12 max velocity is: 723.754 max Omega is: 240.401
+Largest contact list is: 1168 #islands: 117260 total contact: 34691
+Largest contact list is: 965 #islands: 117141 total contact: 34484
+Largest contact list is: 1040 #islands: 117166 total contact: 35073
+Largest contact list is: 874 #islands: 117194 total contact: 34504
+Largest contact list is: 620 #islands: 117393 total contact: 34040
+ T1 = 0.598699 seconds. T2 = 1.33477 seconds. T3 = 1.44635
+ T4 = 0.701699 seconds. T5 = 0.0831315 seconds. T6 = 11.2098
+ T7 = 6.11708 seconds. T8 = 0.745575 seconds. T9 = 0.000994929
+THIS IS ITERATION: 515 kinematic energy is: 2.66061e+12 max velocity is: 723.393 max Omega is: 240.281
+Largest contact list is: 853 #islands: 117189 total contact: 34399
+Largest contact list is: 1196 #islands: 117156 total contact: 34664
+Largest contact list is: 744 #islands: 117101 total contact: 34169
+Largest contact list is: 955 #islands: 116977 total contact: 34895
+Largest contact list is: 807 #islands: 117038 total contact: 34574
+ T1 = 0.850298 seconds. T2 = 1.77589 seconds. T3 = 1.89941
+ T4 = 0.941446 seconds. T5 = 0.112759 seconds. T6 = 14.9757
+ T7 = 8.17481 seconds. T8 = 0.991218 seconds. T9 = 0.0013106
+THIS IS ITERATION: 520 kinematic energy is: 2.63967e+12 max velocity is: 723.03 max Omega is: 240.161
+Largest contact list is: 733 #islands: 117044 total contact: 34591
+Largest contact list is: 979 #islands: 116916 total contact: 35118
+Largest contact list is: 623 #islands: 116999 total contact: 34449
+Largest contact list is: 718 #islands: 116990 total contact: 34276
+Largest contact list is: 831 #islands: 117083 total contact: 34415
+ T1 = 1.07426 seconds. T2 = 2.22364 seconds. T3 = 2.5387
+ T4 = 1.18494 seconds. T5 = 0.153385 seconds. T6 = 18.484
+ T7 = 10.2373 seconds. T8 = 1.2402 seconds. T9 = 0.00162681
+THIS IS ITERATION: 525 kinematic energy is: 2.61938e+12 max velocity is: 710.188 max Omega is: 240.041
+Largest contact list is: 1154 #islands: 117167 total contact: 34472
+Largest contact list is: 1033 #islands: 117002 total contact: 34732
+Largest contact list is: 712 #islands: 117347 total contact: 33894
+Largest contact list is: 779 #islands: 117167 total contact: 33903
+Largest contact list is: 862 #islands: 117117 total contact: 34373
+ T1 = 1.29081 seconds. T2 = 2.67132 seconds. T3 = 3.00962
+ T4 = 1.42355 seconds. T5 = 0.179465 seconds. T6 = 22.2226
+ T7 = 12.2821 seconds. T8 = 1.48894 seconds. T9 = 0.00193783
+THIS IS ITERATION: 530 kinematic energy is: 2.59924e+12 max velocity is: 716.967 max Omega is: 239.921
+Largest contact list is: 1071 #islands: 117124 total contact: 34389
+Largest contact list is: 1051 #islands: 116947 total contact: 34944
+Largest contact list is: 788 #islands: 116955 total contact: 34210
+Largest contact list is: 894 #islands: 116869 total contact: 34465
+Largest contact list is: 746 #islands: 116773 total contact: 34268
+ T1 = 1.53262 seconds. T2 = 3.10408 seconds. T3 = 3.4629
+ T4 = 1.65956 seconds. T5 = 0.199683 seconds. T6 = 25.9966
+ T7 = 14.3425 seconds. T8 = 1.7381 seconds. T9 = 0.00224305
+THIS IS ITERATION: 535 kinematic energy is: 2.57881e+12 max velocity is: 716.614 max Omega is: 239.801
+Largest contact list is: 1097 #islands: 116769 total contact: 34679
+Largest contact list is: 995 #islands: 116771 total contact: 35021
+Largest contact list is: 986 #islands: 116747 total contact: 34984
+Largest contact list is: 1205 #islands: 116840 total contact: 34969
+Largest contact list is: 1264 #islands: 116805 total contact: 34586
+ T1 = 1.71452 seconds. T2 = 3.55766 seconds. T3 = 4.07597
+ T4 = 1.89628 seconds. T5 = 0.221268 seconds. T6 = 30.1749
+ T7 = 16.4107 seconds. T8 = 1.98854 seconds. T9 = 0.00258999
+THIS IS ITERATION: 540 kinematic energy is: 2.55991e+12 max velocity is: 611.7 max Omega is: 239.681
+Largest contact list is: 1135 #islands: 116826 total contact: 35157
+Largest contact list is: 1015 #islands: 116794 total contact: 34680
+Largest contact list is: 959 #islands: 116848 total contact: 34868
+Largest contact list is: 780 #islands: 116691 total contact: 34453
+Largest contact list is: 1021 #islands: 116635 total contact: 34796
+ T1 = 1.90044 seconds. T2 = 4.02124 seconds. T3 = 4.42608
+ T4 = 2.13474 seconds. T5 = 0.265728 seconds. T6 = 33.9755
+ T7 = 18.4388 seconds. T8 = 2.23456 seconds. T9 = 0.00291486
+THIS IS ITERATION: 545 kinematic energy is: 2.54089e+12 max velocity is: 611.562 max Omega is: 239.561
+Largest contact list is: 1034 #islands: 116767 total contact: 34682
+Largest contact list is: 1090 #islands: 116994 total contact: 34335
+Largest contact list is: 1144 #islands: 116744 total contact: 35254
+Largest contact list is: 677 #islands: 116809 total contact: 34802
+Largest contact list is: 752 #islands: 116889 total contact: 34283
+ T1 = 2.11333 seconds. T2 = 4.46805 seconds. T3 = 4.96281
+ T4 = 2.37124 seconds. T5 = 0.300481 seconds. T6 = 37.8575
+ T7 = 20.5111 seconds. T8 = 2.48214 seconds. T9 = 0.00325211
+THIS IS ITERATION: 550 kinematic energy is: 2.52174e+12 max velocity is: 611.232 max Omega is: 239.441
+Largest contact list is: 854 #islands: 116841 total contact: 34302
+Largest contact list is: 1257 #islands: 116772 total contact: 34934
+Largest contact list is: 806 #islands: 116747 total contact: 34386
+Largest contact list is: 876 #islands: 116876 total contact: 34301
+Largest contact list is: 935 #islands: 116994 total contact: 34102
+ T1 = 2.38024 seconds. T2 = 4.91078 seconds. T3 = 5.54886
+ T4 = 2.6103 seconds. T5 = 0.322435 seconds. T6 = 41.6985
+ T7 = 22.5676 seconds. T8 = 2.72934 seconds. T9 = 0.00354893
+THIS IS ITERATION: 555 kinematic energy is: 2.50277e+12 max velocity is: 610.947 max Omega is: 239.322
+Largest contact list is: 1119 #islands: 116641 total contact: 34945
+Largest contact list is: 1163 #islands: 116697 total contact: 35337
+Largest contact list is: 914 #islands: 116625 total contact: 34826
+Largest contact list is: 941 #islands: 116640 total contact: 34961
+Largest contact list is: 845 #islands: 116622 total contact: 34594
+ T1 = 2.6098 seconds. T2 = 5.37024 seconds. T3 = 5.79863
+ T4 = 2.84719 seconds. T5 = 0.340751 seconds. T6 = 45.5846
+ T7 = 24.6664 seconds. T8 = 2.97728 seconds. T9 = 0.00386338
+THIS IS ITERATION: 560 kinematic energy is: 2.48418e+12 max velocity is: 610.637 max Omega is: 239.202
+Largest contact list is: 1100 #islands: 116396 total contact: 35212
+Largest contact list is: 1101 #islands: 116327 total contact: 35203
+Largest contact list is: 883 #islands: 116555 total contact: 34664
+Largest contact list is: 1164 #islands: 116466 total contact: 35338
+Largest contact list is: 885 #islands: 116536 total contact: 34850
+ T1 = 2.83725 seconds. T2 = 5.86381 seconds. T3 = 6.26019
+ T4 = 3.09039 seconds. T5 = 0.369231 seconds. T6 = 49.4181
+ T7 = 26.7073 seconds. T8 = 3.23277 seconds. T9 = 0.00418339
+THIS IS ITERATION: 565 kinematic energy is: 2.46509e+12 max velocity is: 610.326 max Omega is: 239.082
+Largest contact list is: 1084 #islands: 116643 total contact: 34870
+Largest contact list is: 896 #islands: 116380 total contact: 35073
+Largest contact list is: 971 #islands: 116399 total contact: 34951
+Largest contact list is: 1007 #islands: 116440 total contact: 35421
+Largest contact list is: 1092 #islands: 116325 total contact: 34977
+ T1 = 3.10165 seconds. T2 = 6.33052 seconds. T3 = 6.51075
+ T4 = 3.32821 seconds. T5 = 0.387857 seconds. T6 = 53.31
+ T7 = 28.7429 seconds. T8 = 3.47918 seconds. T9 = 0.00449229
+THIS IS ITERATION: 570 kinematic energy is: 2.44591e+12 max velocity is: 610.009 max Omega is: 238.963
+Largest contact list is: 847 #islands: 116508 total contact: 34746
+Largest contact list is: 1056 #islands: 116474 total contact: 35058
+Largest contact list is: 985 #islands: 116650 total contact: 34788
+Largest contact list is: 807 #islands: 116766 total contact: 34474
+Largest contact list is: 1146 #islands: 116596 total contact: 35294
+ T1 = 3.31977 seconds. T2 = 6.80901 seconds. T3 = 6.95284
+ T4 = 3.56347 seconds. T5 = 0.407863 seconds. T6 = 57.1791
+ T7 = 30.7781 seconds. T8 = 3.73181 seconds. T9 = 0.00480422
+THIS IS ITERATION: 575 kinematic energy is: 2.42783e+12 max velocity is: 609.7 max Omega is: 238.843
+Largest contact list is: 736 #islands: 116752 total contact: 34470
+Largest contact list is: 917 #islands: 116944 total contact: 34544
+Largest contact list is: 858 #islands: 116826 total contact: 34299
+Largest contact list is: 782 #islands: 116903 total contact: 34409
+Largest contact list is: 958 #islands: 116835 total contact: 34521
+ T1 = 3.52759 seconds. T2 = 7.28093 seconds. T3 = 7.20331
+ T4 = 3.79989 seconds. T5 = 0.427753 seconds. T6 = 60.7696
+ T7 = 32.8167 seconds. T8 = 3.98365 seconds. T9 = 0.00511461
+THIS IS ITERATION: 580 kinematic energy is: 2.4101e+12 max velocity is: 609.384 max Omega is: 238.724
+Largest contact list is: 1176 #islands: 116747 total contact: 35218
+Largest contact list is: 688 #islands: 116890 total contact: 34467
+Largest contact list is: 1044 #islands: 116655 total contact: 34559
+Largest contact list is: 1059 #islands: 116524 total contact: 34874
+Largest contact list is: 1083 #islands: 116543 total contact: 34742
+ T1 = 3.73697 seconds. T2 = 7.73863 seconds. T3 = 7.78026
+ T4 = 4.03818 seconds. T5 = 0.457623 seconds. T6 = 64.6904
+ T7 = 34.8758 seconds. T8 = 4.23803 seconds. T9 = 0.00544796
+THIS IS ITERATION: 585 kinematic energy is: 2.39202e+12 max velocity is: 609.038 max Omega is: 238.605
+Largest contact list is: 1192 #islands: 116472 total contact: 34871
+Largest contact list is: 1054 #islands: 116488 total contact: 34916
+Largest contact list is: 889 #islands: 116481 total contact: 34757
+Largest contact list is: 1229 #islands: 116425 total contact: 35037
+Largest contact list is: 836 #islands: 116232 total contact: 34874
+ T1 = 3.95286 seconds. T2 = 8.18749 seconds. T3 = 8.15832
+ T4 = 4.27413 seconds. T5 = 0.504863 seconds. T6 = 68.617
+ T7 = 36.9215 seconds. T8 = 4.48617 seconds. T9 = 0.00576163
+THIS IS ITERATION: 590 kinematic energy is: 2.37325e+12 max velocity is: 463.084 max Omega is: 238.485
+Largest contact list is: 1084 #islands: 116376 total contact: 34889
+Largest contact list is: 747 #islands: 116277 total contact: 34714
+Largest contact list is: 1040 #islands: 116282 total contact: 34725
+Largest contact list is: 1202 #islands: 116436 total contact: 34731
+Largest contact list is: 1193 #islands: 116308 total contact: 35518
+ T1 = 4.15486 seconds. T2 = 8.66014 seconds. T3 = 8.47523
+ T4 = 4.51113 seconds. T5 = 0.53808 seconds. T6 = 72.4751
+ T7 = 38.9389 seconds. T8 = 4.7376 seconds. T9 = 0.00612069
+THIS IS ITERATION: 595 kinematic energy is: 2.35399e+12 max velocity is: 462.842 max Omega is: 238.366
+Largest contact list is: 854 #islands: 116409 total contact: 34501
+Largest contact list is: 935 #islands: 116276 total contact: 35112
+Largest contact list is: 908 #islands: 116521 total contact: 34581
+Largest contact list is: 1097 #islands: 116351 total contact: 34994
+Largest contact list is: 972 #islands: 116358 total contact: 34696
+ T1 = 4.3802 seconds. T2 = 9.11771 seconds. T3 = 9.05146
+ T4 = 4.74642 seconds. T5 = 0.572205 seconds. T6 = 76.19
+ T7 = 40.9618 seconds. T8 = 4.98614 seconds. T9 = 0.00643056
+THIS IS ITERATION: 600 kinematic energy is: 2.33717e+12 max velocity is: 559.359 max Omega is: 238.247
+Largest contact list is: 1068 #islands: 116480 total contact: 35152
+Largest contact list is: 870 #islands: 116456 total contact: 34695
+Largest contact list is: 821 #islands: 116286 total contact: 34714
+Largest contact list is: 1004 #islands: 116310 total contact: 35047
+Largest contact list is: 1144 #islands: 116309 total contact: 34593
+ T1 = 4.59874 seconds. T2 = 9.57348 seconds. T3 = 9.3896
+ T4 = 4.9843 seconds. T5 = 0.600707 seconds. T6 = 79.9593
+ T7 = 42.9852 seconds. T8 = 5.23532 seconds. T9 = 0.00673485
+THIS IS ITERATION: 605 kinematic energy is: 2.32044e+12 max velocity is: 559.088 max Omega is: 238.128
+Largest contact list is: 1002 #islands: 116432 total contact: 34759
+Largest contact list is: 920 #islands: 116380 total contact: 34557
+Largest contact list is: 1136 #islands: 116268 total contact: 34974
+Largest contact list is: 717 #islands: 116341 total contact: 34276
+Largest contact list is: 1010 #islands: 116240 total contact: 35171
+ T1 = 4.79867 seconds. T2 = 10.0245 seconds. T3 = 10.0534
+ T4 = 5.22293 seconds. T5 = 0.621256 seconds. T6 = 83.7131
+ T7 = 45.0107 seconds. T8 = 5.48443 seconds. T9 = 0.00704361
+THIS IS ITERATION: 610 kinematic energy is: 2.30401e+12 max velocity is: 558.793 max Omega is: 238.009
+Largest contact list is: 1071 #islands: 116305 total contact: 34996
+Largest contact list is: 1370 #islands: 116174 total contact: 35223
+Largest contact list is: 872 #islands: 116184 total contact: 34798
+Largest contact list is: 996 #islands: 116250 total contact: 35130
+Largest contact list is: 966 #islands: 116388 total contact: 34922
+ T1 = 5.11091 seconds. T2 = 10.4818 seconds. T3 = 10.3091
+ T4 = 5.4878 seconds. T5 = 0.652299 seconds. T6 = 87.6998
+ T7 = 47.0311 seconds. T8 = 5.73072 seconds. T9 = 0.00735697
+THIS IS ITERATION: 615 kinematic energy is: 2.28686e+12 max velocity is: 558.5 max Omega is: 237.89
+Largest contact list is: 920 #islands: 116258 total contact: 35004
+Largest contact list is: 947 #islands: 116198 total contact: 35057
+Largest contact list is: 1274 #islands: 115953 total contact: 35546
+Largest contact list is: 929 #islands: 116072 total contact: 34741
+Largest contact list is: 1178 #islands: 115960 total contact: 35506
+ T1 = 5.28569 seconds. T2 = 10.9169 seconds. T3 = 10.5697
+ T4 = 5.73113 seconds. T5 = 0.681034 seconds. T6 = 91.6299
+ T7 = 49.0538 seconds. T8 = 5.97594 seconds. T9 = 0.00765041
+THIS IS ITERATION: 620 kinematic energy is: 2.27121e+12 max velocity is: 558.229 max Omega is: 237.771
+Largest contact list is: 1174 #islands: 115636 total contact: 35163
+Largest contact list is: 1019 #islands: 115619 total contact: 35199
+Largest contact list is: 1014 #islands: 116012 total contact: 34940
+Largest contact list is: 1123 #islands: 115792 total contact: 35340
+Largest contact list is: 954 #islands: 115813 total contact: 35173
+ T1 = 5.47536 seconds. T2 = 11.3756 seconds. T3 = 10.9905
+ T4 = 5.96945 seconds. T5 = 0.719171 seconds. T6 = 95.5802
+ T7 = 51.0858 seconds. T8 = 6.22116 seconds. T9 = 0.00795415
+THIS IS ITERATION: 625 kinematic energy is: 2.25521e+12 max velocity is: 557.938 max Omega is: 237.652
+Largest contact list is: 1111 #islands: 115933 total contact: 35779
+Largest contact list is: 886 #islands: 115922 total contact: 35375
+Largest contact list is: 992 #islands: 116125 total contact: 35309
+Largest contact list is: 827 #islands: 116176 total contact: 34835
+Largest contact list is: 980 #islands: 116162 total contact: 34743
+ T1 = 5.66267 seconds. T2 = 11.8338 seconds. T3 = 11.7672
+ T4 = 6.20908 seconds. T5 = 0.778528 seconds. T6 = 99.3283
+ T7 = 53.1226 seconds. T8 = 6.47189 seconds. T9 = 0.00826222
+THIS IS ITERATION: 630 kinematic energy is: 2.2401e+12 max velocity is: 557.64 max Omega is: 237.533
+Largest contact list is: 1081 #islands: 115918 total contact: 35006
+Largest contact list is: 1081 #islands: 116166 total contact: 35362
+Largest contact list is: 923 #islands: 115977 total contact: 35066
+Largest contact list is: 1144 #islands: 115940 total contact: 35163
+Largest contact list is: 1163 #islands: 115820 total contact: 35450
+ T1 = 5.86978 seconds. T2 = 12.2971 seconds. T3 = 12.0305
+ T4 = 6.45271 seconds. T5 = 0.846463 seconds. T6 = 103.224
+ T7 = 55.1574 seconds. T8 = 6.72805 seconds. T9 = 0.00857436
+THIS IS ITERATION: 635 kinematic energy is: 2.22344e+12 max velocity is: 557.365 max Omega is: 237.415
+Largest contact list is: 941 #islands: 115962 total contact: 35113
+Largest contact list is: 1228 #islands: 116023 total contact: 35185
+Largest contact list is: 1003 #islands: 115951 total contact: 34907
+Largest contact list is: 1286 #islands: 115941 total contact: 35467
+Largest contact list is: 1210 #islands: 115895 total contact: 35377
+ T1 = 6.06439 seconds. T2 = 12.7268 seconds. T3 = 12.2895
+ T4 = 6.69139 seconds. T5 = 0.873122 seconds. T6 = 107.266
+ T7 = 57.1782 seconds. T8 = 6.97747 seconds. T9 = 0.00890348
+THIS IS ITERATION: 640 kinematic energy is: 2.20672e+12 max velocity is: 557.1 max Omega is: 237.296
+Largest contact list is: 1167 #islands: 116046 total contact: 35632
+Largest contact list is: 1027 #islands: 115840 total contact: 35394
+Largest contact list is: 1028 #islands: 115996 total contact: 35159
+Largest contact list is: 1061 #islands: 116151 total contact: 34869
+Largest contact list is: 1151 #islands: 116232 total contact: 34963
+ T1 = 6.28917 seconds. T2 = 13.179 seconds. T3 = 12.8779
+ T4 = 6.93046 seconds. T5 = 0.906833 seconds. T6 = 111.111
+ T7 = 59.2025 seconds. T8 = 7.22894 seconds. T9 = 0.00921162
+THIS IS ITERATION: 645 kinematic energy is: 2.19109e+12 max velocity is: 556.831 max Omega is: 237.177
+Largest contact list is: 1005 #islands: 116387 total contact: 34683
+Largest contact list is: 1108 #islands: 116340 total contact: 35105
+Largest contact list is: 982 #islands: 116024 total contact: 34809
+Largest contact list is: 1041 #islands: 116129 total contact: 35605
+Largest contact list is: 1186 #islands: 116037 total contact: 35044
+ T1 = 6.49574 seconds. T2 = 13.6293 seconds. T3 = 13.1364
+ T4 = 7.1753 seconds. T5 = 0.937527 seconds. T6 = 114.941
+ T7 = 61.233 seconds. T8 = 7.4754 seconds. T9 = 0.00954045
+THIS IS ITERATION: 650 kinematic energy is: 2.17645e+12 max velocity is: 556.579 max Omega is: 237.059
+Largest contact list is: 1204 #islands: 116161 total contact: 34981
+Largest contact list is: 1003 #islands: 116223 total contact: 34421
+Largest contact list is: 1309 #islands: 116263 total contact: 34787
+Largest contact list is: 1383 #islands: 116153 total contact: 34997
+Largest contact list is: 1077 #islands: 116172 total contact: 34803
+ T1 = 6.72006 seconds. T2 = 14.1017 seconds. T3 = 13.4756
+ T4 = 7.41905 seconds. T5 = 0.977988 seconds. T6 = 118.923
+ T7 = 63.2593 seconds. T8 = 7.72745 seconds. T9 = 0.0098805
+THIS IS ITERATION: 655 kinematic energy is: 2.16115e+12 max velocity is: 548.859 max Omega is: 236.94
+Largest contact list is: 1205 #islands: 116334 total contact: 35103
+Largest contact list is: 969 #islands: 116199 total contact: 35079
+Largest contact list is: 1197 #islands: 116562 total contact: 34810
+Largest contact list is: 1176 #islands: 116318 total contact: 34723
+Largest contact list is: 1141 #islands: 116349 total contact: 34699
+ T1 = 6.96881 seconds. T2 = 14.5609 seconds. T3 = 13.8423
+ T4 = 7.6612 seconds. T5 = 1.01104 seconds. T6 = 122.879
+ T7 = 65.28 seconds. T8 = 7.97723 seconds. T9 = 0.0101964
+THIS IS ITERATION: 660 kinematic energy is: 2.14622e+12 max velocity is: 561.401 max Omega is: 236.822
+Largest contact list is: 1033 #islands: 116259 total contact: 34969
+Largest contact list is: 1403 #islands: 116223 total contact: 34471
+Largest contact list is: 1251 #islands: 116375 total contact: 34711
+Largest contact list is: 1114 #islands: 116146 total contact: 34725
+Largest contact list is: 1312 #islands: 116329 total contact: 35676
+ T1 = 7.20566 seconds. T2 = 15.0179 seconds. T3 = 14.1026
+ T4 = 7.90426 seconds. T5 = 1.04267 seconds. T6 = 127.014
+ T7 = 67.3171 seconds. T8 = 8.22735 seconds. T9 = 0.0105204
+THIS IS ITERATION: 665 kinematic energy is: 2.13066e+12 max velocity is: 585.05 max Omega is: 239.348
+Largest contact list is: 1213 #islands: 116115 total contact: 35093
+Largest contact list is: 1182 #islands: 115947 total contact: 35544
+Largest contact list is: 1242 #islands: 116012 total contact: 35115
+Largest contact list is: 1189 #islands: 115982 total contact: 35382
+Largest contact list is: 997 #islands: 116198 total contact: 35193
+ T1 = 7.38445 seconds. T2 = 15.4656 seconds. T3 = 14.3645
+ T4 = 8.14662 seconds. T5 = 1.06553 seconds. T6 = 131.122
+ T7 = 69.3548 seconds. T8 = 8.47489 seconds. T9 = 0.0108365
+THIS IS ITERATION: 670 kinematic energy is: 2.11644e+12 max velocity is: 584.772 max Omega is: 239.229
+Largest contact list is: 1166 #islands: 115870 total contact: 34986
+Largest contact list is: 1014 #islands: 116189 total contact: 34582
+Largest contact list is: 1072 #islands: 115878 total contact: 35036
+Largest contact list is: 1009 #islands: 116011 total contact: 34446
+Largest contact list is: 1043 #islands: 115981 total contact: 34425
+ T1 = 7.58468 seconds. T2 = 15.9204 seconds. T3 = 14.6331
+ T4 = 8.39501 seconds. T5 = 1.09574 seconds. T6 = 134.91
+ T7 = 71.3794 seconds. T8 = 8.72094 seconds. T9 = 0.0111617
+THIS IS ITERATION: 675 kinematic energy is: 2.10339e+12 max velocity is: 584.472 max Omega is: 239.109
+Largest contact list is: 1378 #islands: 116131 total contact: 34792
+Largest contact list is: 1056 #islands: 115993 total contact: 34848
+Largest contact list is: 1280 #islands: 115647 total contact: 35248
+Largest contact list is: 1152 #islands: 115709 total contact: 35730
+Largest contact list is: 1175 #islands: 115792 total contact: 35346
+ T1 = 7.8043 seconds. T2 = 16.375 seconds. T3 = 15.4682
+ T4 = 8.63659 seconds. T5 = 1.13516 seconds. T6 = 139.011
+ T7 = 73.4089 seconds. T8 = 8.97583 seconds. T9 = 0.0114882
+THIS IS ITERATION: 680 kinematic energy is: 2.08897e+12 max velocity is: 584.178 max Omega is: 238.989
+Largest contact list is: 1230 #islands: 115976 total contact: 34762
+Largest contact list is: 1327 #islands: 115789 total contact: 34981
+Largest contact list is: 1087 #islands: 115869 total contact: 34916
+Largest contact list is: 1075 #islands: 115957 total contact: 35029
+Largest contact list is: 1279 #islands: 115665 total contact: 35610
+ T1 = 8.03737 seconds. T2 = 16.8018 seconds. T3 = 16.2049
+ T4 = 8.8828 seconds. T5 = 1.17751 seconds. T6 = 143.133
+ T7 = 75.4299 seconds. T8 = 9.22362 seconds. T9 = 0.0118188
+THIS IS ITERATION: 685 kinematic energy is: 2.07331e+12 max velocity is: 522.846 max Omega is: 238.87
+Largest contact list is: 905 #islands: 115528 total contact: 34834
+Largest contact list is: 916 #islands: 115561 total contact: 35052
+Largest contact list is: 1144 #islands: 115582 total contact: 35328
+Largest contact list is: 1090 #islands: 115551 total contact: 35094
+Largest contact list is: 1428 #islands: 115620 total contact: 35285
+ T1 = 8.2277 seconds. T2 = 17.2592 seconds. T3 = 16.9636
+ T4 = 9.13022 seconds. T5 = 1.19662 seconds. T6 = 147.125
+ T7 = 77.4488 seconds. T8 = 9.47623 seconds. T9 = 0.012131
+THIS IS ITERATION: 690 kinematic energy is: 2.05927e+12 max velocity is: 522.583 max Omega is: 239.868
+Largest contact list is: 1207 #islands: 115733 total contact: 35624
+Largest contact list is: 1413 #islands: 115863 total contact: 35225
+Largest contact list is: 1146 #islands: 115839 total contact: 35218
+Largest contact list is: 1068 #islands: 115827 total contact: 35059
+Largest contact list is: 1123 #islands: 115716 total contact: 35101
+ T1 = 8.4973 seconds. T2 = 17.7003 seconds. T3 = 17.2254
+ T4 = 9.37364 seconds. T5 = 1.23046 seconds. T6 = 151.257
+ T7 = 79.475 seconds. T8 = 9.72448 seconds. T9 = 0.0124539
+THIS IS ITERATION: 695 kinematic energy is: 2.04643e+12 max velocity is: 522.299 max Omega is: 239.749
+Largest contact list is: 1072 #islands: 115729 total contact: 35325
+Largest contact list is: 1011 #islands: 115529 total contact: 35374
+Largest contact list is: 1208 #islands: 115748 total contact: 35398
+Largest contact list is: 877 #islands: 115555 total contact: 35251
+Largest contact list is: 1139 #islands: 115676 total contact: 35675
+ T1 = 8.73828 seconds. T2 = 18.1491 seconds. T3 = 17.631
+ T4 = 9.62731 seconds. T5 = 1.27059 seconds. T6 = 155.07
+ T7 = 81.5018 seconds. T8 = 9.97354 seconds. T9 = 0.0127997
+THIS IS ITERATION: 700 kinematic energy is: 2.03301e+12 max velocity is: 522.044 max Omega is: 239.629
+Largest contact list is: 1097 #islands: 115687 total contact: 35083
+Largest contact list is: 793 #islands: 115557 total contact: 34725
+Largest contact list is: 1098 #islands: 115345 total contact: 35238
+Largest contact list is: 1114 #islands: 115438 total contact: 35538
+Largest contact list is: 1110 #islands: 115650 total contact: 34933
+ T1 = 8.97232 seconds. T2 = 18.6399 seconds. T3 = 18.4018
+ T4 = 9.87102 seconds. T5 = 1.30284 seconds. T6 = 158.803
+ T7 = 83.5293 seconds. T8 = 10.2217 seconds. T9 = 0.0131126
+THIS IS ITERATION: 705 kinematic energy is: 2.01979e+12 max velocity is: 521.769 max Omega is: 239.509
+Largest contact list is: 890 #islands: 115508 total contact: 35156
+Largest contact list is: 1201 #islands: 115498 total contact: 35464
+Largest contact list is: 1215 #islands: 115811 total contact: 35470
+Largest contact list is: 2263 #islands: 115576 total contact: 35413
+Largest contact list is: 1035 #islands: 115586 total contact: 35385
+ T1 = 9.23687 seconds. T2 = 19.0982 seconds. T3 = 19.2347
+ T4 = 10.1126 seconds. T5 = 1.35358 seconds. T6 = 163.248
+ T7 = 85.5448 seconds. T8 = 10.4731 seconds. T9 = 0.0134476
+THIS IS ITERATION: 710 kinematic energy is: 2.00624e+12 max velocity is: 521.52 max Omega is: 239.389
+Largest contact list is: 974 #islands: 115477 total contact: 35686
+Largest contact list is: 887 #islands: 115346 total contact: 35520
+Largest contact list is: 1099 #islands: 115455 total contact: 35018
+Largest contact list is: 1247 #islands: 115403 total contact: 35403
+Largest contact list is: 1292 #islands: 115125 total contact: 35757
+ T1 = 9.45996 seconds. T2 = 19.5473 seconds. T3 = 19.9989
+ T4 = 10.3529 seconds. T5 = 1.38741 seconds. T6 = 167.223
+ T7 = 87.5762 seconds. T8 = 10.7191 seconds. T9 = 0.0137507
+THIS IS ITERATION: 715 kinematic energy is: 1.99305e+12 max velocity is: 521.261 max Omega is: 239.269
+Largest contact list is: 996 #islands: 115318 total contact: 35685
+Largest contact list is: 1194 #islands: 115351 total contact: 35698
+Largest contact list is: 1301 #islands: 115391 total contact: 36166
+Largest contact list is: 1099 #islands: 115218 total contact: 35965
+Largest contact list is: 960 #islands: 115416 total contact: 35542
+ T1 = 9.6695 seconds. T2 = 20.0067 seconds. T3 = 20.8094
+ T4 = 10.6038 seconds. T5 = 1.42855 seconds. T6 = 171.144
+ T7 = 89.5848 seconds. T8 = 10.9683 seconds. T9 = 0.0148607
+THIS IS ITERATION: 720 kinematic energy is: 1.98087e+12 max velocity is: 520.996 max Omega is: 239.15
+Largest contact list is: 1072 #islands: 115550 total contact: 35401
+Largest contact list is: 1072 #islands: 115665 total contact: 35191
+Largest contact list is: 837 #islands: 115548 total contact: 34590
+Largest contact list is: 1192 #islands: 115593 total contact: 35811
+Largest contact list is: 805 #islands: 115431 total contact: 35198
+ T1 = 9.92909 seconds. T2 = 20.4558 seconds. T3 = 21.597
+ T4 = 10.8486 seconds. T5 = 1.44879 seconds. T6 = 174.844
+ T7 = 91.5988 seconds. T8 = 11.2242 seconds. T9 = 0.0151876
+THIS IS ITERATION: 725 kinematic energy is: 1.96848e+12 max velocity is: 520.725 max Omega is: 239.03
+Largest contact list is: 988 #islands: 115556 total contact: 35036
+Largest contact list is: 1008 #islands: 115394 total contact: 35153
+Largest contact list is: 1181 #islands: 115323 total contact: 36114
+Largest contact list is: 1079 #islands: 115339 total contact: 35343
+Largest contact list is: 1060 #islands: 115389 total contact: 35286
+ T1 = 10.1607 seconds. T2 = 20.9158 seconds. T3 = 21.8609
+ T4 = 11.0915 seconds. T5 = 1.48574 seconds. T6 = 178.733
+ T7 = 93.6183 seconds. T8 = 11.4855 seconds. T9 = 0.0155364
+THIS IS ITERATION: 730 kinematic energy is: 1.95545e+12 max velocity is: 520.441 max Omega is: 238.911
+Largest contact list is: 896 #islands: 115533 total contact: 34821
+Largest contact list is: 1145 #islands: 115505 total contact: 35515
+Largest contact list is: 986 #islands: 115450 total contact: 35232
+Largest contact list is: 1078 #islands: 115455 total contact: 34965
+Largest contact list is: 1168 #islands: 115370 total contact: 35602
+ T1 = 10.403 seconds. T2 = 21.3597 seconds. T3 = 22.1241
+ T4 = 11.3339 seconds. T5 = 1.52086 seconds. T6 = 182.589
+ T7 = 95.6355 seconds. T8 = 11.7355 seconds. T9 = 0.0158556
+THIS IS ITERATION: 735 kinematic energy is: 1.94251e+12 max velocity is: 520.169 max Omega is: 238.791
+Largest contact list is: 1275 #islands: 115355 total contact: 35502
+Largest contact list is: 1264 #islands: 115568 total contact: 35632
+Largest contact list is: 1119 #islands: 115455 total contact: 35248
+Largest contact list is: 1010 #islands: 115414 total contact: 35201
+Largest contact list is: 823 #islands: 115391 total contact: 34771
+ T1 = 10.6564 seconds. T2 = 21.8151 seconds. T3 = 22.3882
+ T4 = 11.5788 seconds. T5 = 1.55359 seconds. T6 = 186.483
+ T7 = 97.6504 seconds. T8 = 11.9905 seconds. T9 = 0.0161958
+THIS IS ITERATION: 740 kinematic energy is: 1.93021e+12 max velocity is: 406.921 max Omega is: 238.672
+Largest contact list is: 1115 #islands: 115157 total contact: 35290
+Largest contact list is: 1115 #islands: 115403 total contact: 35535
+Largest contact list is: 1077 #islands: 115213 total contact: 35504
+Largest contact list is: 942 #islands: 115392 total contact: 35170
+Largest contact list is: 1045 #islands: 115319 total contact: 34862
+ T1 = 10.9008 seconds. T2 = 22.2726 seconds. T3 = 22.6588
+ T4 = 11.8268 seconds. T5 = 1.57661 seconds. T6 = 190.255
+ T7 = 99.6698 seconds. T8 = 12.239 seconds. T9 = 0.0165029
+THIS IS ITERATION: 745 kinematic energy is: 1.91752e+12 max velocity is: 406.717 max Omega is: 238.553
+Largest contact list is: 1085 #islands: 115333 total contact: 35678
+Largest contact list is: 1069 #islands: 115163 total contact: 35455
+Largest contact list is: 904 #islands: 115138 total contact: 35256
+Largest contact list is: 1027 #islands: 115059 total contact: 35369
+Largest contact list is: 1025 #islands: 115244 total contact: 36047
+ T1 = 11.1636 seconds. T2 = 22.7469 seconds. T3 = 22.9302
+ T4 = 12.0743 seconds. T5 = 1.59745 seconds. T6 = 194.14
+ T7 = 101.676 seconds. T8 = 12.4904 seconds. T9 = 0.0168809
+THIS IS ITERATION: 750 kinematic energy is: 1.90524e+12 max velocity is: 406.526 max Omega is: 238.433
+Largest contact list is: 1005 #islands: 115264 total contact: 36084
+Largest contact list is: 1023 #islands: 115175 total contact: 35329
+Largest contact list is: 1130 #islands: 115080 total contact: 35450
+Largest contact list is: 1295 #islands: 115219 total contact: 35326
+Largest contact list is: 1265 #islands: 115169 total contact: 35420
+ T1 = 11.4046 seconds. T2 = 23.2219 seconds. T3 = 23.3015
+ T4 = 12.3172 seconds. T5 = 1.63387 seconds. T6 = 198.286
+ T7 = 103.685 seconds. T8 = 12.7522 seconds. T9 = 0.0172175
+THIS IS ITERATION: 755 kinematic energy is: 1.89368e+12 max velocity is: 406.324 max Omega is: 238.314
+Largest contact list is: 1074 #islands: 115108 total contact: 35626
+Largest contact list is: 1196 #islands: 115081 total contact: 35445
+Largest contact list is: 1255 #islands: 114933 total contact: 35826
+Largest contact list is: 1179 #islands: 114972 total contact: 35566
+Largest contact list is: 1166 #islands: 114935 total contact: 35757
+ T1 = 11.6855 seconds. T2 = 23.6963 seconds. T3 = 23.8045
+ T4 = 12.5623 seconds. T5 = 1.68679 seconds. T6 = 202.305
+ T7 = 105.693 seconds. T8 = 13.0061 seconds. T9 = 0.01757
+THIS IS ITERATION: 760 kinematic energy is: 1.88152e+12 max velocity is: 406.126 max Omega is: 238.195
+Largest contact list is: 1264 #islands: 115110 total contact: 36004
+Largest contact list is: 1184 #islands: 114914 total contact: 36103
+Largest contact list is: 1224 #islands: 114943 total contact: 35709
+Largest contact list is: 1083 #islands: 114765 total contact: 35839
+Largest contact list is: 1404 #islands: 114885 total contact: 35919
+ T1 = 11.9282 seconds. T2 = 24.15 seconds. T3 = 24.0709
+ T4 = 12.8061 seconds. T5 = 1.7179 seconds. T6 = 206.358
+ T7 = 107.69 seconds. T8 = 13.2661 seconds. T9 = 0.0179085
+THIS IS ITERATION: 765 kinematic energy is: 1.87018e+12 max velocity is: 405.959 max Omega is: 238.076
+Largest contact list is: 1130 #islands: 114912 total contact: 35638
+Largest contact list is: 1186 #islands: 114809 total contact: 35738
+Largest contact list is: 1125 #islands: 114820 total contact: 35528
+Largest contact list is: 1225 #islands: 114699 total contact: 35819
+Largest contact list is: 1159 #islands: 114810 total contact: 35402
+ T1 = 12.1575 seconds. T2 = 24.6136 seconds. T3 = 24.3931
+ T4 = 13.0513 seconds. T5 = 1.76319 seconds. T6 = 210.245
+ T7 = 109.681 seconds. T8 = 13.5151 seconds. T9 = 0.0182489
+THIS IS ITERATION: 770 kinematic energy is: 1.85802e+12 max velocity is: 405.768 max Omega is: 237.957
+Largest contact list is: 1000 #islands: 114774 total contact: 35755
+Largest contact list is: 1091 #islands: 114790 total contact: 35691
+Largest contact list is: 1370 #islands: 114749 total contact: 35961
+Largest contact list is: 1627 #islands: 114835 total contact: 35909
+Largest contact list is: 970 #islands: 114772 total contact: 35944
+ T1 = 12.3905 seconds. T2 = 25.0502 seconds. T3 = 24.6522
+ T4 = 13.2946 seconds. T5 = 1.81234 seconds. T6 = 214.365
+ T7 = 111.669 seconds. T8 = 13.7615 seconds. T9 = 0.018548
+THIS IS ITERATION: 775 kinematic energy is: 1.84629e+12 max velocity is: 405.592 max Omega is: 237.838
+Largest contact list is: 1178 #islands: 114898 total contact: 35549
+Largest contact list is: 1288 #islands: 114944 total contact: 35604
+Largest contact list is: 1079 #islands: 115053 total contact: 35372
+Largest contact list is: 1388 #islands: 115021 total contact: 35447
+Largest contact list is: 1190 #islands: 114938 total contact: 35687
+ T1 = 12.6289 seconds. T2 = 25.5182 seconds. T3 = 25.0831
+ T4 = 13.5517 seconds. T5 = 1.86563 seconds. T6 = 218.33
+ T7 = 113.667 seconds. T8 = 14.0137 seconds. T9 = 0.0188667
+THIS IS ITERATION: 780 kinematic energy is: 1.8352e+12 max velocity is: 405.386 max Omega is: 237.719
+Largest contact list is: 1383 #islands: 114872 total contact: 36275
+Largest contact list is: 1446 #islands: 115059 total contact: 35907
+Largest contact list is: 2479 #islands: 114741 total contact: 36219
+Largest contact list is: 1102 #islands: 114933 total contact: 35756
+Largest contact list is: 2404 #islands: 114670 total contact: 35873
+ T1 = 12.932 seconds. T2 = 25.9503 seconds. T3 = 25.6998
+ T4 = 13.7964 seconds. T5 = 1.93157 seconds. T6 = 223.312
+ T7 = 115.691 seconds. T8 = 14.2631 seconds. T9 = 0.0192196
+THIS IS ITERATION: 785 kinematic energy is: 1.82345e+12 max velocity is: 405.171 max Omega is: 237.6
+Largest contact list is: 1446 #islands: 114431 total contact: 35760
+Largest contact list is: 1511 #islands: 114581 total contact: 35777
+Largest contact list is: 2334 #islands: 114621 total contact: 36466
+Largest contact list is: 961 #islands: 114870 total contact: 35607
+Largest contact list is: 2241 #islands: 114789 total contact: 36378
+ T1 = 13.1906 seconds. T2 = 26.422 seconds. T3 = 25.9598
+ T4 = 14.0401 seconds. T5 = 1.96338 seconds. T6 = 228.098
+ T7 = 117.686 seconds. T8 = 14.5195 seconds. T9 = 0.0195569
+THIS IS ITERATION: 790 kinematic energy is: 1.81202e+12 max velocity is: 405 max Omega is: 237.482
+Largest contact list is: 1155 #islands: 114899 total contact: 35216
+Largest contact list is: 903 #islands: 114854 total contact: 35552
+Largest contact list is: 1382 #islands: 114876 total contact: 35780
+Largest contact list is: 1016 #islands: 114825 total contact: 35229
+Largest contact list is: 1283 #islands: 114993 total contact: 35510
+ T1 = 13.4052 seconds. T2 = 26.8984 seconds. T3 = 26.3418
+ T4 = 14.2847 seconds. T5 = 1.99291 seconds. T6 = 231.998
+ T7 = 119.676 seconds. T8 = 14.7706 seconds. T9 = 0.0198703
+THIS IS ITERATION: 795 kinematic energy is: 1.80115e+12 max velocity is: 411.343 max Omega is: 237.363
+Largest contact list is: 1250 #islands: 114822 total contact: 35446
+Largest contact list is: 2692 #islands: 114746 total contact: 36082
+Largest contact list is: 2496 #islands: 114547 total contact: 36580
+Largest contact list is: 1394 #islands: 114623 total contact: 35781
+Largest contact list is: 2773 #islands: 114787 total contact: 36259
+ T1 = 13.6384 seconds. T2 = 27.378 seconds. T3 = 26.6016
+ T4 = 14.5283 seconds. T5 = 2.02427 seconds. T6 = 237.567
+ T7 = 121.662 seconds. T8 = 15.0311 seconds. T9 = 0.0202441
+THIS IS ITERATION: 800 kinematic energy is: 1.79087e+12 max velocity is: 411.144 max Omega is: 237.244
+Largest contact list is: 2495 #islands: 114815 total contact: 35873
+Largest contact list is: 1472 #islands: 114849 total contact: 35888
+Largest contact list is: 1244 #islands: 114784 total contact: 36021
+Largest contact list is: 1196 #islands: 114589 total contact: 35731
+Largest contact list is: 1616 #islands: 114876 total contact: 35415
+ T1 = 13.8693 seconds. T2 = 27.8495 seconds. T3 = 27.3414
+ T4 = 14.7771 seconds. T5 = 2.05823 seconds. T6 = 242.145
+ T7 = 123.649 seconds. T8 = 15.2875 seconds. T9 = 0.0205653
+THIS IS ITERATION: 805 kinematic energy is: 1.78056e+12 max velocity is: 410.954 max Omega is: 237.126
+Largest contact list is: 1455 #islands: 114628 total contact: 35643
+Largest contact list is: 1361 #islands: 114560 total contact: 35902
+Largest contact list is: 2575 #islands: 114364 total contact: 36392
+Largest contact list is: 1156 #islands: 114547 total contact: 35650
+Largest contact list is: 1284 #islands: 114390 total contact: 36063
+ T1 = 14.0882 seconds. T2 = 28.3131 seconds. T3 = 28.0096
+ T4 = 15.02 seconds. T5 = 2.10888 seconds. T6 = 246.703
+ T7 = 125.632 seconds. T8 = 15.5396 seconds. T9 = 0.0208848
+THIS IS ITERATION: 810 kinematic energy is: 1.77025e+12 max velocity is: 410.762 max Omega is: 237.007
+Largest contact list is: 1086 #islands: 114551 total contact: 35841
+Largest contact list is: 1250 #islands: 114477 total contact: 35739
+Largest contact list is: 1569 #islands: 114593 total contact: 35833
+Largest contact list is: 1160 #islands: 114439 total contact: 35908
+Largest contact list is: 3121 #islands: 114506 total contact: 36796
+ T1 = 14.3336 seconds. T2 = 28.7727 seconds. T3 = 28.3906
+ T4 = 15.2642 seconds. T5 = 2.13961 seconds. T6 = 251.458
+ T7 = 127.609 seconds. T8 = 15.7881 seconds. T9 = 0.0212132
+THIS IS ITERATION: 815 kinematic energy is: 1.75969e+12 max velocity is: 410.563 max Omega is: 236.889
+Largest contact list is: 2066 #islands: 114454 total contact: 35991
+Largest contact list is: 2686 #islands: 114379 total contact: 36014
+Largest contact list is: 1301 #islands: 114392 total contact: 35838
+Largest contact list is: 2503 #islands: 114271 total contact: 36308
+Largest contact list is: 2046 #islands: 114335 total contact: 36213
+ T1 = 14.6103 seconds. T2 = 29.229 seconds. T3 = 28.6518
+ T4 = 15.5098 seconds. T5 = 2.17825 seconds. T6 = 256.862
+ T7 = 129.59 seconds. T8 = 16.0389 seconds. T9 = 0.0215517
+THIS IS ITERATION: 820 kinematic energy is: 1.74929e+12 max velocity is: 410.356 max Omega is: 236.77
+Largest contact list is: 1391 #islands: 114300 total contact: 35781
+Largest contact list is: 1204 #islands: 114334 total contact: 36164
+Largest contact list is: 1083 #islands: 114320 total contact: 35714
+Largest contact list is: 1534 #islands: 114071 total contact: 36087
+Largest contact list is: 2721 #islands: 114173 total contact: 36708
+ T1 = 14.8412 seconds. T2 = 29.6934 seconds. T3 = 29.0625
+ T4 = 15.7579 seconds. T5 = 2.22005 seconds. T6 = 261.39
+ T7 = 131.583 seconds. T8 = 16.2922 seconds. T9 = 0.02189
+THIS IS ITERATION: 825 kinematic energy is: 1.73869e+12 max velocity is: 410.147 max Omega is: 236.652
+Largest contact list is: 1017 #islands: 114286 total contact: 35707
+Largest contact list is: 2696 #islands: 114343 total contact: 36581
+Largest contact list is: 1370 #islands: 114191 total contact: 36369
+Largest contact list is: 2359 #islands: 114163 total contact: 36494
+Largest contact list is: 1408 #islands: 114175 total contact: 36261
+ T1 = 15.0954 seconds. T2 = 30.1643 seconds. T3 = 29.5131
+ T4 = 16.014 seconds. T5 = 2.25363 seconds. T6 = 266.262
+ T7 = 133.582 seconds. T8 = 16.5423 seconds. T9 = 0.0222453
+THIS IS ITERATION: 830 kinematic energy is: 1.72901e+12 max velocity is: 409.964 max Omega is: 236.534
+Largest contact list is: 1062 #islands: 114210 total contact: 35867
+Largest contact list is: 2196 #islands: 114221 total contact: 36381
+Largest contact list is: 973 #islands: 114300 total contact: 35524
+Largest contact list is: 1279 #islands: 114057 total contact: 35747
+Largest contact list is: 1269 #islands: 114129 total contact: 36246
+ T1 = 15.3119 seconds. T2 = 30.6217 seconds. T3 = 29.9775
+ T4 = 16.2593 seconds. T5 = 2.2896 seconds. T6 = 270.492
+ T7 = 135.567 seconds. T8 = 16.7973 seconds. T9 = 0.0225603
+THIS IS ITERATION: 835 kinematic energy is: 1.71958e+12 max velocity is: 409.768 max Omega is: 236.415
+Largest contact list is: 1077 #islands: 114177 total contact: 35813
+Largest contact list is: 1251 #islands: 114158 total contact: 35809
+Largest contact list is: 1318 #islands: 114036 total contact: 36671
+Largest contact list is: 1036 #islands: 114274 total contact: 36046
+Largest contact list is: 1597 #islands: 114273 total contact: 35947
+ T1 = 15.5112 seconds. T2 = 31.0936 seconds. T3 = 30.2419
+ T4 = 16.5051 seconds. T5 = 2.31948 seconds. T6 = 274.553
+ T7 = 137.55 seconds. T8 = 17.0521 seconds. T9 = 0.0228999
+THIS IS ITERATION: 840 kinematic energy is: 1.70976e+12 max velocity is: 409.563 max Omega is: 236.297
+Largest contact list is: 1616 #islands: 114236 total contact: 36110
+Largest contact list is: 1286 #islands: 114078 total contact: 36070
+Largest contact list is: 1315 #islands: 114184 total contact: 35728
+Largest contact list is: 1206 #islands: 114304 total contact: 35712
+Largest contact list is: 1187 #islands: 114546 total contact: 35755
+ T1 = 15.7406 seconds. T2 = 31.5797 seconds. T3 = 30.5048
+ T4 = 16.751 seconds. T5 = 2.34978 seconds. T6 = 278.684
+ T7 = 139.536 seconds. T8 = 17.3039 seconds. T9 = 0.0232264
+THIS IS ITERATION: 845 kinematic energy is: 1.69995e+12 max velocity is: 402.779 max Omega is: 236.179
+Largest contact list is: 1457 #islands: 114500 total contact: 35734
+Largest contact list is: 3196 #islands: 114292 total contact: 37246
+Largest contact list is: 892 #islands: 114478 total contact: 35448
+Largest contact list is: 1109 #islands: 114227 total contact: 36170
+Largest contact list is: 2134 #islands: 114154 total contact: 36302
+ T1 = 15.9951 seconds. T2 = 32.0475 seconds. T3 = 31.2438
+ T4 = 16.9969 seconds. T5 = 2.38117 seconds. T6 = 283.524
+ T7 = 141.524 seconds. T8 = 17.5558 seconds. T9 = 0.0235772
+THIS IS ITERATION: 850 kinematic energy is: 1.69011e+12 max velocity is: 402.595 max Omega is: 236.061
+Largest contact list is: 1639 #islands: 114213 total contact: 35884
+Largest contact list is: 1616 #islands: 114310 total contact: 36417
+Largest contact list is: 2583 #islands: 114370 total contact: 36920
+Largest contact list is: 1423 #islands: 114280 total contact: 35644
+Largest contact list is: 1074 #islands: 114273 total contact: 35823
+ T1 = 16.249 seconds. T2 = 32.5039 seconds. T3 = 32.0043
+ T4 = 17.244 seconds. T5 = 2.43059 seconds. T6 = 288.161
+ T7 = 143.515 seconds. T8 = 17.8134 seconds. T9 = 0.023987
+THIS IS ITERATION: 855 kinematic energy is: 1.68033e+12 max velocity is: 402.399 max Omega is: 235.943
+Largest contact list is: 1354 #islands: 114350 total contact: 35917
+Largest contact list is: 1231 #islands: 114064 total contact: 36176
+Largest contact list is: 1481 #islands: 114270 total contact: 35667
+Largest contact list is: 1374 #islands: 114243 total contact: 35555
+Largest contact list is: 1333 #islands: 114059 total contact: 35944
+ T1 = 16.4622 seconds. T2 = 32.9657 seconds. T3 = 32.8436
+ T4 = 17.487 seconds. T5 = 2.49273 seconds. T6 = 292.358
+ T7 = 145.493 seconds. T8 = 18.0625 seconds. T9 = 0.024299
+THIS IS ITERATION: 860 kinematic energy is: 1.67079e+12 max velocity is: 402.207 max Omega is: 235.825
+Largest contact list is: 1702 #islands: 114177 total contact: 36738
+Largest contact list is: 1287 #islands: 114300 total contact: 36161
+Largest contact list is: 1602 #islands: 114246 total contact: 36012
+Largest contact list is: 1382 #islands: 114302 total contact: 35576
+Largest contact list is: 2597 #islands: 114260 total contact: 36765
+ T1 = 16.6734 seconds. T2 = 33.4377 seconds. T3 = 33.5766
+ T4 = 17.7303 seconds. T5 = 2.53195 seconds. T6 = 297.267
+ T7 = 147.486 seconds. T8 = 18.3139 seconds. T9 = 0.0246582
+THIS IS ITERATION: 865 kinematic energy is: 1.66131e+12 max velocity is: 402.002 max Omega is: 235.707
+Largest contact list is: 2464 #islands: 114600 total contact: 36256
+Largest contact list is: 1171 #islands: 114332 total contact: 36102
+Largest contact list is: 1203 #islands: 114277 total contact: 35855
+Largest contact list is: 1384 #islands: 114267 total contact: 36211
+Largest contact list is: 1381 #islands: 114167 total contact: 35891
+ T1 = 16.8919 seconds. T2 = 33.9218 seconds. T3 = 34.3469
+ T4 = 17.9731 seconds. T5 = 2.58917 seconds. T6 = 301.682
+ T7 = 149.474 seconds. T8 = 18.5654 seconds. T9 = 0.0249779
+THIS IS ITERATION: 870 kinematic energy is: 1.65162e+12 max velocity is: 401.796 max Omega is: 229.84
+Largest contact list is: 1597 #islands: 114287 total contact: 35761
+Largest contact list is: 1098 #islands: 114025 total contact: 36144
+Largest contact list is: 1481 #islands: 114082 total contact: 36255
+Largest contact list is: 966 #islands: 114047 total contact: 36016
+Largest contact list is: 2252 #islands: 113942 total contact: 36446
+ T1 = 17.1352 seconds. T2 = 34.3876 seconds. T3 = 35.1052
+ T4 = 18.218 seconds. T5 = 2.60916 seconds. T6 = 306.079
+ T7 = 151.465 seconds. T8 = 18.8196 seconds. T9 = 0.0253159
+THIS IS ITERATION: 875 kinematic energy is: 1.6419e+12 max velocity is: 401.593 max Omega is: 229.725
+Largest contact list is: 2159 #islands: 113831 total contact: 36566
+Largest contact list is: 2636 #islands: 113928 total contact: 36620
+Largest contact list is: 1296 #islands: 113873 total contact: 35854
+Largest contact list is: 1333 #islands: 114144 total contact: 35542
+Largest contact list is: 1035 #islands: 114046 total contact: 35562
+ T1 = 17.3747 seconds. T2 = 34.8605 seconds. T3 = 35.4661
+ T4 = 18.4702 seconds. T5 = 2.66266 seconds. T6 = 310.728
+ T7 = 153.455 seconds. T8 = 19.072 seconds. T9 = 0.0256456
+THIS IS ITERATION: 880 kinematic energy is: 1.63188e+12 max velocity is: 325.754 max Omega is: 229.61
+Largest contact list is: 2475 #islands: 114083 total contact: 36015
+Largest contact list is: 2331 #islands: 113936 total contact: 37189
+Largest contact list is: 1320 #islands: 113941 total contact: 36801
+Largest contact list is: 1176 #islands: 113833 total contact: 36396
+Largest contact list is: 1412 #islands: 113957 total contact: 35855
+ T1 = 17.5973 seconds. T2 = 35.3471 seconds. T3 = 35.7361
+ T4 = 18.7193 seconds. T5 = 2.71821 seconds. T6 = 315.662
+ T7 = 155.437 seconds. T8 = 19.3274 seconds. T9 = 0.0259827
+THIS IS ITERATION: 885 kinematic energy is: 1.62246e+12 max velocity is: 325.614 max Omega is: 229.496
+Largest contact list is: 2601 #islands: 113948 total contact: 36320
+Largest contact list is: 1079 #islands: 114132 total contact: 36044
+Largest contact list is: 860 #islands: 114048 total contact: 35396
+Largest contact list is: 3222 #islands: 114248 total contact: 36489
+Largest contact list is: 2728 #islands: 114034 total contact: 36478
+ T1 = 17.8658 seconds. T2 = 35.811 seconds. T3 = 36.0006
+ T4 = 18.965 seconds. T5 = 2.77135 seconds. T6 = 321.011
+ T7 = 157.428 seconds. T8 = 19.5874 seconds. T9 = 0.0263407
+THIS IS ITERATION: 890 kinematic energy is: 1.6132e+12 max velocity is: 325.458 max Omega is: 229.381
+Largest contact list is: 2225 #islands: 113976 total contact: 36728
+Largest contact list is: 1122 #islands: 113944 total contact: 36138
+Largest contact list is: 1567 #islands: 113916 total contact: 36702
+Largest contact list is: 1410 #islands: 113774 total contact: 36699
+Largest contact list is: 4555 #islands: 113862 total contact: 37119
+ T1 = 18.1071 seconds. T2 = 36.3039 seconds. T3 = 36.2644
+ T4 = 19.213 seconds. T5 = 2.82634 seconds. T6 = 326.426
+ T7 = 159.413 seconds. T8 = 19.8522 seconds. T9 = 0.0266785
+THIS IS ITERATION: 895 kinematic energy is: 1.60399e+12 max velocity is: 325.293 max Omega is: 229.266
+Largest contact list is: 1077 #islands: 113490 total contact: 36573
+Largest contact list is: 1402 #islands: 113643 total contact: 36631
+Largest contact list is: 1176 #islands: 113645 total contact: 36700
+Largest contact list is: 2780 #islands: 113690 total contact: 36992
+Largest contact list is: 1573 #islands: 113811 total contact: 36786
+ T1 = 18.3202 seconds. T2 = 36.7765 seconds. T3 = 36.5288
+ T4 = 19.4582 seconds. T5 = 2.87761 seconds. T6 = 331.054
+ T7 = 161.392 seconds. T8 = 20.1061 seconds. T9 = 0.0270218
+THIS IS ITERATION: 900 kinematic energy is: 1.59568e+12 max velocity is: 325.127 max Omega is: 229.152
+Largest contact list is: 1423 #islands: 113765 total contact: 36281
+Largest contact list is: 1099 #islands: 113745 total contact: 36250
+Largest contact list is: 1156 #islands: 113835 total contact: 35918
+Largest contact list is: 1387 #islands: 113843 total contact: 36102
+Largest contact list is: 1544 #islands: 113756 total contact: 36500
+ T1 = 18.5644 seconds. T2 = 37.2572 seconds. T3 = 36.7934
+ T4 = 19.7029 seconds. T5 = 2.92435 seconds. T6 = 335.159
+ T7 = 163.373 seconds. T8 = 20.3568 seconds. T9 = 0.0273741
+THIS IS ITERATION: 905 kinematic energy is: 1.58666e+12 max velocity is: 324.953 max Omega is: 229.037
+Largest contact list is: 1544 #islands: 113706 total contact: 36355
+Largest contact list is: 1132 #islands: 113739 total contact: 36031
+Largest contact list is: 1243 #islands: 113690 total contact: 36251
+Largest contact list is: 1312 #islands: 113849 total contact: 36206
+Largest contact list is: 3342 #islands: 113718 total contact: 37243
+ T1 = 18.8202 seconds. T2 = 37.7294 seconds. T3 = 37.0579
+ T4 = 19.9482 seconds. T5 = 2.99667 seconds. T6 = 339.958
+ T7 = 165.352 seconds. T8 = 20.6094 seconds. T9 = 0.0277122
+THIS IS ITERATION: 910 kinematic energy is: 1.57767e+12 max velocity is: 324.769 max Omega is: 228.922
+Largest contact list is: 3375 #islands: 113516 total contact: 37138
+Largest contact list is: 1386 #islands: 113795 total contact: 37053
+Largest contact list is: 1253 #islands: 113764 total contact: 36119
+Largest contact list is: 1114 #islands: 113819 total contact: 35749
+Largest contact list is: 1242 #islands: 113734 total contact: 36222
+ T1 = 19.0686 seconds. T2 = 38.2089 seconds. T3 = 37.3233
+ T4 = 20.1933 seconds. T5 = 3.04888 seconds. T6 = 344.622
+ T7 = 167.336 seconds. T8 = 20.8609 seconds. T9 = 0.0280865
+THIS IS ITERATION: 915 kinematic energy is: 1.5692e+12 max velocity is: 392.555 max Omega is: 228.808
+Largest contact list is: 1444 #islands: 113811 total contact: 36478
+Largest contact list is: 1269 #islands: 114074 total contact: 36066
+Largest contact list is: 1198 #islands: 113868 total contact: 35902
+Largest contact list is: 1809 #islands: 114012 total contact: 36518
+Largest contact list is: 1496 #islands: 113644 total contact: 36284
+ T1 = 19.3125 seconds. T2 = 38.6705 seconds. T3 = 37.59
+ T4 = 20.4389 seconds. T5 = 3.06939 seconds. T6 = 348.91
+ T7 = 169.323 seconds. T8 = 21.1138 seconds. T9 = 0.0284013
+THIS IS ITERATION: 920 kinematic energy is: 1.56091e+12 max velocity is: 392.355 max Omega is: 228.694
+Largest contact list is: 1437 #islands: 113629 total contact: 36800
+Largest contact list is: 1381 #islands: 113756 total contact: 36467
+Largest contact list is: 1475 #islands: 113564 total contact: 36551
+Largest contact list is: 1381 #islands: 113734 total contact: 36635
+Largest contact list is: 1407 #islands: 113856 total contact: 35863
+ T1 = 19.5507 seconds. T2 = 39.1432 seconds. T3 = 37.8575
+ T4 = 20.6852 seconds. T5 = 3.1238 seconds. T6 = 353.119
+ T7 = 171.302 seconds. T8 = 21.366 seconds. T9 = 0.0287261
+THIS IS ITERATION: 925 kinematic energy is: 1.55255e+12 max velocity is: 392.156 max Omega is: 228.579
+Largest contact list is: 1395 #islands: 113803 total contact: 36424
+Largest contact list is: 1695 #islands: 113680 total contact: 36417
+Largest contact list is: 1446 #islands: 113690 total contact: 36060
+Largest contact list is: 3333 #islands: 113703 total contact: 37164
+Largest contact list is: 2105 #islands: 113806 total contact: 36812
+ T1 = 19.7863 seconds. T2 = 39.6186 seconds. T3 = 38.1246
+ T4 = 20.9302 seconds. T5 = 3.17927 seconds. T6 = 358.297
+ T7 = 173.289 seconds. T8 = 21.6214 seconds. T9 = 0.0290762
+THIS IS ITERATION: 930 kinematic energy is: 1.54446e+12 max velocity is: 391.946 max Omega is: 228.465
+Largest contact list is: 1117 #islands: 113729 total contact: 36053
+Largest contact list is: 1354 #islands: 113736 total contact: 36401
+Largest contact list is: 1150 #islands: 113814 total contact: 36132
+Largest contact list is: 1296 #islands: 113700 total contact: 36054
+Largest contact list is: 1863 #islands: 113574 total contact: 36254
+ T1 = 19.9871 seconds. T2 = 40.1062 seconds. T3 = 38.3973
+ T4 = 21.1785 seconds. T5 = 3.22688 seconds. T6 = 362.459
+ T7 = 175.28 seconds. T8 = 21.8781 seconds. T9 = 0.0293904
+THIS IS ITERATION: 935 kinematic energy is: 1.53678e+12 max velocity is: 391.739 max Omega is: 228.351
+Largest contact list is: 1347 #islands: 113675 total contact: 36380
+Largest contact list is: 2240 #islands: 113441 total contact: 37262
+Largest contact list is: 1316 #islands: 113481 total contact: 36533
+Largest contact list is: 1764 #islands: 113558 total contact: 36534
+Largest contact list is: 1923 #islands: 113612 total contact: 36386
+ T1 = 20.2056 seconds. T2 = 40.5832 seconds. T3 = 38.6628
+ T4 = 21.422 seconds. T5 = 3.28531 seconds. T6 = 367.254
+ T7 = 177.271 seconds. T8 = 22.1384 seconds. T9 = 0.0297356
+THIS IS ITERATION: 940 kinematic energy is: 1.5286e+12 max velocity is: 391.527 max Omega is: 226.73
+Largest contact list is: 1731 #islands: 113398 total contact: 36568
+Largest contact list is: 1467 #islands: 113551 total contact: 36145
+Largest contact list is: 1369 #islands: 113552 total contact: 36148
+Largest contact list is: 1285 #islands: 113642 total contact: 36288
+Largest contact list is: 1528 #islands: 113702 total contact: 36390
+ T1 = 20.4503 seconds. T2 = 41.0575 seconds. T3 = 38.9294
+ T4 = 21.6654 seconds. T5 = 3.33098 seconds. T6 = 371.487
+ T7 = 179.261 seconds. T8 = 22.3924 seconds. T9 = 0.0300716
+THIS IS ITERATION: 945 kinematic energy is: 1.52118e+12 max velocity is: 472.066 max Omega is: 210.374
+Largest contact list is: 1420 #islands: 113626 total contact: 36416
+Largest contact list is: 3097 #islands: 113590 total contact: 36890
+Largest contact list is: 1644 #islands: 113703 total contact: 36572
+Largest contact list is: 1223 #islands: 113560 total contact: 36087
+Largest contact list is: 2391 #islands: 113576 total contact: 36673
+ T1 = 20.7199 seconds. T2 = 41.5195 seconds. T3 = 39.4372
+ T4 = 21.9135 seconds. T5 = 3.37206 seconds. T6 = 376.546
+ T7 = 181.249 seconds. T8 = 22.6494 seconds. T9 = 0.0304096
+THIS IS ITERATION: 950 kinematic energy is: 1.51251e+12 max velocity is: 471.808 max Omega is: 210.269
+Largest contact list is: 1511 #islands: 113414 total contact: 36287
+Largest contact list is: 1548 #islands: 113426 total contact: 36058
+Largest contact list is: 3210 #islands: 113297 total contact: 36989
+Largest contact list is: 1358 #islands: 113336 total contact: 36568
+Largest contact list is: 1258 #islands: 113507 total contact: 35999
+ T1 = 20.9209 seconds. T2 = 41.9986 seconds. T3 = 39.9035
+ T4 = 22.1579 seconds. T5 = 3.43873 seconds. T6 = 381.331
+ T7 = 183.233 seconds. T8 = 22.9045 seconds. T9 = 0.0307659
+THIS IS ITERATION: 955 kinematic energy is: 1.50429e+12 max velocity is: 471.584 max Omega is: 210.164
+Largest contact list is: 1570 #islands: 113493 total contact: 35936
+Largest contact list is: 1559 #islands: 113420 total contact: 35978
+Largest contact list is: 1296 #islands: 113394 total contact: 36354
+Largest contact list is: 1293 #islands: 113349 total contact: 36877
+Largest contact list is: 3457 #islands: 113217 total contact: 37201
+ T1 = 21.246 seconds. T2 = 42.4513 seconds. T3 = 40.6539
+ T4 = 22.4027 seconds. T5 = 3.49212 seconds. T6 = 386.308
+ T7 = 185.213 seconds. T8 = 23.1571 seconds. T9 = 0.0311182
+THIS IS ITERATION: 960 kinematic energy is: 1.49614e+12 max velocity is: 471.333 max Omega is: 210.059
+Largest contact list is: 2746 #islands: 113277 total contact: 36961
+Largest contact list is: 1217 #islands: 113341 total contact: 36840
+Largest contact list is: 2856 #islands: 113546 total contact: 36727
+Largest contact list is: 1380 #islands: 113348 total contact: 36593
+Largest contact list is: 1285 #islands: 113266 total contact: 36602
+ T1 = 21.4654 seconds. T2 = 42.9434 seconds. T3 = 41.3907
+ T4 = 22.6475 seconds. T5 = 3.54121 seconds. T6 = 391.3
+ T7 = 187.224 seconds. T8 = 23.4124 seconds. T9 = 0.0314769
+THIS IS ITERATION: 965 kinematic energy is: 1.48826e+12 max velocity is: 471.105 max Omega is: 209.954
+Largest contact list is: 3347 #islands: 113367 total contact: 37214
+Largest contact list is: 1163 #islands: 113384 total contact: 36230
+Largest contact list is: 1335 #islands: 113250 total contact: 36292
+Largest contact list is: 1604 #islands: 113395 total contact: 35891
+Largest contact list is: 1159 #islands: 113381 total contact: 35889
+ T1 = 21.6942 seconds. T2 = 43.4245 seconds. T3 = 41.7792
+ T4 = 22.8912 seconds. T5 = 3.57189 seconds. T6 = 395.905
+ T7 = 189.229 seconds. T8 = 23.6711 seconds. T9 = 0.0319585
+THIS IS ITERATION: 970 kinematic energy is: 1.4804e+12 max velocity is: 470.878 max Omega is: 209.849
+Largest contact list is: 1420 #islands: 113315 total contact: 36383
+Largest contact list is: 1249 #islands: 113283 total contact: 36637
+Largest contact list is: 3645 #islands: 113263 total contact: 37419
+Largest contact list is: 1434 #islands: 113394 total contact: 36470
+Largest contact list is: 1356 #islands: 113349 total contact: 36335
+ T1 = 21.9239 seconds. T2 = 43.9085 seconds. T3 = 42.2188
+ T4 = 23.1365 seconds. T5 = 3.66028 seconds. T6 = 400.711
+ T7 = 191.215 seconds. T8 = 23.9274 seconds. T9 = 0.0322841
+THIS IS ITERATION: 975 kinematic energy is: 1.47278e+12 max velocity is: 470.676 max Omega is: 209.744
+Largest contact list is: 1385 #islands: 113293 total contact: 36131
+Largest contact list is: 2400 #islands: 113159 total contact: 37103
+Largest contact list is: 1650 #islands: 113234 total contact: 36882
+Largest contact list is: 2048 #islands: 113274 total contact: 37490
+Largest contact list is: 1390 #islands: 113416 total contact: 36457
+ T1 = 22.1718 seconds. T2 = 44.4153 seconds. T3 = 42.4922
+ T4 = 23.3815 seconds. T5 = 3.69211 seconds. T6 = 405.632
+ T7 = 193.249 seconds. T8 = 24.1827 seconds. T9 = 0.0326439
+THIS IS ITERATION: 980 kinematic energy is: 1.46469e+12 max velocity is: 470.437 max Omega is: 209.639
+Largest contact list is: 5541 #islands: 113326 total contact: 38155
+Largest contact list is: 1401 #islands: 113422 total contact: 36562
+Largest contact list is: 4967 #islands: 113040 total contact: 38175
+Largest contact list is: 1637 #islands: 113186 total contact: 37175
+Largest contact list is: 3613 #islands: 113115 total contact: 37013
+ T1 = 22.4121 seconds. T2 = 44.9179 seconds. T3 = 42.7675
+ T4 = 23.6271 seconds. T5 = 3.77474 seconds. T6 = 413.049
+ T7 = 195.253 seconds. T8 = 24.4398 seconds. T9 = 0.0330081
+THIS IS ITERATION: 985 kinematic energy is: 1.45701e+12 max velocity is: 470.193 max Omega is: 209.534
+Largest contact list is: 3572 #islands: 113324 total contact: 37399
+Largest contact list is: 1666 #islands: 113206 total contact: 36622
+Largest contact list is: 4491 #islands: 113408 total contact: 37788
+Largest contact list is: 3995 #islands: 113317 total contact: 37320
+Largest contact list is: 1246 #islands: 113331 total contact: 36345
+ T1 = 22.646 seconds. T2 = 45.4208 seconds. T3 = 43.0434
+ T4 = 23.8723 seconds. T5 = 3.86603 seconds. T6 = 419.719
+ T7 = 197.273 seconds. T8 = 24.6974 seconds. T9 = 0.0333817
+THIS IS ITERATION: 990 kinematic energy is: 1.44954e+12 max velocity is: 469.975 max Omega is: 209.43
+Largest contact list is: 1497 #islands: 113322 total contact: 36209
+Largest contact list is: 1484 #islands: 113466 total contact: 36110
+Largest contact list is: 1254 #islands: 113346 total contact: 36264
+Largest contact list is: 1826 #islands: 113298 total contact: 36695
+Largest contact list is: 1520 #islands: 113472 total contact: 36158
+ T1 = 22.8825 seconds. T2 = 45.8981 seconds. T3 = 43.4281
+ T4 = 24.1214 seconds. T5 = 3.89657 seconds. T6 = 424.147
+ T7 = 199.255 seconds. T8 = 24.9519 seconds. T9 = 0.0337296
+THIS IS ITERATION: 995 kinematic energy is: 1.4424e+12 max velocity is: 475.387 max Omega is: 211.388
+Largest contact list is: 1314 #islands: 113476 total contact: 36123
+Largest contact list is: 1527 #islands: 113332 total contact: 36205
+Largest contact list is: 2629 #islands: 113344 total contact: 36794
+Largest contact list is: 1607 #islands: 113315 total contact: 36570
+Largest contact list is: 2768 #islands: 113350 total contact: 37028
+ T1 = 23.1369 seconds. T2 = 46.3883 seconds. T3 = 43.7023
+ T4 = 24.3659 seconds. T5 = 3.91745 seconds. T6 = 429.276
+ T7 = 201.235 seconds. T8 = 25.2047 seconds. T9 = 0.0340922
+THIS IS ITERATION: 1000 kinematic energy is: 1.43531e+12 max velocity is: 475.122 max Omega is: 211.282
+num_procs is: 64 Simulation Time = 0 hrs, 18 mins, 41.6952 seconds

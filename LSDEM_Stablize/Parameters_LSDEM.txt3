@@ -1,0 +1,64 @@
+## INPUT PARAMETERS FOR LEVEL SET CHARACTERIZATION ##
+
+## BEGINNING OF FREE COMMENT SECTION ##
+
+## END OF FREE COMMENT SECTION ##
+
+## DO NOT MODIFY ANYTHING BELOW THIS LINE EXCEPT ON THE RIGHT SIDE OF THE COLONS (:) ##
+
+## INPUT PARAMETERS BEGIN HERE ##
+
+ALL UNITS ARE IN SI [meters, seconds, kg, etc]. Corrections are done for voxels in the MainTest.cpp file
+
+#############################
+### File Paths and Names ####
+
+Test Name: "7-6B_1000"
+InitState: "InitState"
+Output Directory: "7-6B_1000_1"
+
+############################
+
+### Restart ####
+
+massScaling: 1
+coordinate number: 8
+resolution: 1
+
+############################
+
+### Time-steps ####
+
+Time-steps: 6001
+Time-Step Multiplier: 0.1
+Output Frequency: 100
+Dynamic Binning: 0
+Re-binning Frequency: 2000
+
+############################
+
+### Scaling fator ####
+
+Microns per voxel: 1e-2
+
+############################
+
+### Grain Information ###
+
+Maximum Grain ID: 50375
+Grain Density: 2650 # kg/m^3
+kn: 30000 # N/m or Kg/s^2
+ks: 27000 # N/m or Kg/s^2
+mu: 0.8
+gdamping: 2.5 # s^-1
+
+############################
+
+### Computational Domain Information ###
+
+worldWidth: 600
+worldLength: 600
+worldHeight: 1200
+initHeight: 1200
+initRadius: 300
+wallToGrainStiffness: 0.5

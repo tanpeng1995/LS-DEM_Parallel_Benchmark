@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=Impulse
+#SBATCH --account=fc_demlbm
+#SBATCH --partition=savio2
+#SBATCH --qos=savio_normal
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=1
+#SBATCH --time=24:00:00
+export OMP_NUM_THREADS=8
+module load gcc openmpi
+mpirun -n 1 /global/home/users/tanpeng/LSDEM_Impulse_parallel/Main -n 4

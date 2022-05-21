@@ -1,0 +1,107 @@
+dimX: 2 dimY: 2 dimZ: 2
+finish loading 0 grains
+finish loading 1000 grains
+finish loading 2000 grains
+finish loading 3000 grains
+finish loading 4000 grains
+finish loading 5000 grains
+finish loading 6000 grains
+finish loading 7000 grains
+finish loading 8000 grains
+finish loading 9000 grains
+finish loading 10000 grains
+finish loading 11000 grains
+finish loading 12000 grains
+largest possible radius is: 43.7688
+################## LS-DEM #####################
+Begin Simulation and Good Luck, Author: Peng TAN (Berkeley)
+Used processor(s) is: 8 Time-Step: 0.0187999 tmax: 100
+Simuation type is settlement in cylinder
+For strain control simulation, dHeight = 0
+Output Directory: /global/scratch/users/tanpeng/LSDEM_Modelling/Output/parallel_benchmark_3/
+output at step: 0
+ Force Interaction Time = 2.8214 seconds.  Border Communication Time = 3.59366 seconds
+ Particle Migration Time = 0.000283765 seconds.  Info Update Time = 0.0248775 seconds
+ THIS IS ITERATION: 0
+
+ Force Interaction Time = 16.57 seconds.  Border Communication Time = 3.63953 seconds
+ Particle Migration Time = 0.00122818 seconds.  Info Update Time = 0.0941161 seconds
+ THIS IS ITERATION: 5
+
+ Force Interaction Time = 30.4723 seconds.  Border Communication Time = 3.70276 seconds
+ Particle Migration Time = 0.00183661 seconds.  Info Update Time = 0.16161 seconds
+ THIS IS ITERATION: 10
+
+ Force Interaction Time = 44.2892 seconds.  Border Communication Time = 3.7627 seconds
+ Particle Migration Time = 0.00246537 seconds.  Info Update Time = 0.226967 seconds
+ THIS IS ITERATION: 15
+
+ Force Interaction Time = 58.0372 seconds.  Border Communication Time = 3.81929 seconds
+ Particle Migration Time = 0.00323111 seconds.  Info Update Time = 0.283524 seconds
+ THIS IS ITERATION: 20
+
+ Force Interaction Time = 71.7829 seconds.  Border Communication Time = 3.88334 seconds
+ Particle Migration Time = 0.00389707 seconds.  Info Update Time = 0.338698 seconds
+ THIS IS ITERATION: 25
+
+ Force Interaction Time = 85.571 seconds.  Border Communication Time = 3.95384 seconds
+ Particle Migration Time = 0.00459307 seconds.  Info Update Time = 0.404268 seconds
+ THIS IS ITERATION: 30
+
+ Force Interaction Time = 99.1837 seconds.  Border Communication Time = 4.02242 seconds
+ Particle Migration Time = 0.00526821 seconds.  Info Update Time = 0.459877 seconds
+ THIS IS ITERATION: 35
+
+ Force Interaction Time = 112.738 seconds.  Border Communication Time = 4.13496 seconds
+ Particle Migration Time = 0.00584232 seconds.  Info Update Time = 0.516584 seconds
+ THIS IS ITERATION: 40
+
+ Force Interaction Time = 126.25 seconds.  Border Communication Time = 4.20118 seconds
+ Particle Migration Time = 0.00642272 seconds.  Info Update Time = 0.572079 seconds
+ THIS IS ITERATION: 45
+
+ Force Interaction Time = 139.908 seconds.  Border Communication Time = 4.25434 seconds
+ Particle Migration Time = 0.00710714 seconds.  Info Update Time = 0.646792 seconds
+ THIS IS ITERATION: 50
+
+ Force Interaction Time = 153.716 seconds.  Border Communication Time = 4.29917 seconds
+ Particle Migration Time = 0.00774292 seconds.  Info Update Time = 0.702295 seconds
+ THIS IS ITERATION: 55
+
+ Force Interaction Time = 167.55 seconds.  Border Communication Time = 4.35859 seconds
+ Particle Migration Time = 0.00842386 seconds.  Info Update Time = 0.758215 seconds
+ THIS IS ITERATION: 60
+
+ Force Interaction Time = 181.412 seconds.  Border Communication Time = 4.40632 seconds
+ Particle Migration Time = 0.00904276 seconds.  Info Update Time = 0.813723 seconds
+ THIS IS ITERATION: 65
+
+ Force Interaction Time = 195.3 seconds.  Border Communication Time = 4.44897 seconds
+ Particle Migration Time = 0.00973591 seconds.  Info Update Time = 0.877742 seconds
+ THIS IS ITERATION: 70
+
+ Force Interaction Time = 209.139 seconds.  Border Communication Time = 4.49532 seconds
+ Particle Migration Time = 0.0104142 seconds.  Info Update Time = 0.933175 seconds
+ THIS IS ITERATION: 75
+
+ Force Interaction Time = 222.986 seconds.  Border Communication Time = 4.55438 seconds
+ Particle Migration Time = 0.0109994 seconds.  Info Update Time = 0.988729 seconds
+ THIS IS ITERATION: 80
+
+ Force Interaction Time = 237.329 seconds.  Border Communication Time = 4.60107 seconds
+ Particle Migration Time = 0.0116899 seconds.  Info Update Time = 1.05132 seconds
+ THIS IS ITERATION: 85
+
+ Force Interaction Time = 251.724 seconds.  Border Communication Time = 4.68151 seconds
+ Particle Migration Time = 0.0122394 seconds.  Info Update Time = 1.11303 seconds
+ THIS IS ITERATION: 90
+
+ Force Interaction Time = 266.119 seconds.  Border Communication Time = 4.74085 seconds
+ Particle Migration Time = 0.0128874 seconds.  Info Update Time = 1.17341 seconds
+ THIS IS ITERATION: 95
+
+num_procs is: 8 Simulation Time = 283.695 seconds
+num_procs is: 8 Force Interaction Time = 277.638 seconds
+num_procs is: 8 Border Communication Time = 4.78093 seconds
+num_procs is: 8 Particle Migration Time = 0.0133882 seconds
+num_procs is: 8 Info Update Time = 1.21823 seconds

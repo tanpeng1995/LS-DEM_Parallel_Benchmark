@@ -1,0 +1,74 @@
+## INPUT PARAMETERS FOR LEVEL SET CHARACTERIZATION ##
+
+## BEGINNING OF FREE COMMENT SECTION ##
+
+## END OF FREE COMMENT SECTION ##
+
+## DO NOT MODIFY ANYTHING BELOW THIS LINE EXCEPT ON THE RIGHT SIDE OF THE COLONS (:) ##
+
+## INPUT PARAMETERS BEGIN HERE ##
+
+ALL UNITS ARE IN SI [meters, seconds, kg, etc]. Corrections are done for voxels in the MainTest.cpp file
+
+#############################
+### File Paths and Names ####
+
+Test Name: "impulse_parallel"
+
+############################
+
+### Restart ####
+
+Restart: 0
+
+############################
+
+### Time-steps ####
+
+steps: 10001
+Time-Step:1.e-3
+global damping:0.1
+threshold: 1e-2
+similarity: 0.
+mass scaling: 0
+contact damping: 0.01
+
+############################
+
+### Output Frequency ####
+
+Output Frequency: 1000
+
+############################
+
+### Scaling fator ####
+
+Microns per voxel: 1e-1
+
+############################
+
+### Grain Label Parameters ###
+
+Maximum Grain ID: 155016
+target Grain ID: 19377
+
+############################
+
+### Grain Information ###
+
+Grain Density: 2650 # kg/m^3
+mu: 0.65
+
+############################
+
+### Computational Domain Information ###
+
+worldWidth: 1200
+worldLength: 1200
+worldHeight: 1200
+targetWidth:600
+targetLength: 600
+targetHeight: 600
+wallStiffness: 10000
+Dynamic Binning: 0
+Re-binning Frequency: 2000

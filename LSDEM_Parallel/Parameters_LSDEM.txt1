@@ -1,0 +1,117 @@
+## INPUT PARAMETERS FOR LEVEL SET CHARACTERIZATION ##
+
+## BEGINNING OF FREE COMMENT SECTION ##
+
+## END OF FREE COMMENT SECTION ##
+
+## DO NOT MODIFY ANYTHING BELOW THIS LINE EXCEPT ON THE RIGHT SIDE OF THE COLONS (:) ##
+
+## INPUT PARAMETERS BEGIN HERE ##
+
+ALL UNITS ARE IN SI [meters, seconds, kg, etc]. Corrections are done for voxels in the MainTest.cpp file
+
+#############################
+### File Paths and Names ####
+
+Test Name: "7-6B_cylinder"
+InitState: "lasthope1"
+Output Directory: "7-6B_cylinder_3"
+
+############################
+
+### Restart ####
+
+Restart: 0
+massScaling: 1
+massScalingCoefficient: 20.0
+output forceChain: 1
+coordinate number: 16
+resolution: 2
+
+############################
+
+### Loading Scheme ####
+loadingStages:
+
+############################
+
+### Time-steps ####
+
+Time-steps: 16000
+Consolidation-Steps: 1000
+
+############################
+
+### Time-Step Multiplier ####
+
+Time-Step Multiplier: 0.2
+
+############################
+
+### Output Frequency ####
+
+Output Frequency: 100
+
+############################
+
+### Scaling fator ####
+
+Microns per voxel: 10e-6
+
+############################
+
+### Grain Label Parameters ###
+
+Maximum Grain ID: 71692
+
+############################
+
+### Grain Information ###
+
+Grain Density: 2650 # kg/m^3
+kn: 30000 # N/m or Kg/s^2
+ks: 27000 # N/m or Kg/s^2
+mu: 0.8
+gdamping: 1.0 # s^-1
+
+############################
+
+### Computational Domain Information ###
+
+worldWidth: 600 # m
+worldLength: 600 # m
+worldHeight: 1300 # m
+Dynamic Binning: 0
+Re-binning Frequency: 2000
+
+############################
+
+### Flexible Membrane Information ###
+
+Initial Height of Traxial Apparatus: 1300
+Initial Radius of Traxial Apparatus: 300
+Initial Radius of Bonded Spheres: 10
+Confining Pressure: 100000 # N/m^2 or Kg/(ms^2)
+Bonded Spherical Wall Density: 1000 # kg/m^3
+Wall To Grain Normal Stiffness: 30000 # N/m
+Wall To Wall Normal Stiffness: 50 # N/m
+Wall To Wall Shear Stiffness: 50 # N/m
+
+############################
+
+### Rigid Wall Information ###
+Plane Walls to Grains Friction: 0.5
+
+############################
+
+### Cylinder Cap Information ###
+Cap Height: 700
+Cap Radius: 500
+Cap Density: 500 # kg/m^3
+
+############################
+
+### Loading Type Control ###
+strain control rate: -0.03
+
+############################

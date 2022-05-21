@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=triaxial
+#SBATCH --account=fc_demlbm
+#SBATCH --partition=savio2
+#SBATCH --qos=savio_normal
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=17
+#SBATCH --cpus-per-task=1
+#SBATCH --time=72:00:00
+export OMP_NUM_THREADS=16
+module load gcc openmpi
+mpirun -n 17 /global/home/users/tanpeng/LSDEM_Parallel/Main -n 16

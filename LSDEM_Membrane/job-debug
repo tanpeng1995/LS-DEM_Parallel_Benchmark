@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=debug
+#SBATCH --account=fc_demlbm
+#SBATCH --partition=savio2
+#SBATCH --qos=savio_debug
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=16
+#SBATCH --cpus-per-task=1
+#SBATCH --time=00:30:00
+export OMP_NUM_THREADS=8
+module load gcc openmpi
+mpirun -n 16 /global/home/users/tanpeng/LSDEM_Membrane/Main -n 8

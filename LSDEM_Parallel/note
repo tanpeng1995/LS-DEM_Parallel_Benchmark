@@ -1,0 +1,25 @@
+0015: 7-6B_cylinder, p=100kpa
+0041: belgium, p =100kpa
+1092: 7-6B_cylinder, p=500kpa, no friction platen
+1678: belgium, membrane-ball contact stiffness 30000, p=200kpa, friction platen=0.5
+1690: 7-6B_cylinder, p = 100kpa, friction plate=0.5, contact stiffness 30000
+2103: belgium, p=100kpa, stiffness 30000, friction platen=0.5
+2779: the same as above, stiffness 50000
+2800: the same as above, platen radiu large
+2809: 7-6B_cylinder, p = 100kpa, particle friction=0.55, platen=0.5, large platen, stiffness = 30000
+2863: the same as above, but with membrane damping
+2865: belgium, p = 100kpa, friction=0.8, platen=0.5, large platen, stiffness = 30000, memrbane frequency = 1, no damping
+2924: the same as above, friction=0.6
+3702: 7-6B_cylinder rotate platen, light platen, friction = 0.55
+3947: 7-6B_cylinder the same as above, friction = 0.3
+4677: belgium, better init_condition
+6567: 7-6B_cylinder large p = 250kpa, friction = 0.55
+6568: the same as before, small p = 50kpa
+8933: make platen rotate!!!! mu = 0.8, p = 100kpa
+1717: p = 200kpa, membrane k = 50
+new: the same as before, k = 20
+7515: mu = 0.62
+7944: mu = 0.75
+7956: 7-6B_cylinder mu = 0.6
+2511: 7-6B_cylinder mu = 0.7
+3032: 7-6B_cylinder mu = 0.8
