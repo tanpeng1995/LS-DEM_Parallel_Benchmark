@@ -38,4 +38,5 @@ For more details, go into each folder and there will be more explanations
 ## LSDEM_Test_ducplicate
 - for very large parallel benchmark problem, we duplicated some avatars from existing ones, e.g, to expand the domain of size 200x200x200 to 400x400x400 by duplicating 8 copies of existing avatars
 
-
+## vtk
+- all visualization code
