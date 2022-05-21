@@ -47,3 +47,5 @@ For more details, go into each folder and there will be more explanations
 ## binary_watershed
 - contains all notebook for image pre-processing
 
+## fast_marching
+- example to use fast marching method to create arbitray topography
