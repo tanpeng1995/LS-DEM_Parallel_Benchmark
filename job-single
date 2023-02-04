@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=LSDEM
+#SBATCH --account=ac_demlbm
+#SBATCH --partition=savio2
+#SBATCH --qos=savio_normal
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=4
+#SBATCH --time=10:00:00
+export OMP_NUM_THREADS=1
+module load gcc openmpi
+mpirun -n 1 /global/home/users/tanpeng/LSDEM_Test_benchmark/Main -n 4
